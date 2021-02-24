@@ -6,6 +6,8 @@ Boisterous
 Cheering
 Cold
 Dead
+Drunk
+Drunken
 Fat
 Flaming
 Good
@@ -18,6 +20,7 @@ Little
 Meagre
 Missing
 Misty
+Naughty
 Old
 Prancing
 Refreshing
@@ -25,6 +28,7 @@ Roaring
 Rolling
 Round
 Singing
+Sleepy
 Sweet
 Thick
 Wailing

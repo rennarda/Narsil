@@ -1,10 +1,10 @@
-The [InnSecondName|People|Race]
-The [InnFirstName] [InnSecondName]
-The [InnFirstName] [People|Race]
-The [People|Race]'s [InnSecondName|bodypart]
-The [Number] [InnSecondName|People|Race]s
-The [Number] [InnFirstName] [InnSecondName]s
-The [Ordinal] [InnSecondName|People|Race]
-The [Ordinal] [InnFirstName] [InnSecondName]
-The [People|Race] and the [People|Race]
-The [Animal] and the [Animal]
+The [Disposition:0.2] [InnSecondName]
+The [Disposition:0.05] [InnFirstName] [InnSecondName]
+The [Disposition:0.1] [InnFirstName] [People|Race]
+The [Disposition:0.1] [People|Race]'s [InnSecondName|bodypart]
+The [Number] [Disposition:0.05] [InnSecondName]s
+The [Number] [Disposition:0.05] [InnFirstName] [InnSecondName]s
+The [Ordinal] [Disposition:0.05] [InnSecondName|People|Race]
+The [Ordinal] [Disposition:0.05] [InnFirstName] [InnSecondName]
+The [Disposition:0.1] [People|Race] and the [Disposition:0.1] [People|Race]
+The [Disposition:0.1] [Animal] and the [Disposition:0.1] [Animal]

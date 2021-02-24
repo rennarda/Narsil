@@ -29,14 +29,27 @@ struct PhraseGenerator {
     }
 
     func expand(string: String) -> String {
-        let regEx = try! NSRegularExpression(pattern: "\\[([\\w|]*)]", options: [])
+        let regEx = try! NSRegularExpression(pattern: "\\[([\\w|]*):?(\\d+\\.\\d+)?]", options: [])
         guard let match = regEx.firstMatch(in: string, options: [], range: NSRange(string.startIndex..<string.endIndex, in: string))
         else { return string }
 
         let outerMatch = match.range(at: 0)
         let innerMatch = match.range(at: 1)
-        let substitution = substitute(for: String(string.substring(innerMatch)))
-        return expand(string: string.replacingCharacters(in: string.swiftRange(outerMatch), with: substitution))
+        let chanceMatch = match.range(at: 2)
+        var chance: Double = 1.0
+        if chanceMatch.location != NSNotFound {
+            chance = Double(string.substring(chanceMatch)) ?? 1.0
+        }
+        var substitution: String = ""
+        if Double.random(in: 0.0..<1.0) < chance {
+             substitution = substitute(for: String(string.substring(innerMatch)))
+        }
+        if string.contains(substitution){
+            // word already exists, try again!
+            return expand(string: string)
+        } else {
+            return expand(string: string.replacingCharacters(in: string.swiftRange(outerMatch), with: substitution))
+        }
     }
     
     mutating func loadWordLists(){

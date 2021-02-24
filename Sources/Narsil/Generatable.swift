@@ -19,7 +19,11 @@ extension Generatable {
         if patterns.count == 0 {
             loadPatterns()
         }
-        return generator.expand(string: patterns.randomElement()!)
+        let pattern = patterns.randomElement()!
+        return generator.expand(string: pattern)
+            .components(separatedBy: .whitespacesAndNewlines)
+            .filter { !$0.isEmpty }
+            .joined(separator: " ")
     }
     
     mutating func loadPatterns() {

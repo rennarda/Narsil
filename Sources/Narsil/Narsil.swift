@@ -7,11 +7,14 @@ struct Narsil {
         generator.loadWordLists()
         var innGenerator = Inn()
         var villageGenerator = Village()
+        var phrases: [String] = []
         for _ in 0..<100 {
             
 //            print(generator.expand(string: "The [InnFirstName|Number] [InnSecondName] at [villageprefix][villagesuffix] [villagesecond]"))
-            print(innGenerator.generate(with: generator) + " at " + villageGenerator.generate(with: generator))
+            phrases.append(innGenerator.generate(with: generator) + " at " + villageGenerator.generate(with: generator))
+//            print(innGenerator.generate(with: generator) + " at " + villageGenerator.generate(with: generator))
         }
+        print(phrases.sorted().joined(separator: "\n"))
     }
 }
 
