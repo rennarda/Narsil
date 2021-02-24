@@ -18,6 +18,7 @@ lamb
 lion
 mouse
 ox
+phoenix
 pidgeon
 rat
 raven
@@ -28,5 +29,7 @@ stag
 swan
 swine
 trout
+unicorn
 wild boar
 wolf
+wolverine

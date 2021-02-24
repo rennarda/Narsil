@@ -12,3 +12,7 @@ temple
 church
 castle
 fort
+east
+west
+north
+south

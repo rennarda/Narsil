@@ -1,9 +1,12 @@
 anchor
+anvil
 arms
 arrow
 barrel
 bell
 boot
+broom
+cauldron
 door
 feathers
 fiddle
@@ -19,9 +22,11 @@ pot
 sail
 shield
 ship
+shovel
 stool
 sun
 sword
 stars
 table
+tree
 wheel

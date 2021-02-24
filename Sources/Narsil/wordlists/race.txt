@@ -1,7 +1,11 @@
 dwarf
 elf
+pixie
+gnome
 giant
 goblin
 hobbit
+halfling
 man
 orc
+ogre
