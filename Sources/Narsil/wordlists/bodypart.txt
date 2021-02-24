@@ -12,3 +12,5 @@ nose
 tail
 tits
 toe
+tooth
+fang

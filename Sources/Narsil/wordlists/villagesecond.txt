@@ -49,3 +49,6 @@ view
 water
 well
 wreck
+shore
+isle
+bay

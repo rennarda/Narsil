@@ -12,6 +12,7 @@ pale
 pink
 purple
 red
+rusty
 silver
 teal
 vermillion

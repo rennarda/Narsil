@@ -13,9 +13,11 @@ forrester
 ghost
 girl
 hunter
+harp
 judge
 king
 knight
+lock
 maid
 mermaid
 miner

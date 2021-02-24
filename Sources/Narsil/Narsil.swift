@@ -21,12 +21,17 @@ struct Narsil {
 //                + villageGenerator.generate(with: generator)
 //            )
 
+//            phrases.append(
+//                    innGenerator.generate(with: generator)
+//                    + " in "
+//                    + villageGenerator.generate(with: generator)
+//            )
+
             phrases.append(
-                    innGenerator.generate(with: generator)
-                    + " in "
-                    + villageGenerator.generate(with: generator)
+                    villageGenerator.generate(with: generator)
             )
 
+            
 //            phrases.append(
 //                humanNameGenerator.generate(with: generator)
 //            )
