@@ -1,0 +1,100 @@
+allspice
+angelica
+anise
+barberry
+basil
+bay leaf
+borage
+burdock
+capers
+caraway
+cardamom
+cayenne
+celery
+celery leaf
+celery seed
+chamomile
+chervil
+chicory
+chilli
+chives
+cicely
+cilantro
+cinnamon
+citrus
+cloves
+costmary
+cumin
+curry leaf
+dill
+elderflower
+fennel
+fenugreek
+galangal
+garlic
+ginger
+hawthorn
+hibiscus
+horserasdish
+hyssop
+jasmine
+juniper
+lavender
+lemon
+lemon balm
+licorice
+lilac
+lime
+lime blossom
+lovage
+mace
+marigold
+marjoram
+mastic
+mint
+mistletoe
+musk
+mustard
+nasturtium
+nettle
+nigella
+nutmeg
+orange
+oregano
+paprika
+parsley
+passionflower
+pennyroyal
+pepper
+peppermint
+pine
+poppy seed
+raspberry
+red clover
+redcurrant
+rosemary
+saffron
+sage
+salak
+salal berry
+salmonberry
+salt essence
+savoury
+snapdragon
+sorrel
+sour essence
+spearmint
+star anise
+sweet essence
+tarragon
+thyme
+turmeric
+trumpet leaf
+valerian
+vanilla
+verbena
+violet
+watercress
+wild garlic
+wormwood
+yarrow

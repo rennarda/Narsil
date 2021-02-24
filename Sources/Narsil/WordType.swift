@@ -28,4 +28,19 @@ enum WordType: String, CaseIterable {
     case animal
     case object
     case building
+    case preparation
+    case pie
+    case ingredient
+    case vegetable
+    case meat
+    case fish
+    case fruit
+    case sauce
+    case sauceadjective
+    case flavour
+    case humanprefix
+    case humansuffix
+    case consonant
+    case vowel
+    case syllable
 }

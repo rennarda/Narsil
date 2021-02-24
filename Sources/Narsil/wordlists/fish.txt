@@ -1,0 +1,100 @@
+abalone
+amberjack
+anchovy
+angelfish
+archerfish
+barbel
+bass
+bonito
+bream
+brill
+carp
+catfish
+chub
+clams
+cockles
+cod
+coley
+cowfish
+crab
+crayfish
+cusk
+cuttlefish
+dab
+dogfish
+dory
+eel
+elvers
+flounder
+goby
+grayling
+guppy
+gurnard
+haddock
+hagfish
+hake
+herring
+jellyfish
+kelpfish
+lamprey
+langoustines
+lemon sole
+ling
+loach
+loach
+lobster
+lungfish
+mackerel
+manta ray
+minnow
+monkfish
+moray
+red mullet
+white mullet
+mulloway
+mussels
+octopus
+oysters
+perch
+periwinkles
+pike
+pilchard
+plaice
+pollock
+prawn
+razorclams
+roach
+roe
+rudd
+salmon
+salt cod
+salt haddock
+sardine
+saury
+scallops
+sea beet
+sea buckthorn
+sea trout
+sea urchin
+seaweed
+shark
+shrimp
+smelt
+snapper
+sole
+spider-crab
+spratts
+squid
+stingray
+sturgeon
+swordfish
+tench
+trout
+tuna
+turbot
+whelks
+whiting
+winkles
+wolf fish
+wrasse
+zander

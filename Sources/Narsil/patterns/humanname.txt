@@ -1,0 +1,2 @@
+[Consonant][vowel][syllable][syllable:0.2]
+[Vowel][consonant][syllable][syllable:0.2]

@@ -1,0 +1,10 @@
+piquant
+pungent
+delicate
+robust
+effervescent
+plain
+aromatic
+thin
+thick
+sour

@@ -1,0 +1,11 @@
+fried
+sauteed
+boiled
+steamed
+mashed
+raw
+pickled
+flambeed
+roasted
+stewed
+devilled

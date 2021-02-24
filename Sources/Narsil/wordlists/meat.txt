@@ -1,0 +1,100 @@
+bacon
+beef
+beef heart
+beef liver
+beef shoulder
+beef tenderloin
+beef tongue
+bison
+black pudding
+blackbird
+bone marrow
+boudin
+brawn
+calf liver
+caribou
+caul
+chicken
+chicken liver
+corned beef
+cow fries
+duck
+duck feet
+duck liver
+egg whites
+egg yolks
+eggs
+faggots
+game hen
+giblets
+gizzards
+goat
+goose
+goose feet
+goose liver
+grouse
+guinea hen
+haggis
+ham
+ham hocks
+haslet
+heart
+hogget
+hough
+kidneys
+lamb
+lamb chops
+lamb shanks
+lamb shoulder
+lark
+liver
+loin of lamb
+mallard
+minced beef
+minced chicken
+minced duck
+minced lamb
+minced pork
+mutton
+mutton shoulder
+offal
+ostrich
+ox cheeks
+ox ears
+ox lights
+oxtail
+partridge
+pate
+pheasant
+pigeon
+pork
+pork ribs
+pork belly
+pork cheeks
+pork chops
+pork ears
+pork lights
+pork loin
+pork shoulder
+quail
+rabbit
+salami
+salt beef
+salt pork
+sausage
+snipe
+squab
+squirrel
+sweetbreads
+teal
+tongue
+tripe, blanket
+tripe, honeycomb
+trotters
+turkey
+turtle
+veal
+venison
+white pudding
+widgeon
+woodcock

@@ -47,3 +47,13 @@ struct Village: Generatable {
     var patterns: [String] = []
     var patternFileName: String = "village"
 }
+
+struct Meal: Generatable {
+    var patterns: [String] = []
+    var patternFileName: String = "meal"
+}
+
+struct HumanName: Generatable {
+    var patterns: [String] = []
+    var patternFileName: String = "humanname"
+}

@@ -1,0 +1,2 @@
+[Preparation] [ingredient] and [preparation] [ingredient] in a [sauceadjective:0.5] [sauce] and [flavour] sauce with a side dish of [preparation] [ingredient]
+[Ingredient] [pie] and [preparation] [ingredient] in a [sauceadjective:0.5] [sauce] and [flavour] sauce with a side dish of [preparation] [ingredient]
