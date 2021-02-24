@@ -1,7 +1,13 @@
+Anchor
 Arms
 Arrow
 Barrel
+Bell
+Boot
 Door
+Feathers
+Fiddle
+Fleece
 Goblet
 Hammer
 Hearth
@@ -10,8 +16,12 @@ Kettle
 Lantern
 Mug
 Pot
+Sail
 Shield
+Ship
 Stool
+Sun
 Sword
+Stars
 Table
 Wheel

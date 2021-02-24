@@ -1,1 +1,2 @@
-[villageprefix][villagesuffix] [villagesecond:0.2]
+[Villagetitle:0.2] [Villageprefix][villagesuffix]
+[Villageprefix][villagesuffix] [Villagesecond:0.2]

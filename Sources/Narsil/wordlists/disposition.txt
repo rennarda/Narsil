@@ -2,10 +2,13 @@ Ancient
 Angry
 Big
 Bloody
+Blind
 Boisterous
 Cheering
+Cheeky
 Cold
 Dead
+Dirty
 Drunk
 Drunken
 Fat
@@ -15,6 +18,7 @@ Greedy
 Grumpy
 Happy
 Humming
+Jesting
 Jolly
 Little
 Meagre
@@ -29,6 +33,7 @@ Rolling
 Round
 Singing
 Sleepy
+Smiling
 Sweet
 Thick
 Wailing

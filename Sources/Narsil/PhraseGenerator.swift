@@ -61,6 +61,5 @@ struct PhraseGenerator {
             }
             words[type] = lines.components(separatedBy: .newlines).dropLast()
         }
-        print(words)
     }
 }

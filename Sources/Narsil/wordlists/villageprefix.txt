@@ -48,10 +48,3 @@ Under
 Water
 Woo
 Wyr
-Greater [villageprefix]
-High [villageprefix]
-Lesser [villageprefix]
-Higher [villageprefix]
-Lower [villageprefix]
-Little [villageprefix]
-Market [villageprefix]

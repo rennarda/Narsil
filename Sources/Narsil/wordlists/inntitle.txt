@@ -1,0 +1,6 @@
+inn
+tavern
+house
+hotel
+ale House
+tap

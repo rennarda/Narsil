@@ -13,10 +13,12 @@ enum WordType: String, CaseIterable {
     case location
     case innfirstname
     case innsecondname
+    case inntitle
     case number
     case villageprefix
     case villagesuffix
     case villagesecond
+    case villagetitle
     case people
     case ordinal
     case bodypart

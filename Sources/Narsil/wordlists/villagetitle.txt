@@ -1,0 +1,14 @@
+Greater
+High
+Lesser
+Higher
+Lower
+Low
+Little
+Market
+Upper
+Royal
+Temple
+Church
+Castle
+Fort

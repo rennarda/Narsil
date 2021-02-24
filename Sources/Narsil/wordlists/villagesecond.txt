@@ -2,6 +2,7 @@ Bottom
 Bray
 Bridge
 Chantry
+Church
 Corner
 Dell
 Dingle
@@ -34,8 +35,10 @@ Rig
 Rill
 Side
 Tarn
+Temple
 Town
 Vale
 View
 Water
+Well
 Wreck

@@ -1,5 +1,9 @@
+Alchemist
+Angel
 bandit
 bard
+Beggar
+bishop
 cartwright
 Druid
 farmer
@@ -17,4 +21,5 @@ queen
 shepherd
 tanner
 thief
+witch
 wizard
