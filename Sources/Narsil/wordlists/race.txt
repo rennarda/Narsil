@@ -1,0 +1,5 @@
+orc
+goblin
+elf
+dwarf
+halfling

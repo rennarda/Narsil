@@ -1,0 +1,12 @@
+head
+leg
+arm
+tail
+arse
+finger
+hair
+toe
+knee
+nose
+tits
+
