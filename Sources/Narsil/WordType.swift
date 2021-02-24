@@ -21,4 +21,9 @@ enum WordType: String, CaseIterable {
     case ordinal
     case bodypart
     case race
+    case colour
+    case disposition
+    case animal
+    case object
+    case building
 }

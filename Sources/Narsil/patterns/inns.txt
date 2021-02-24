@@ -7,3 +7,4 @@ The [Number] [InnFirstName] [InnSecondName]s
 The [Ordinal] [InnSecondName|People|Race]
 The [Ordinal] [InnFirstName] [InnSecondName]
 The [People|Race] and the [People|Race]
+The [Animal] and the [Animal]

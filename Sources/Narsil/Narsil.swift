@@ -5,11 +5,12 @@ struct Narsil {
     
     mutating func generate(){
         generator.loadWordLists()
-        var inGenerator = Inns()
+        var innGenerator = Inn()
+        var villageGenerator = Village()
         for _ in 0..<100 {
             
 //            print(generator.expand(string: "The [InnFirstName|Number] [InnSecondName] at [villageprefix][villagesuffix] [villagesecond]"))
-            print(inGenerator.generate(with: generator))
+            print(innGenerator.generate(with: generator) + " at " + villageGenerator.generate(with: generator))
         }
     }
 }

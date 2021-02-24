@@ -1,12 +1,11 @@
-head
-leg
 arm
-tail
 arse
 finger
 hair
-toe
+head
 knee
+leg
 nose
+tail
 tits
-
+toe

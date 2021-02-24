@@ -1,0 +1,25 @@
+Bear
+Boar
+Crow
+Deer
+Dog
+Dragon
+Eagle
+Fish
+Fox
+Goat
+Griffin
+Hart
+Horse
+Lamb
+Mouse
+Rat
+Raven
+Salmon
+Snake
+Sparrow
+Swan
+Swine
+Trout
+Wild Boar
+Wolf

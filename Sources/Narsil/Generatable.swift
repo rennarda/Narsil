@@ -31,3 +31,15 @@ extension Generatable {
         patterns = lines.components(separatedBy: .newlines).dropLast()
     }
 }
+
+
+struct Inn: Generatable {
+    var patterns: [String] = []
+    var patternFileName: String = "inns"
+}
+
+
+struct Village: Generatable {
+    var patterns: [String] = []
+    var patternFileName: String = "village"
+}

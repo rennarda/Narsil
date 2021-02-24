@@ -1,0 +1,10 @@
+Castle
+Cottage
+Dungeon
+Fortress
+House
+Hovel
+Mine
+Palace
+Shack
+Tower

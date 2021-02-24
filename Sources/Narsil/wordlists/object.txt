@@ -1,0 +1,16 @@
+Lantern
+Wheel
+Arrow
+Pot
+Barrel
+Jar
+Mug
+Goblet
+Hammer
+Stool
+Table
+Door
+Sword
+Shield
+Kettle
+Hearth

@@ -1,5 +1,5 @@
-orc
-goblin
-elf
 dwarf
+elf
+goblin
 halfling
+orc

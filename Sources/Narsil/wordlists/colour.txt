@@ -1,0 +1,9 @@
+Black
+Blue
+Crimson
+Golden
+Green
+Orange
+Red
+Silver
+Vermillion
