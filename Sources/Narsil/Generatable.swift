@@ -37,23 +37,27 @@ public extension Generatable {
 }
 
 
-struct Inn: Generatable {
-    var patterns: [String] = []
-    var patternFileName: String = "inns"
+public struct Inn: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "inns"    
+    public init(){}
 }
 
 
-struct Village: Generatable {
-    var patterns: [String] = []
-    var patternFileName: String = "village"
+public struct Village: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "village"
+    public init(){}
 }
 
-struct Meal: Generatable {
-    var patterns: [String] = []
-    var patternFileName: String = "meal"
+public struct Meal: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "meal"
+    public init(){}
 }
 
-struct HumanName: Generatable {
-    var patterns: [String] = []
-    var patternFileName: String = "humanname"
+public struct HumanName: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "humanname"
+    public init(){}
 }

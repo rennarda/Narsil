@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum WordType: String, CaseIterable {
+public enum WordType: String, CaseIterable {
     case adjective
     case noun
     case location

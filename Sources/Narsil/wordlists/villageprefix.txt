@@ -76,6 +76,8 @@ sut
 sub
 ston
 taw
+tam
+tan
 tar
 tee
 ter

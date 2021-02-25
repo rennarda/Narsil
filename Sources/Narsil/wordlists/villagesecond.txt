@@ -69,4 +69,7 @@ wreck
 shore
 isle
 bay
-on the [villagesecond]
+on the [Villagesecond]
+under [Villageprefix][villagesuffix]
+by [Villageprefix][villagesuffix]
+cum [Villageprefix][villagesuffix]

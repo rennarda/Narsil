@@ -10,6 +10,10 @@ import Foundation
 public struct PhraseGenerator {
     var words: Dictionary<WordType, [String]> = [:]
     
+    public init() {
+        loadWordLists()
+    }
+    
     func substitute(for keyword: String) -> String {
         var activeKeyword = keyword
         if keyword.contains("|") {
@@ -52,7 +56,7 @@ public struct PhraseGenerator {
         }
     }
     
-    public mutating func loadWordLists(){
+    mutating func loadWordLists(){
         WordType.allCases.forEach { type in
             guard let fileURL = Bundle.module.url(forResource: "wordlists/\(type.rawValue)", withExtension: "txt"),
                   let lines = try? String(contentsOf: fileURL)
