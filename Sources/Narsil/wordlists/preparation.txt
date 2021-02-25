@@ -9,3 +9,9 @@ flambeed
 roasted
 stewed
 devilled
+baked
+toasted
+grilled
+chipped
+flaked
+pulled

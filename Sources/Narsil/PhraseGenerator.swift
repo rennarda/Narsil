@@ -7,7 +7,7 @@
 
 import Foundation
 
-struct PhraseGenerator {
+public struct PhraseGenerator {
     var words: Dictionary<WordType, [String]> = [:]
     
     func substitute(for keyword: String) -> String {
@@ -52,7 +52,7 @@ struct PhraseGenerator {
         }
     }
     
-    mutating func loadWordLists(){
+    public mutating func loadWordLists(){
         WordType.allCases.forEach { type in
             guard let fileURL = Bundle.module.url(forResource: "wordlists/\(type.rawValue)", withExtension: "txt"),
                   let lines = try? String(contentsOf: fileURL)

@@ -6,7 +6,7 @@
 //
 
 import Foundation
-protocol Generatable {
+public protocol Generatable {
     var patterns: [String] { get set}
     var patternFileName: String { get }
     
@@ -14,7 +14,7 @@ protocol Generatable {
     mutating func generate(with generator: PhraseGenerator) -> String
 }
 
-extension Generatable {
+public extension Generatable {
     mutating func generate(with generator: PhraseGenerator) -> String {
         if patterns.count == 0 {
             loadPatterns()

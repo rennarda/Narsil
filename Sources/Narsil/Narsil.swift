@@ -13,13 +13,13 @@ struct Narsil {
         for _ in 0..<101 {
             
 
-//            phrases.append(
-//                mealGenerator.generate(with: generator)
-//                + " at "
-//                + innGenerator.generate(with: generator)
-//                + " in "
-//                + villageGenerator.generate(with: generator)
-//            )
+            phrases.append(
+                mealGenerator.generate(with: generator)
+                + " at "
+                + innGenerator.generate(with: generator)
+                + " in "
+                + villageGenerator.generate(with: generator)
+            )
 
 //            phrases.append(
 //                    innGenerator.generate(with: generator)
@@ -27,9 +27,9 @@ struct Narsil {
 //                    + villageGenerator.generate(with: generator)
 //            )
 
-            phrases.append(
-                    villageGenerator.generate(with: generator)
-            )
+//            phrases.append(
+//                    villageGenerator.generate(with: generator)
+//            )
 
             
 //            phrases.append(

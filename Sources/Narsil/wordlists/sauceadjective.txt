@@ -8,3 +8,9 @@ aromatic
 thin
 thick
 sour
+spicy
+hot
+mild
+peppery
+bitter
+light

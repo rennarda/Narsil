@@ -15,5 +15,7 @@ red
 rusty
 silver
 teal
-vermillion
+lilac
+turquoise
 white
+cream
