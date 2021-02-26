@@ -9,6 +9,8 @@ struct Narsil {
         var villageGenerator = Village()
         var mealGenerator = Meal()
         var humanNameGenerator = HumanName()
+        var beerGenerator = Beer()
+        var beerDescriptionGenerator = BeerDescription()
         var phrases: [String] = []
         for _ in 0..<101 {
             
@@ -31,6 +33,16 @@ struct Narsil {
 //                    villageGenerator.generate(with: generator)
 //            )
 
+//            phrases.append(
+//                    beerGenerator.generate(with: generator) + ", " +
+//                    beerDescriptionGenerator.generate(with: generator)
+//
+//            )
+
+//            phrases.append(
+//                    beerDescriptionGenerator.generate(with: generator)
+//            )
+            
             
 //            phrases.append(
 //                humanNameGenerator.generate(with: generator)

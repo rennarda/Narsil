@@ -1,8 +1,8 @@
-[Preparation] [ingredient] and [preparation] [ingredient] in a [sauceadjective:0.5] [sauce] and [flavour] sauce with a side dish of [preparation] [ingredient]
-[Ingredient] [pie] and [preparation] [ingredient] in a [sauceadjective:0.5] [sauce] and [flavour] sauce with a side dish of [preparation] [ingredient]
+[Preparation] [ingredient] and [preparation] [ingredient] in a [sauceadjective:0.5] [sauce] and [flavour] sauce [accompaniment] [preparation] [ingredient]
+[Ingredient] [pie] and [preparation] [ingredient] in a [sauceadjective:0.5] [sauce] and [flavour] sauce [accompaniment] [preparation] [ingredient]
 [Preparation] [ingredient] and [preparation] [ingredient] in a [sauceadjective:0.5] [sauce] and [flavour] sauce
 [Ingredient] [pie] and [preparation] [ingredient] in a [sauceadjective:0.5] [sauce] and [flavour] sauce
 [Preparation] [ingredient] and [preparation] [ingredient]
 [Ingredient] [pie] and [preparation] [ingredient]
-[Preparation] [ingredient] and [preparation] [ingredient] with a side dish of [preparation] [ingredient]
-[Ingredient] [pie] and [preparation] [ingredient] with a side dish of [preparation] [ingredient]
+[Preparation] [ingredient] and [preparation] [ingredient] [accompaniment] [preparation] [ingredient]
+[Ingredient] [pie] and [preparation] [ingredient] [accompaniment] [preparation] [ingredient]

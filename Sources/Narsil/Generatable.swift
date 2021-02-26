@@ -62,3 +62,15 @@ public struct HumanName: Generatable {
     public var patternFileName: String = "humanname"
     public init(){}
 }
+
+public struct Beer: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "beer"
+    public init(){}
+}
+
+public struct BeerDescription: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "beerdescription"
+    public init(){}
+}

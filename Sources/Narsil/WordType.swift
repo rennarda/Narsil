@@ -45,4 +45,8 @@ public enum WordType: String, CaseIterable {
     case syllable
     case yeolde
     case place
+    case beertitle
+    case beerflavour
+    case flavourdisposition
+    case accompaniment
 }

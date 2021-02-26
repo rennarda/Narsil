@@ -1,0 +1,13 @@
+hoppy
+malty
+wheaty
+barley
+fresh
+dark
+nutty
+chocolate
+apples
+pears
+raspberry
+smokey
+[beerflavour] and [beerflavour]

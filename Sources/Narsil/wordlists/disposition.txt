@@ -22,6 +22,7 @@ greedy
 grumpy
 happy
 humming
+hungry
 jesting
 jolly
 little
@@ -44,5 +45,6 @@ smiling
 sweet
 swimming
 thick
+thirsty
 wailing
 walking
