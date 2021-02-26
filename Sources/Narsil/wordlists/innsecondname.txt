@@ -3,3 +3,4 @@
 [Building]
 [People]
 [Race]
+[Place]

@@ -1,6 +1,10 @@
+single
 two
 three
 five
 seven
 dozen
 hundred
+thousand
+many
+several

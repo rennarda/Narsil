@@ -43,4 +43,6 @@ public enum WordType: String, CaseIterable {
     case consonant
     case vowel
     case syllable
+    case yeolde
+    case place
 }

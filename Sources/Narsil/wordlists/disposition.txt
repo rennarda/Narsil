@@ -3,6 +3,7 @@ angry
 big
 bloody
 blind
+blushing
 boisterous
 cheering
 cheeky
@@ -11,8 +12,11 @@ dead
 dirty
 drunk
 drunken
+drowning
 fat
+falling
 flaming
+flying
 good
 greedy
 grumpy
@@ -31,9 +35,14 @@ refreshing
 roaring
 rolling
 round
+running
 singing
+silent
 sleepy
+sleeping
 smiling
 sweet
+swimming
 thick
 wailing
+walking

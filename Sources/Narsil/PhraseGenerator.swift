@@ -63,7 +63,7 @@ public struct PhraseGenerator {
             else {
                 return
             }
-            words[type] = lines.components(separatedBy: .newlines).dropLast()
+            words[type] = lines.components(separatedBy: .newlines).dropLast()            
         }
     }
 }
