@@ -20,10 +20,11 @@ public extension Generatable {
             loadPatterns()
         }
         let pattern = patterns.randomElement()!
-        return generator.expand(string: pattern)
+        let phrase = generator.expand(string: pattern)
             .components(separatedBy: .whitespacesAndNewlines)
             .filter { !$0.isEmpty }
             .joined(separator: " ")
+        return phrase.prefix(1).capitalized + phrase.dropFirst()
     }
     
     mutating func loadPatterns() {
