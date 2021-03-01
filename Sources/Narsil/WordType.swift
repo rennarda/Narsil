@@ -60,4 +60,5 @@ public enum WordType: String, CaseIterable {
     case construction
     case farming
     case oddity
+    case fame
 }

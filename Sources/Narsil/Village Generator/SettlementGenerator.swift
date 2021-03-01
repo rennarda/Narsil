@@ -45,7 +45,7 @@ public enum Facility: String, CaseIterable {
     }
 }
 
-public enum SettlementSize {
+public enum SettlementSize: String {
     case outpost, hamlet, village, town, city
 
     static func generate() -> SettlementSize {
@@ -97,7 +97,7 @@ public enum SettlementSize {
         }
     }
 
-    func sizeDescription(for population: Int) -> String {
+    public func sizeDescription(for population: Int) -> String {
         if population < Int(Double(maxPop) * 0.4) {
             return "small"
         } else if population > Int(Double(maxPop) * 0.8) {
@@ -153,7 +153,7 @@ public struct Settlement {
 
 extension Settlement: CustomStringConvertible {
     public var description: String {
-        "\(name) \(size.sizeDescription(for: population)) \(size): \(population). \(facilities.map{$0.rawValue}), \(inns.map{$0.name}). \(fame)"
+        "\(name) \(size.sizeDescription(for: population)) \(size): \(population). \(facilities.map{$0.rawValue}), \(inns.map{$0.name}), \(industries). \(fame)"
     }
     
 }
@@ -167,6 +167,7 @@ public struct SettlementGenerator {
         var beerGenerator = BeerName()
         var beerDescription = BeerDescription()
         var oddityGenerator = OddityDescription()
+        var industryGenerator = IndustryDescription()
 
         let name = villageNameGenerator.generate(with: generator)
         let size = SettlementSize.generate()
@@ -198,6 +199,6 @@ public struct SettlementGenerator {
             }
         }
         
-        return Settlement(name: name, size: size, population: population, industries: [], inns: inns, facilities: facilities, fame: fame)
+        return Settlement(name: name, size: size, population: population, industries: [industryGenerator.generate(with:generator)] , inns: inns, facilities: facilities, fame: fame)
     }
 }

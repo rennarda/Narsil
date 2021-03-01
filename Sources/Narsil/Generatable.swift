@@ -80,3 +80,9 @@ public struct OddityDescription: Generatable {
     public var patternFileName: String = "oddity"
     public init(){}
 }
+
+public struct IndustryDescription: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "industry"
+    public init(){}
+}

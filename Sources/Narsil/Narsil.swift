@@ -12,6 +12,7 @@ struct Narsil {
         var beerGenerator = BeerName()
         var beerDescriptionGenerator = BeerDescription()
         var phrases: [String] = []
+        var oddityGenerator = OddityDescription()
         var settlements: [Settlement] = []
         for _ in 0..<101 {
             
@@ -49,7 +50,10 @@ struct Narsil {
 //                humanNameGenerator.generate(with: generator)
 //            )
 
-            
+//            phrases.append(
+//                    oddityGenerator.generate(with: generator)
+//            )
+
             
         }
 //        for (index, phrase) in phrases.sorted().enumerated() {
