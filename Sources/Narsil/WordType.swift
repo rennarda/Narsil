@@ -49,4 +49,14 @@ public enum WordType: String, CaseIterable {
     case beerflavour
     case flavourdisposition
     case accompaniment
+    case villageindustry
+    case villagesize
+    case arablecrops
+    case fieldcrops
+    case livestock
+    case unusualcrops
+    case ore
+    case quarry
+    case construction
+    case farming
 }

@@ -1,0 +1,22 @@
+houses
+carts
+bridges
+ships
+boats
+furniture
+pottery
+bricks
+glassware
+clothing
+leather
+ironware
+wrought iron
+jewellery
+weapons
+armour
+cloth
+timber
+basets
+paper
+parchment
+medicines

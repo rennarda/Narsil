@@ -27,3 +27,5 @@ cave
 cavern
 gate
 keep
+windmill
+mill

@@ -1,0 +1,15 @@
+gold
+silver
+copper
+iron
+tin
+lead
+lead
+lead
+iron
+iron
+iron
+coal
+coal
+coal
+coal

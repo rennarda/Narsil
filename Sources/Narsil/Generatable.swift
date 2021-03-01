@@ -45,11 +45,18 @@ public struct Inn: Generatable {
 }
 
 
+public struct VillageName: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "villagename"
+    public init(){}
+}
+
 public struct Village: Generatable {
     public var patterns: [String] = []
     public var patternFileName: String = "village"
     public init(){}
 }
+
 
 public struct Meal: Generatable {
     public var patterns: [String] = []

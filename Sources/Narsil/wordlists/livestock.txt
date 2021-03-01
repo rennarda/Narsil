@@ -1,0 +1,8 @@
+cattle
+pig
+sheep
+goat
+eel
+chicken
+deer
+fur

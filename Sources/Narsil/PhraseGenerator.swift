@@ -20,15 +20,22 @@ public struct PhraseGenerator {
             activeKeyword = String(keyword.split(separator: "|").randomElement()!)
         }
         
-        guard let wordType = WordType(rawValue: activeKeyword.lowercased()),
+        let wordToReturn: String
+        
+        if let wordType = WordType(rawValue: activeKeyword.lowercased()),
               let wordArray = words[wordType],
               let word = wordArray.randomElement()
-        else { return "INVALID" }
+        {
+            wordToReturn = word
+            
+        } else {
+            wordToReturn = activeKeyword
+        }
 
         if keyword.first!.isUppercase {
-            return word.prefix(1).capitalized + word.dropFirst()
+            return wordToReturn.prefix(1).capitalized + wordToReturn.dropFirst()
         } else {
-            return word
+            return wordToReturn
         }
     }
 
@@ -48,7 +55,7 @@ public struct PhraseGenerator {
         if Double.random(in: 0.0..<1.0) < chance {
              substitution = substitute(for: String(string.substring(innerMatch)))
         }
-        if string.contains(substitution){
+        if string.substring(NSRange(location: 0, length: outerMatch.location)).contains(substitution){
             // word already exists, try again!
             return expand(string: string)
         } else {

@@ -15,3 +15,6 @@ stream
 brook
 beck
 tree
+moon
+sun
+star

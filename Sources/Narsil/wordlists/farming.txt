@@ -1,0 +1,2 @@
+farming [livestock|arablecrops|fieldcrops]
+farming [livestock|arablecrops|fieldcrops] and [fieldcrops|livestock]

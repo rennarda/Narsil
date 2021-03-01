@@ -1,0 +1,7 @@
+limestone
+marble
+sandstone
+gravel
+sand
+rock
+clay
