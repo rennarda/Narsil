@@ -38,7 +38,7 @@ public extension Generatable {
 }
 
 
-public struct Inn: Generatable {
+public struct InnName: Generatable {
     public var patterns: [String] = []
     public var patternFileName: String = "inns"    
     public init(){}
@@ -51,14 +51,7 @@ public struct VillageName: Generatable {
     public init(){}
 }
 
-public struct Village: Generatable {
-    public var patterns: [String] = []
-    public var patternFileName: String = "village"
-    public init(){}
-}
-
-
-public struct Meal: Generatable {
+public struct MealName: Generatable {
     public var patterns: [String] = []
     public var patternFileName: String = "meal"
     public init(){}
@@ -70,7 +63,7 @@ public struct HumanName: Generatable {
     public init(){}
 }
 
-public struct Beer: Generatable {
+public struct BeerName: Generatable {
     public var patterns: [String] = []
     public var patternFileName: String = "beer"
     public init(){}
@@ -79,5 +72,11 @@ public struct Beer: Generatable {
 public struct BeerDescription: Generatable {
     public var patterns: [String] = []
     public var patternFileName: String = "beerdescription"
+    public init(){}
+}
+
+public struct OddityDescription: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "oddity"
     public init(){}
 }

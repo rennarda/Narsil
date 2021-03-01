@@ -40,7 +40,7 @@ public struct PhraseGenerator {
     }
 
     func expand(string: String) -> String {
-        let regEx = try! NSRegularExpression(pattern: "\\[([\\w|]*):?(\\d+\\.\\d+)?]", options: [])
+        let regEx = try! NSRegularExpression(pattern: "\\[([\\w|\\-\\d]*):?(\\d+\\.\\d+)?]", options: [])
         guard let match = regEx.firstMatch(in: string, options: [], range: NSRange(string.startIndex..<string.endIndex, in: string))
         else { return string }
 
@@ -55,6 +55,16 @@ public struct PhraseGenerator {
         if Double.random(in: 0.0..<1.0) < chance {
              substitution = substitute(for: String(string.substring(innerMatch)))
         }
+        
+        // Is the match a numeric range?
+        let rangeComponents = string.substring(innerMatch).split(separator: "-")
+        if rangeComponents.count == 2,
+           let from = Int(rangeComponents[0]),
+           let to = Int(rangeComponents[1])
+        {
+            substitution = String(Int.random(in: from..<to))
+        }
+        
         if string.substring(NSRange(location: 0, length: outerMatch.location)).contains(substitution){
             // word already exists, try again!
             return expand(string: string)

@@ -5,14 +5,14 @@ struct Narsil {
     
     mutating func generate(){
         generator.loadWordLists()
-        var innGenerator = Inn()
+        var innGenerator = InnName()
         var villageNameGenerator = VillageName()
-        var villageGenerator = Village()
-        var mealGenerator = Meal()
+        var mealGenerator = MealName()
         var humanNameGenerator = HumanName()
-        var beerGenerator = Beer()
+        var beerGenerator = BeerName()
         var beerDescriptionGenerator = BeerDescription()
         var phrases: [String] = []
+        var settlements: [Settlement] = []
         for _ in 0..<101 {
             
 
@@ -30,8 +30,8 @@ struct Narsil {
 //                    + villageNameGenerator.generate(with: generator)
 //            )
 
-            phrases.append(
-                    villageGenerator.generate(with: generator)
+            settlements.append(
+                SettlementGenerator.generate()
             )
 
 //            phrases.append(
@@ -52,9 +52,15 @@ struct Narsil {
             
             
         }
-        for (index, phrase) in phrases.sorted().enumerated() {
-            print("\(index+1): \(phrase)")
+//        for (index, phrase) in phrases.sorted().enumerated() {
+//            print("\(index+1): \(phrase)")
+//        }
+
+        for (index, settlement) in settlements.enumerated() {
+            print("\(index+1): \(settlement.description)")
         }
+
+
     }
 }
 

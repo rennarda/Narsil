@@ -6,6 +6,6 @@ giant
 goblin
 hobbit
 halfling
-man
+human
 orc
 ogre

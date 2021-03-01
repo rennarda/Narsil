@@ -1,0 +1,43 @@
+excellent food
+excellent wine
+excellent beer
+poor food
+poor wine
+poor beer
+delicious bread
+craftsmanship
+beautiful location
+a famous battle
+decadence
+hidden riches
+strange disappearances
+a murder
+suspicion of outsiders
+a warm welcome
+beautiful women
+strange clothing
+strange customs
+a strong accent
+a bad smell
+being well kept
+being muddy
+being dilapidated
+having many tents
+being on a steep hill
+being build on a craggy hill
+having good defences
+a grand building
+being windy
+inbreeding
+poor farmland
+strange food
+an old burial site
+being near ancient ruins
+elaborate weddings
+festivals
+absolutely nothing
+an enclave of [Race]s
+distrust of [Race]s
+distrust of [people]s
+excellent [vegetable]s
+[flavour] [fish|meat|vegetable]
