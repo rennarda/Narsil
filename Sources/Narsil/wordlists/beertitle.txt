@@ -17,7 +17,7 @@ elixir
 bracer
 toddy
 wallop
-[Thirstquencher:0.2]
+[Quencher|Thirst Quencher:0.2]
 [Spirit|Gin|Vodka|Whiskey]
 tea
 cordial
