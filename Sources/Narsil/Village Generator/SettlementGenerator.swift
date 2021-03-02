@@ -218,7 +218,7 @@ public struct SettlementGenerator {
                 for _ in 0..<Int.random(in: 2...4) {
                     meals.append(mealGenerator.generate(with: generator))
                 }
-                for _ in 0..<Int.random(in: 1...3) {
+                for _ in 0..<Int.random(in: 2...3) {
                     beers.append(Beer(name: beerGenerator.generate(with: generator), description: beerDescription.generate(with: generator)))
                 }
 

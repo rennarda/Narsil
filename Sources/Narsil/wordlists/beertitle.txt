@@ -7,3 +7,10 @@ cider
 special
 cask
 mead
+lager
+nectar
+flaggon
+[Thirstquencher:0.2]
+[Spirit|Gin|Vodka|Whiskey]
+tea
+cordial
