@@ -50,11 +50,11 @@ public enum SettlementSize: String {
 
     static func generate() -> SettlementSize {
         let random = Double.random(in: 0..<1)
-        if 0.0..<0.2 ~= random {
+        if 0.0..<0.1 ~= random {
             return .outpost
-        } else if 0.2..<0.4 ~= random {
+        } else if 0.1..<0.3 ~= random {
             return .hamlet
-        } else if 0.4..<0.75 ~= random {
+        } else if 0.3..<0.75 ~= random {
             return .village
         } else if 0.75..<0.95 ~= random {
             return .town
