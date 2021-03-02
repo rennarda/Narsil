@@ -10,6 +10,13 @@ mead
 lager
 nectar
 flaggon
+grog
+aqua vitae
+draught
+elixir
+bracer
+toddy
+wallop
 [Thirstquencher:0.2]
 [Spirit|Gin|Vodka|Whiskey]
 tea
