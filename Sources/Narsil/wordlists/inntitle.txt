@@ -5,3 +5,10 @@ hotel
 ale House
 tap
 arms
+hostelry
+taproom
+bierkeller
+boozer
+taphouse
+saloon
+bar

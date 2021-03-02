@@ -1,7 +1,6 @@
 [Yeolde] [Disposition] [InnSecondName] [Inntitle:0.1]
 [Yeolde] [Disposition:0.05] [InnFirstName] [InnSecondName] [inntitle:0.1]
 [Yeolde] [Disposition:0.1] [People|Race]'s [Object|Animal|Building|Place|Bodypart] [Inntitle:0.1]
-[Yeolde] [Object|Animal|Building|Place|Bodypart] [of|o'] the [Disposition:0.1] [People|Race] [Inntitle:0.1]
 [Yeolde] [Ordinal|Number] [Disposition:0.05] [InnFirstName:0.5] [InnSecondName]s [Inntitle:0.1]
 [Yeolde] [Disposition:0.1] [People|Race|Animal|Object] [&|and] [Disposition:0.1] [People|Race|Animal|Object] [Inntitle:0.1]
 [Yeolde] [InnFirstName:0.5] [InnSecondName] [Inntitle:0.1]
