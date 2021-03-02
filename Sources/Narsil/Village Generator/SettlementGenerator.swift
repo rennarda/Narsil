@@ -127,17 +127,33 @@ public enum SettlementSize: String {
         let factor = Double(population) / Double(self.maxPop)
         switch self {
             case .city:
-                return max(10,Int(Double.random(in: 10..<20) * factor))
+                return max(10,Int(Double.random(in: 10...20) * factor))
             case .town:
-                return max(4, Int(Double.random(in: 4..<10) * factor))
+                return max(4, Int(Double.random(in: 4...10) * factor))
             case .village:
-                return max(1, Int(Double.random(in: 1..<5) * factor))
+                return max(1, Int(Double.random(in: 1...4) * factor))
             case .hamlet:
-                return max(1, Int(Double.random(in: 1..<2) * factor))
+                return max(1, Int(Double.random(in: 1...2) * factor))
             case .outpost:
                 return 1
         }
     }
+
+    // how many inns per 1000 people?
+    func numberOfIndustries(for population:Int) -> Int {
+        let factor = Double(population) / Double(self.maxPop)
+        switch self {
+            case .city:
+                return max(5,Int(Double.random(in: 5...8) * factor))
+            case .town:
+                return max(3, Int(Double.random(in: 3...5) * factor))
+            case .village:
+                return max(1, Int(Double.random(in: 1...3) * factor))
+            case .hamlet, .outpost:
+                return 1
+        }
+    }
+
     
 }
 
@@ -149,6 +165,17 @@ public struct Settlement {
     public let inns: [Inn]
     public let facilities: [Facility]
     public let fame: String
+
+
+    public init(name: String, size: SettlementSize, population: Int, industries: [String], inns: [Inn], facilities: [Facility], fame: String) {
+        self.name = name
+        self.size = size
+        self.population = population
+        self.industries = industries
+        self.inns = inns
+        self.facilities = facilities
+        self.fame = fame
+    }
 }
 
 extension Settlement: CustomStringConvertible {
@@ -188,10 +215,10 @@ public struct SettlementGenerator {
                 var meals: [String] = []
                 var beers: [Beer] = []
                 
-                for _ in 3...5 {
+                for _ in 0..<Int.random(in: 2...4) {
                     meals.append(mealGenerator.generate(with: generator))
                 }
-                for _ in 3...5 {
+                for _ in 0..<Int.random(in: 1...3) {
                     beers.append(Beer(name: beerGenerator.generate(with: generator), description: beerDescription.generate(with: generator)))
                 }
 
@@ -199,6 +226,11 @@ public struct SettlementGenerator {
             }
         }
         
-        return Settlement(name: name, size: size, population: population, industries: [industryGenerator.generate(with:generator)] , inns: inns, facilities: facilities, fame: fame)
+        var industries: [String] = []
+        for _ in 0..<size.numberOfIndustries(for: population) {
+            industries.append(industryGenerator.generate(with: generator))
+        }
+        
+        return Settlement(name: name, size: size, population: population, industries: industries , inns: inns, facilities: facilities, fame: fame)
     }
 }

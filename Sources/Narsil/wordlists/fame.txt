@@ -1,9 +1,6 @@
 famous
-notorious
-infamous
 well known
 admired
-distrusted
 envied
 rated
 praised
@@ -16,6 +13,3 @@ spoken highly of
 adored
 loved
 cherished
-ill-famed
-scandalised
-a bad reputation

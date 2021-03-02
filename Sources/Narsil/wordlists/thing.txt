@@ -1,0 +1,12 @@
+[food|beer|wine|bread]
+craftsmanship
+location
+views
+hospitality
+[men|women|children]
+smells
+state of repair
+mud
+festivals
+farmland
+[vegetable]s

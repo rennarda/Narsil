@@ -1,10 +1,4 @@
-excellent [food|beer|wine]
-poor [food|beer|wine]
-delicious bread
 craftsmanship
-beautiful location
-wonderful views
-elaborate architecture
 a famous battle
 decadence
 hidden riches
@@ -12,28 +6,21 @@ strange disappearances
 a murder
 suspicion of outsiders
 a warm welcome
-beautiful women
 breeding [animal]s
 strange clothing
 strange customs
 a strong accent
-a bad smell
 being well kept
-being muddy
-being dilapidated
 having many tents
-being on a steep hill
-being build on a craggy hill
+being built near a [place]
 having good defences
-a grand building
+a [good] building
 being windy
 inbreeding
-poor farmland
 strange food
 an old burial site
 being near ancient ruins
 elaborate weddings
-festivals
 absolutely nothing
 being the birthplace of a famous [people]
 being founded by a [people]
@@ -41,7 +28,6 @@ being founded by [Race]s
 an enclave of [Race]s
 distrust of [Race]s
 distrust of [people]s
-excellent [vegetable]s
 [flavour] [fish|meat|vegetable]
 [preparation] [ingredient]
 [ingredient] [pie]

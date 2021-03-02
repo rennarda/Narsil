@@ -61,4 +61,8 @@ public enum WordType: String, CaseIterable {
     case farming
     case oddity
     case fame
+    case infame
+    case good
+    case thing
+    case bad
 }

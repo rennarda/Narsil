@@ -1,1 +1,3 @@
-[fame] for [oddity]
+[fame] for [good] [thing]
+[fame|infame] for [oddity]
+[infame] for [bad] [thing]

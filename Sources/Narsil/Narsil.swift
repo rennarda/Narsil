@@ -31,9 +31,9 @@ struct Narsil {
 //                    + villageNameGenerator.generate(with: generator)
 //            )
 
-            settlements.append(
-                SettlementGenerator.generate()
-            )
+//            settlements.append(
+//                SettlementGenerator.generate()
+//            )
 
 //            phrases.append(
 //                    beerGenerator.generate(with: generator) + ", " +
@@ -50,9 +50,9 @@ struct Narsil {
 //                humanNameGenerator.generate(with: generator)
 //            )
 
-//            phrases.append(
-//                    oddityGenerator.generate(with: generator)
-//            )
+            phrases.append(
+                    oddityGenerator.generate(with: generator)
+            )
 
             
         }
