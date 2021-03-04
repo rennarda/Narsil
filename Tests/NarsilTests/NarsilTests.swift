@@ -37,4 +37,8 @@ final class NarsilTests: XCTestCase {
         generate(LocationDescription())
     }
 
+    func testAction(){
+        generate(ActionOracle())
+    }
+
 }

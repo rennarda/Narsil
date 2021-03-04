@@ -116,3 +116,10 @@ public struct LocationDescription: Generatable {
     public var capitalisation = CapitalisationType.initial
     public init(){}
 }
+
+public struct ActionOracle: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "action"
+    public var capitalisation = CapitalisationType.initial
+    public init(){}
+}

@@ -8,68 +8,70 @@
 import Foundation
 
 public enum WordType: String, CaseIterable {
+    case accompaniment
+    case action
     case adjective
-    case noun
-    case location
+    case age
+    case animal
+    case arablecrops
+    case bad
+    case beerflavour
+    case beertitle
+    case bodypart
+    case building
+    case colour
+    case consonant
+    case construction
+    case dispersion
+    case disposition
+    case fame
+    case farming
+    case fieldcrops
+    case fish
+    case flavour
+    case flavourdisposition
+    case fruit
+    case good
+    case humanprefix
+    case humansuffix
+    case infame
+    case ingredient
     case innfirstname
     case innsecondname
     case inntitle
-    case number
-    case villageprefix
-    case villagesuffix
-    case villagesecond
-    case villagetitle
-    case people
-    case ordinal
-    case bodypart
-    case race
-    case colour
-    case disposition
-    case animal
-    case object
-    case building
-    case preparation
-    case pie
-    case ingredient
-    case vegetable
+    case landfeature
+    case livestock
+    case location
     case meat
-    case fish
-    case fruit
+    case mood
+    case noun
+    case number
+    case object
+    case oddity
+    case ordinal
+    case ore
+    case people
+    case pie
+    case place
+    case placefeature
+    case preparation
+    case quarry
+    case race
     case sauce
     case sauceadjective
-    case flavour
-    case humanprefix
-    case humansuffix
-    case consonant
-    case vowel
-    case syllable
-    case yeolde
-    case place
-    case beertitle
-    case beerflavour
-    case flavourdisposition
-    case accompaniment
-    case villageindustry
-    case villagesize
-    case arablecrops
-    case fieldcrops
-    case livestock
-    case unusualcrops
-    case ore
-    case quarry
-    case construction
-    case farming
-    case oddity
-    case fame
-    case infame
-    case good
-    case thing
-    case bad
     case size
-    case landfeature
+    case subject
+    case syllable
+    case thing
+    case unusualcrops
+    case vegetable
+    case villageindustry
+    case villageprefix
+    case villagesecond
+    case villagesize
+    case villagesuffix
+    case villagetitle
+    case vowel
     case waterfeature
-    case age
-    case placefeature
-    case dispersion
-    case mood
+    case yeolde
 }

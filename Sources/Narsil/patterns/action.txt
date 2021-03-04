@@ -1,0 +1,1 @@
+[action] [size|disposition|mood|good|bad:0.1] [subject]
