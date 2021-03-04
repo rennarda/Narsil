@@ -15,4 +15,7 @@ grilled
 chipped
 flaked
 pulled
+cakes of
 a platter of
+a drizzle of
+[preparation:0.2] parcels of

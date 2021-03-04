@@ -1,5 +1,7 @@
-with a side dish of
+with a side [dish:0.4] of
 accompanied by
 served with
 on a bed of
 together with
+followed by
+caressed by

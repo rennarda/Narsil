@@ -1,4 +1,6 @@
-[vegetable]
+[meat]
 [meat]
 [fish]
+[vegetable]
+[vegetable]
 [fruit]
