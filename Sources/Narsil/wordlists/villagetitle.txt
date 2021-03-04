@@ -1,12 +1,12 @@
-greater
-great
 high
+great
+greater
 lesser
+little
 higher
 kirk
 lower
 low
-little
 market
 upper
 royal

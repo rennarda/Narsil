@@ -30,3 +30,6 @@ stars
 table
 tree
 wheel
+moon
+sun
+star

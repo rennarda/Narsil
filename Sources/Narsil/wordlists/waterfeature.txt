@@ -1,0 +1,11 @@
+river
+stream
+brook
+beck
+lake
+tarn
+pond
+lagoon
+rill
+coast
+sea

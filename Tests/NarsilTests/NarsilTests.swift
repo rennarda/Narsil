@@ -1,12 +1,40 @@
-    import XCTest
-    @testable import Narsil
+import XCTest
+@testable import Narsil
 
-    final class NarsilTests: XCTestCase {
-        func testExample() {
-            // This is an example of a functional test case.
-            // Use XCTAssert and related functions to verify your tests produce the correct
-            // results.
-            var generator = Narsil()
-            generator.generate()
+
+final class NarsilTests: XCTestCase {
+    var phraseGenerator = PhraseGenerator()
+    let iterations = 101
+    
+    func generate(_ generator:Generatable) {
+        var generatorCopy = generator
+        for _ in 0..<iterations {
+            print(generatorCopy.generate(with: phraseGenerator))
         }
     }
+
+    func testOddities() {
+        generate(OddityDescription())
+    }
+
+    func testMeals(){
+        generate(MealName())
+    }
+    
+    func testInns(){
+        generate(InnName())
+    }
+    
+    func testBeers(){
+        generate(BeerName())
+    }
+    
+    func testVillages(){
+        generate(VillageName())
+    }
+
+    func testLocation(){
+        generate(LocationDescription())
+    }
+
+}

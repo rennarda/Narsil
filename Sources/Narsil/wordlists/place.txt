@@ -1,20 +1,2 @@
-mountain
-field
-forest
-moor
-hill
-coast
-sea
-lake
-hedge
-coppice
-tarn
-barrow
-river
-stream
-brook
-beck
-tree
-moon
-sun
-star
+a [size:0.5] [age:0.5] [mood:0.2] [landfeature|waterfeature]
+[number:0.5] [size:0.5] [age:0.5] [mood:0.2] [landfeature|waterfeature]s

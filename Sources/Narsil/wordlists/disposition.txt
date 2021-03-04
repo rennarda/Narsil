@@ -1,5 +1,5 @@
-ancient
-angry
+[Age]
+[mood]
 big
 bloody
 blind
@@ -7,8 +7,6 @@ blushing
 boisterous
 cheering
 cheeky
-cold
-dead
 dirty
 deadful
 drunk
@@ -30,13 +28,10 @@ holy
 horrible
 jesting
 jolly
-little
 lucky
 meagre
 missing
-misty
 naughty
-old
 poisoned
 prancing
 refreshing
@@ -57,3 +52,4 @@ three-headed
 unlucky
 wailing
 walking
+[size]

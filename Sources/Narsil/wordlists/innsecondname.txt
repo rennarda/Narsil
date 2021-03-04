@@ -3,4 +3,5 @@
 [Building]
 [People]
 [Race]
-[Place]
+[Landfeature]
+[Waterfeature]

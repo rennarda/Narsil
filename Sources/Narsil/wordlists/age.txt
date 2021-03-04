@@ -1,0 +1,6 @@
+young
+youthful
+mature
+old
+elderly
+ancient

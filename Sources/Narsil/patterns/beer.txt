@@ -1,4 +1,4 @@
 [Disposition] [InnSecondName] [Beertitle:0.9]
 [Disposition:0.05] [InnFirstName] [InnSecondName] [Beertitle:0.9]
-[Disposition:0.1] [People|Race]'s [InnSecondName|bodypart] [Beertitle:0.9]
+[Disposition:0.1] [People|Race]'s [InnSecondName|Bodypart] [Beertitle:0.9]
 [Villageprefix][villagesuffix] [InnSecondName] [Beertitle:0.9]

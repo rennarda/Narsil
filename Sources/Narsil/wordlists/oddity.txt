@@ -11,15 +11,17 @@ strange clothing
 strange customs
 a strong accent
 being well kept
-having many tents
-being built near a [place]
+having many [building]s
+being built near [place]
+being close to [place]
+being surrounded by [place]s
+being in the middle of [place]
 having good defences
-a [good] building
+a [good|size] [building]
 being windy
 inbreeding
 strange food
 an old burial site
-being near ancient ruins
 elaborate weddings
 absolutely nothing
 being the birthplace of a famous [people]

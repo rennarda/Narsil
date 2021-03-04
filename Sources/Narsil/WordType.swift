@@ -65,4 +65,11 @@ public enum WordType: String, CaseIterable {
     case good
     case thing
     case bad
+    case size
+    case landfeature
+    case waterfeature
+    case age
+    case placefeature
+    case dispersion
+    case mood
 }
