@@ -11,11 +11,22 @@ public struct Beer {
     public let name: String
     public let description: String
 }
+extension Beer: Hashable {
+    public static func == (lhs: Beer, rhs: Beer) -> Bool {
+        lhs.name == rhs.name
+    }
+}
 
 public struct Inn {
     public let name: String
     public let food: [String]
     public let beer: [Beer]
+}
+
+extension Inn: Hashable {
+    public static func == (lhs: Inn, rhs: Inn) -> Bool {
+        lhs.name == rhs.name
+    }
 }
 
 public enum Facility: String, CaseIterable {
@@ -175,6 +186,12 @@ public struct Settlement {
         self.inns = inns
         self.facilities = facilities
         self.fame = fame
+    }
+}
+
+extension Settlement: Hashable {
+    public static func == (lhs: Settlement, rhs: Settlement) -> Bool {
+        lhs.name == rhs.name && lhs.population == rhs.population
     }
 }
 
