@@ -203,8 +203,8 @@ extension Settlement: CustomStringConvertible {
 }
 
 public struct SettlementGenerator {
+    public static let sharedGenerator = PhraseGenerator()
     public static func generate() -> Settlement {
-        let generator = PhraseGenerator()
         var villageNameGenerator = VillageName()
         var innNameGenerator = InnName()
         var mealGenerator = MealName()
@@ -213,10 +213,10 @@ public struct SettlementGenerator {
         var oddityGenerator = OddityDescription()
         var industryGenerator = IndustryDescription()
 
-        let name = villageNameGenerator.generate(with: generator)
+        let name = villageNameGenerator.generate(with: sharedGenerator)
         let size = SettlementSize.generate()
         let population = size.generatePopulation()
-        let fame = oddityGenerator.generate(with: generator)
+        let fame = oddityGenerator.generate(with: sharedGenerator)
         
         var facilities: [Facility] = []
         for facility in Facility.allCases {
@@ -228,15 +228,15 @@ public struct SettlementGenerator {
         var inns: [Inn] = []
         if facilities.contains(.inn) {
             for _ in 0..<size.numberOfInns(for: population) {
-                let innName = innNameGenerator.generate(with: generator)
+                let innName = innNameGenerator.generate(with: sharedGenerator)
                 var meals: [String] = []
                 var beers: [Beer] = []
                 
                 for _ in 0..<Int.random(in: 2...4) {
-                    meals.append(mealGenerator.generate(with: generator))
+                    meals.append(mealGenerator.generate(with: sharedGenerator))
                 }
                 for _ in 0..<Int.random(in: 2...3) {
-                    beers.append(Beer(name: beerGenerator.generate(with: generator), description: beerDescription.generate(with: generator)))
+                    beers.append(Beer(name: beerGenerator.generate(with: sharedGenerator), description: beerDescription.generate(with: sharedGenerator)))
                 }
 
                 inns.append(Inn(name: innName, food: meals, beer: beers))
@@ -245,9 +245,15 @@ public struct SettlementGenerator {
         
         var industries: [String] = []
         for _ in 0..<size.numberOfIndustries(for: population) {
-            industries.append(industryGenerator.generate(with: generator))
+            industries.append(industryGenerator.generate(with: sharedGenerator))
         }
         
         return Settlement(name: name, size: size, population: population, industries: industries , inns: inns, facilities: facilities, fame: fame)
+    }
+    
+    public static func regenerateName(for settlement: Settlement) -> Settlement {
+        var villageNameGenerator = VillageName()
+
+        return Settlement(name: villageNameGenerator.generate(with: SettlementGenerator.sharedGenerator), size: settlement.size, population: settlement.population, industries: settlement.industries , inns: settlement.inns, facilities: settlement.facilities, fame: settlement.fame)
     }
 }
