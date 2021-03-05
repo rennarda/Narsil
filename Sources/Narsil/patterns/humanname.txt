@@ -1,4 +1,1 @@
-[Consonant][vowel][syllable][syllable:0.2]
-[Vowel][consonant][syllable][syllable:0.2]
-[Vowel][syllable][consonant][syllable:0.2]
-[Consonant][syllable][syllable:0.2]
+[syllable][syllable][syllable:0.2][syllable:0.2] [Surname]

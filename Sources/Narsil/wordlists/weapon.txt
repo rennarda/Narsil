@@ -1,0 +1,9 @@
+sword
+axe
+blade
+knife
+bow
+arrow
+hammer
+lance
+spear

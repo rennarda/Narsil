@@ -14,6 +14,7 @@ public enum WordType: String, CaseIterable {
     case age
     case animal
     case arablecrops
+    case armour
     case bad
     case beerflavour
     case beertitle
@@ -24,6 +25,10 @@ public enum WordType: String, CaseIterable {
     case construction
     case dispersion
     case disposition
+    case dwarfprefix
+    case dwarfsuffix
+    case elfprefix
+    case elfsuffix
     case fame
     case farming
     case fieldcrops
@@ -61,6 +66,7 @@ public enum WordType: String, CaseIterable {
     case sauceadjective
     case size
     case subject
+    case surname
     case syllable
     case thing
     case unusualcrops
@@ -73,5 +79,6 @@ public enum WordType: String, CaseIterable {
     case villagetitle
     case vowel
     case waterfeature
+    case weapon
     case yeolde
 }

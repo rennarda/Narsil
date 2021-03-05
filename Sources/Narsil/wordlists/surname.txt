@@ -1,0 +1,5 @@
+[syllable][syllable][syllable:0.2][syllable:0.2]
+[syllable][syllable][syllable:0.2][syllable:0.2]
+[colour][bodypart]
+[colour][animal]
+[humanprefix][humansuffix]

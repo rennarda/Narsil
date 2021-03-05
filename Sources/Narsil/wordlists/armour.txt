@@ -1,0 +1,7 @@
+helm
+shield
+plate
+scale
+mail
+greaves
+cap

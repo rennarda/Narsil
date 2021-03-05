@@ -1,6 +1,7 @@
 arm
 arse
 ear
+beard
 eye
 finger
 hair
@@ -10,7 +11,7 @@ leg
 mouth
 nose
 tail
-tits
 toe
+foot
 tooth
 fang

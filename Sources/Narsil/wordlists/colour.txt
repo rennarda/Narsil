@@ -7,15 +7,10 @@ copper
 dark
 golden
 green
-orange
 pale
-pink
 purple
 red
 rusty
 silver
-teal
 lilac
-turquoise
 white
-cream
