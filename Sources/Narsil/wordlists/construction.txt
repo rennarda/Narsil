@@ -16,7 +16,7 @@ weapons
 armour
 cloth
 timber
-basets
+baskets
 paper
 parchment
 medicines
