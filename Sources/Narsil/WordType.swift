@@ -57,6 +57,8 @@ public enum WordType: String, CaseIterable {
     case oddity
     case ordinal
     case ore
+    case orcsuffix
+    case orcprefix
     case people
     case pie
     case place

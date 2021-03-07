@@ -96,6 +96,13 @@ public struct ElfName: Generatable {
     public init(){}
 }
 
+public struct OrcName: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "orcname"
+    public var capitalisation = CapitalisationType.word
+    public init(){}
+}
+
 public struct BeerName: Generatable {
     public var patterns: [String] = []
     public var patternFileName: String = "beer"
