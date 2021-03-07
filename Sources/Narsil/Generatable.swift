@@ -137,3 +137,10 @@ public struct ActionOracle: Generatable {
     public var capitalisation = CapitalisationType.initial
     public init(){}
 }
+
+public struct DangerOracle: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "danger"
+    public var capitalisation = CapitalisationType.initial
+    public init(){}
+}

@@ -15,6 +15,7 @@ public enum WordType: String, CaseIterable {
     case animal
     case arablecrops
     case armour
+    case aspect
     case bad
     case beerflavour
     case beertitle
@@ -35,6 +36,7 @@ public enum WordType: String, CaseIterable {
     case fish
     case flavour
     case flavourdisposition
+    case focus
     case fruit
     case good
     case humanprefix
