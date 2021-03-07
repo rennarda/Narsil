@@ -3,4 +3,6 @@ lemon
 orange
 strawberry
 blackcurrant
-
+blackberry
+blueberry
+raspberry
