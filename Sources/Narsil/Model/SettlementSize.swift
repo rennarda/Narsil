@@ -7,7 +7,7 @@
 
 import Foundation
 
-public enum SettlementSize: String {
+public enum SettlementSize: String, Codable {
     case outpost, hamlet, village, town, city
 
     static func generate() -> SettlementSize {

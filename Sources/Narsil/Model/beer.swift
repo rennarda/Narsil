@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct Beer {
+public struct Beer: Codable {
     public let name: String
     public let description: String
 }

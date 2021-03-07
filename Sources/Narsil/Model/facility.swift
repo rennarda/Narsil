@@ -7,7 +7,7 @@
 
 import Foundation
 
-public enum Facility: String, CaseIterable {
+public enum Facility: String, CaseIterable, Codable {
     case mill, smith, forester, tradingPost, temple, militia, stable, guild, inn
     
     var probability: Double {

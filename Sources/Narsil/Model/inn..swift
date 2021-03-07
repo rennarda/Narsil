@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct Inn {
+public struct Inn: Codable {
     public let name: String
     public let food: [String]
     public let beer: [Beer]

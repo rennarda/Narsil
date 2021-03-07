@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct Settlement {
+public struct Settlement: Codable {
     public var name: String
     public let size: SettlementSize
     public let population: Int
