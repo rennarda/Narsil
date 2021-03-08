@@ -1,0 +1,8 @@
+diamonds
+emeralds
+topaz
+sapphires
+amber
+lapis lazuli
+tiger eye
+rubies

@@ -1,0 +1,10 @@
+ring
+ring
+necklace
+pendant
+tiara
+crown
+belt buckle
+broach
+pair of earrings
+bracelet

@@ -158,3 +158,11 @@ public struct DangerOracle: Generatable {
     public var capitalisation = CapitalisationType.initial
     public init(){}
 }
+
+
+public struct TreasureOracle: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "treasure"
+    public var capitalisation = CapitalisationType.initial
+    public init(){}
+}

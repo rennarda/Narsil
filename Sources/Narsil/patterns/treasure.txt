@@ -1,0 +1,7 @@
+ [1-50] [copper|silver|gold] coins
+A [size:0.2] plain [treasure]: [1-12] copper
+A [size:0.2] simple [treasure]: [1-12] copper
+A [size:0.2] bronze [treasure]: [1-12] silver
+A [size:0.2] silver [treasure] [set with [gemstone]:0.1]: [1-10] [silver|gold]
+A [size:0.2] golden [treasure] [set with [gemstone]:0.5]: [1-20] gold
+A [size:0.2] magical [treasure] (+[1|1|1|2|2|2|3|3|4]) [set with [gemstone]:0.3]: [20-200] gold

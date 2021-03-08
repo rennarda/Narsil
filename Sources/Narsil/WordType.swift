@@ -38,6 +38,7 @@ public enum WordType: String, CaseIterable {
     case flavourdisposition
     case focus
     case fruit
+    case gemstone
     case good
     case halflingfirstnameprefix
     case halflingfirstnamesuffix
@@ -51,6 +52,7 @@ public enum WordType: String, CaseIterable {
     case innsecondname
     case inntitle
     case landfeature
+    case jewellery
     case livestock
     case location
     case meat
@@ -77,6 +79,7 @@ public enum WordType: String, CaseIterable {
     case surname
     case syllable
     case thing
+    case treasure
     case unusualcrops
     case vegetable
     case villageindustry

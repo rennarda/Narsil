@@ -1,0 +1,20 @@
+amulet in the shape of a [object]
+[armour]
+[weapon]
+box
+[jewellery]
+casket
+sarcophagus
+scepter
+mirror
+statue
+candlestick
+tray
+book
+drinking horn
+goblet
+challice
+vase
+bowl
+comb
+lantern
