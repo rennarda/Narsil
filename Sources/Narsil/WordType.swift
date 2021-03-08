@@ -69,6 +69,7 @@ public enum WordType: String, CaseIterable {
     case pie
     case place
     case placefeature
+    case potion
     case preparation
     case quarry
     case race

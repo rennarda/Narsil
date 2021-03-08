@@ -1,4 +1,6 @@
 diamonds
+diamonds
+emeralds
 emeralds
 topaz
 sapphires
@@ -6,3 +8,17 @@ amber
 lapis lazuli
 tiger eye
 rubies
+rubies
+azurite
+agate
+quartz
+hematite
+malachite
+obsidian
+turquoise
+jasper
+opal
+amethyst
+garnet
+jet
+pearl

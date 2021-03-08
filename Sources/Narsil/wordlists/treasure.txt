@@ -18,3 +18,4 @@ vase
 bowl
 comb
 lantern
+dice
