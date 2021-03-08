@@ -68,6 +68,13 @@ public struct VillageName: Generatable {
     public init(){}
 }
 
+public struct CastleName: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "castlename"
+    public var capitalisation = CapitalisationType.word
+    public init(){}
+}
+
 public struct MealName: Generatable {
     public var patterns: [String] = []
     public var patternFileName: String = "meal"
