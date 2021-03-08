@@ -39,6 +39,10 @@ public enum WordType: String, CaseIterable {
     case focus
     case fruit
     case good
+    case halflingfirstnameprefix
+    case halflingfirstnamesuffix
+    case halflingsurnameprefix
+    case halflingsurnamesuffix
     case humanprefix
     case humansuffix
     case infame
