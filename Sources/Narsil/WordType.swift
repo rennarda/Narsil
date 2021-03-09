@@ -84,6 +84,7 @@ public enum WordType: String, CaseIterable {
     case syllable
     case thing
     case treasure
+    case treasurestate
     case unusualcrops
     case vegetable
     case villageindustry

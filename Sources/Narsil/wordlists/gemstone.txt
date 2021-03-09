@@ -1,14 +1,14 @@
-diamonds
-diamonds
-emeralds
-emeralds
+diamond
+diamond
+emerald
+emerald
 topaz
-sapphires
+sapphire
 amber
 lapis lazuli
 tiger eye
-rubies
-rubies
+ruby
+ruby
 azurite
 agate
 quartz

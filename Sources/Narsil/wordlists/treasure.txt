@@ -10,7 +10,7 @@ mirror
 statue
 candlestick
 tray
-book
+book [about [race] history|about a famous [people]|about [animal]s|about farming [arablecrops]|with a spell of [potion]]
 drinking horn
 goblet
 challice
