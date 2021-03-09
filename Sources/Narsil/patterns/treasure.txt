@@ -1,8 +1,11 @@
-[1-50] [copper|silver|gold] coins
-A [size:0.2] plain [treasure]: [1-12] copper
-A [size:0.2] simple [treasure]: [1-12] copper
-A [size:0.2] bronze [treasure]: [1-12] silver
-A [size:0.2] silver [treasure] [set with [gemstone]:0.1]: [1-10] [silver|gold]
-A [size:0.2] golden [treasure] [set with [gemstone]:0.5]: [1-20] gold
-A [size:0.2] magical [treasure] (+[1|1|1|2|2|2|3|3|4]) [set with [gemstone]:0.3]: [20-200] gold
-[2-4] doses of a potion of [potion]: [5-10] gold each
+[1-10] gold
+[5-20] silver
+[10-50] copper
+[Gemstone]s [and [gemstone]:0.3] worth [10-100] gold
+A [size:0.2] plain [treasure] worth [1-12] copper
+A [size:0.2] simple [treasure] worth  [1-12] copper
+A [size:0.2] bronze [treasure] worth  [1-12] silver
+A [size:0.2] silver [treasure] [set with [gemstone]:0.1] worth  [1-10] [silver|gold]
+A [size:0.2] golden [treasure] [set with [gemstone] [and [gemstone]:0.5]:0.5] worth  [1-20] gold
+A [size:0.2] magical [treasure] +[1|1|1|2|2|2|3|3|4] [set with [gemstone]:0.3] worth  [20-200] gold
+[2-4] doses of a potion of [potion] worth  [5-10] gold each

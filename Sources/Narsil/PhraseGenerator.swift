@@ -40,7 +40,7 @@ public struct PhraseGenerator {
     }
 
     func expand(string: String) -> String {
-        let regEx = try! NSRegularExpression(pattern: "\\[([\\w|\\-\\d'&\\s]*):?(\\d+\\.\\d+)?]", options: [])
+        let regEx = try! NSRegularExpression(pattern: "\\[([\\w|\\-\\d',&\\s]*):?(\\d+\\.\\d+)?]", options: [])
         guard let match = regEx.firstMatch(in: string, options: [], range: NSRange(string.startIndex..<string.endIndex, in: string))
         else { return string }
 
