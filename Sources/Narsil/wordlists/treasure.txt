@@ -1,4 +1,4 @@
-amulet in the shape of a [object]
+amulet in the shape of a [object|animal|weapon]
 [armour]
 [weapon]
 box
@@ -9,7 +9,7 @@ mirror
 statue
 candlestick
 tray
-book [about [race] history|about a famous [people]|about [animal]s|about farming [arablecrops]|with a spell of [potion]]
+book [about [race] history|about a famous [people]|about [animal]s|about farming [arablecrops]|with a spell of [magic]|of ancient secrets|dark knowledge]
 drinking horn
 goblet
 chalice

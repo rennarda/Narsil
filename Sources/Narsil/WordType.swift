@@ -61,6 +61,8 @@ public enum WordType: String, CaseIterable {
     case livestock
     case location
     case meat
+    case magicaltreasure
+    case magicbonus
     case mood
     case musicalinstrument
     case noun
@@ -75,7 +77,7 @@ public enum WordType: String, CaseIterable {
     case pie
     case place
     case placefeature
-    case potion
+    case magic
     case preparation
     case quarry
     case race
