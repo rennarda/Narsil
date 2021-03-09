@@ -17,5 +17,5 @@ A [good:0.2] [size:0.2] bronze [treasure] worth  [1-12] silver
 A [good:0.4] [size:0.2] silver [treasure] [set with [gemstone]s:0.1]s worth [1-10] [silver|gold]
 A [good:0.6] [size:0.2] golden [treasure] [set with [gemstone]s [and [gemstone]s:0.5]:0.5] worth  [1-20] gold
 A [good:0.8] [size:0.2] magical [treasure] +[1|1|1|2|2|2|3|3|4] of [potion] [set with [gemstone]s [and [gemstone]s:0.5]:0.3] worth  [20-200] gold
-[2-4] doses of a potion of [potion] worth  [5-10] gold each
+[2-4] doses of a potion of [potion] [(actually poison):0.05] worth  [5-10] gold each
 A [good] [size] magical [clothing|armour] of [potion] +[1|1|1|2|2|2|3|3|4] worth [10-100] gold
