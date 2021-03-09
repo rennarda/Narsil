@@ -4,7 +4,6 @@ amulet in the shape of a [object]
 box
 [jewellery]
 casket
-sarcophagus
 scepter
 mirror
 statue
@@ -13,9 +12,10 @@ tray
 book [about [race] history|about a famous [people]|about [animal]s|about farming [arablecrops]|with a spell of [potion]]
 drinking horn
 goblet
-challice
+chalice
 vase
 bowl
 comb
 lantern
 dice
+[musicalinstrument]

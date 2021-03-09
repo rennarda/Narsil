@@ -24,6 +24,7 @@ public enum WordType: String, CaseIterable {
     case castleprefix
     case castlesuffix
     case castletitle
+    case clothing
     case colour
     case consonant
     case construction
@@ -33,6 +34,7 @@ public enum WordType: String, CaseIterable {
     case dwarfsuffix
     case elfprefix
     case elfsuffix
+    case element
     case fame
     case farming
     case fieldcrops
@@ -60,6 +62,7 @@ public enum WordType: String, CaseIterable {
     case location
     case meat
     case mood
+    case musicalinstrument
     case noun
     case number
     case object

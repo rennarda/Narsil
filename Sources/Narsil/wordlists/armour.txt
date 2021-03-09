@@ -5,3 +5,4 @@ scale
 mail
 greaves
 cap
+bracers

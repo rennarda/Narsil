@@ -9,3 +9,8 @@ seduction
 wisdom
 mind control
 underwater breathing
+[element] control
+[element] summoning
+defence
+undead control
+telepathy

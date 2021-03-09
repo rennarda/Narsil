@@ -13,3 +13,4 @@ corroded
 dirty
 tarnished
 grimy
+[bad]

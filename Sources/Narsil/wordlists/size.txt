@@ -1,3 +1,10 @@
+extra large
+large
+large
+medium
+medium
+small
+small
 great
 big
 huge

@@ -1,0 +1,16 @@
+tunic
+cape
+cloak
+pair of boots
+pair of shoes
+hood
+pair of breeches
+pair of trousers
+pair of shorts
+skirt
+robe
+dress
+kilt
+waistcoat
+belt
+pair of gloves

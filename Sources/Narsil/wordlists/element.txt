@@ -1,0 +1,11 @@
+water
+fire
+fire
+air
+lightning
+frost
+earth
+wind
+storm
+light
+dark
