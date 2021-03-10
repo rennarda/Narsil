@@ -1,1 +1,1 @@
-[dispersion] with [place|building]s
+[dispersion] [place|building]s

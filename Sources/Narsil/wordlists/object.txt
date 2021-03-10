@@ -3,8 +3,10 @@ anvil
 arms
 arrow
 barrel
+bag
 bell
 boot
+box
 broom
 cauldron
 door

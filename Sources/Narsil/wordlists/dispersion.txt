@@ -1,13 +1,13 @@
-covered
-scattered
-dotted
-interspersed
-plagued
-arrayed
-lined
-marked
-mixed
-spotted
+covered with
+scattered with
+dotted with
+interspersed with
+plagued with
+arrayed with
+lined with
+marked with
+mixed with
+spotted with
 set amongst
 intermingled with
 alongside
