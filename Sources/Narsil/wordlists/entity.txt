@@ -1,0 +1,16 @@
+demon
+fiend
+horror
+ghost
+spirit
+specter
+monster
+[animal]
+[people]
+[race]
+stranger
+one
+dweller
+lurker
+holder
+keeper

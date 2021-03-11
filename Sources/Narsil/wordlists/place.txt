@@ -1,1 +1,1 @@
-[age:0.2] [size:0.2] [mood] [landfeature|landfeature|building|waterfeature]
+[age:0.2] [size:0.2] [mood] [landfeature|building|waterfeature]

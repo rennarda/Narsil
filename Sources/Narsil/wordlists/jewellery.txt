@@ -8,3 +8,6 @@ belt buckle
 broach
 pair of earrings
 bracelet
+amulet
+crown
+scepter

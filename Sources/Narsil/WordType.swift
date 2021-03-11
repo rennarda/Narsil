@@ -36,6 +36,7 @@ public enum WordType: String, CaseIterable {
     case elfprefix
     case elfsuffix
     case element
+    case entity
     case fame
     case farming
     case fieldcrops

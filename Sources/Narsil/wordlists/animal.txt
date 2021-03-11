@@ -34,3 +34,9 @@ unicorn
 wild boar
 wolf
 wolverine
+vulture
+serpent
+owl
+ape
+rat
+hawk

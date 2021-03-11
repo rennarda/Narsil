@@ -43,3 +43,7 @@ warrior
 witch
 wizard
 woman
+emperor
+empress
+warlord
+sorceror

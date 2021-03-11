@@ -49,6 +49,9 @@ crater
 pit
 chasm
 cave
+battlefield
 cavern
 monolith
 standing stone
+jungle
+island

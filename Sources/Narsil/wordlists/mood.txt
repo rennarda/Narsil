@@ -61,3 +61,24 @@ bloodstained
 haunted
 white
 fallen
+chaotic
+frozen
+ominous
+claustrophobic
+eerie
+fathomless
+sprawling
+malodorous
+vibrant
+barren
+oppressive
+obscure
+brackish
+foggy
+misty
+searing
+tempestuous
+empty
+crumbling
+weird
+[mood], [mood]

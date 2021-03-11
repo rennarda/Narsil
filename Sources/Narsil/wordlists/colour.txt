@@ -5,6 +5,7 @@ bronze
 crimson
 copper
 dark
+ebon
 golden
 green
 pale

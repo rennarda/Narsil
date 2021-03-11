@@ -29,4 +29,16 @@ gate
 keep
 windmill
 mill
+villa
+market
 tent
+tower
+citadel
+castle
+fortress
+cave
+cavern
+pit
+tomb
+crypt
+alley
