@@ -43,7 +43,8 @@ public extension Generatable {
     }
 
     mutating func loadPatterns() {
-        guard let fileURL = Bundle.module.url(forResource: "patterns/\(patternFileName)", withExtension: "txt"),
+        guard let fileURL = Bundle.module.url(forResource: "patterns/\(patternFileName)", withExtension: "txt") ??
+                            Bundle.module.url(forResource: "wordlists/\(patternFileName)", withExtension: "txt"),
               let lines = try? String(contentsOf: fileURL)
         else {
             return
@@ -52,6 +53,15 @@ public extension Generatable {
     }
 }
 
+public struct Generator: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String
+    public var capitalisation: CapitalisationType = .initial
+    public init(pattern: String, capitalisation: CapitalisationType = .initial){
+        self.patternFileName = pattern
+        self.capitalisation = capitalisation
+    }
+}
 
 public struct InnName: Generatable {
     public var patterns: [String] = []

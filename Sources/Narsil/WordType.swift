@@ -28,6 +28,7 @@ public enum WordType: String, CaseIterable {
     case colour
     case consonant
     case construction
+    case danger
     case dispersion
     case disposition
     case dwarfprefix
@@ -89,6 +90,7 @@ public enum WordType: String, CaseIterable {
     case syllable
     case thing
     case treasure
+    case treasureobject
     case treasurestate
     case unusualcrops
     case vegetable

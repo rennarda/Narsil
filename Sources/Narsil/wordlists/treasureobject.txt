@@ -1,0 +1,21 @@
+amulet in the shape of a [object|animal|weapon]
+[armour]
+[weapon]
+box
+[jewellery]
+casket
+scepter
+mirror
+statue
+candlestick
+tray
+book [about [race] history|about a famous [people]|about [animal]s|about farming [arablecrops]|with a spell of [magic]|of ancient secrets|dark knowledge]
+drinking horn
+goblet
+chalice
+vase
+bowl
+comb
+lantern
+dice
+[musicalinstrument]

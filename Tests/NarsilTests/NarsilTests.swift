@@ -41,4 +41,13 @@ final class NarsilTests: XCTestCase {
         generate(ActionOracle())
     }
 
+    func testDanger(){
+        generate(DangerOracle())
+    }
+
+    func testGeneric(){
+        generate(Generator(pattern: "adventure"))
+//        generate(Generator(pattern: "treasure"))
+    }
+    
 }

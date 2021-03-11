@@ -14,20 +14,14 @@ enormous
 gigantic
 sizeable
 substantial
-considerable
 immense
 extensive
 colossal
-mammoth
 tremendous
-giant
 monumental
 mighty
-stupendous
 gargantuan
-elephantine
 titanic
-monstrous
 little
 mini
 miniature
@@ -35,5 +29,4 @@ tiny
 minute
 minuscule
 undersized
-dwarf
 dainty
