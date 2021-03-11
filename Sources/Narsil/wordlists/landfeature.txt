@@ -50,3 +50,5 @@ pit
 chasm
 cave
 cavern
+monolith
+standing stone
