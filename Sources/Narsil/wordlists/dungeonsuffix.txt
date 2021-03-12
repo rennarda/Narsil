@@ -10,3 +10,5 @@ mine
 doom
 hell
 delve
+loom
+level

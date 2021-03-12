@@ -17,6 +17,7 @@ gurgle
 happy
 hairy
 high
+half
 hill
 keen
 light

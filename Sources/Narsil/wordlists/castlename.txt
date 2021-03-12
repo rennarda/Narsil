@@ -1,3 +1,7 @@
 [Castleprefix][castlesuffix] [Castletitle:0.4]
 [Castletitle:0.4] [Castleprefix][castlesuffix]
 The [Mood] [Castletitle]
+The [Castletitle] of [Humanname|Elfname|Orcname|Dwarfname]
+[Humanname|Elfname|Orcname|Dwarfname]'s [Mood:0.3] [Castletitle]
+[Mood] [Landscape] [Castletitle]
+[Villageprefix][villagesuffix] [Castletitle]

@@ -1,2 +1,2 @@
+[Dwarfprefix][dwarfsuffix][dwarfsuffix:0.2] [Colour|Mood|Halflingsurnameprefix][ore|armour|weapon|bodypart]
 [Dwarfprefix][dwarfsuffix][dwarfsuffix:0.2]
-[Dwarfprefix][dwarfsuffix][dwarfsuffix:0.2] [Colour|Mood][ore|armour|weapon|bodypart]

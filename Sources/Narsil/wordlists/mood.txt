@@ -82,4 +82,8 @@ tempestuous
 empty
 crumbling
 weird
-[mood], [mood]
+enchanted
+verdant
+glowing
+magical
+[mood] & [mood]
