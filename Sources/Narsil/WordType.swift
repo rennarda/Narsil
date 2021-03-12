@@ -36,6 +36,10 @@ public enum WordType: String, CaseIterable {
     case dwarfname
     case dwarfprefix
     case dwarfsuffix
+    case dungeonname
+    case dungeonsuffix
+    case dungeonprefix
+    case dungeontitle
     case elfname
     case elfprefix
     case elfsuffix

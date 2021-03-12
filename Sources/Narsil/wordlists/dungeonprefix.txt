@@ -1,0 +1,17 @@
+[castleprefix]
+dark
+black
+stone
+bal
+dor
+mor
+mal
+hell
+grim
+deep
+dark
+grey
+iron
+steel
+blood
+[syllable][syllable]

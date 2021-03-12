@@ -1,0 +1,6 @@
+[Dungeonprefix][dungeonsuffix] [Dungeontitle:0.4]
+[Dungeontitle:0.4] [Dungeonprefix][dungeonsuffix]
+The [Mood] [Dungeontitle]
+[Dungeontitle] of [the:0.5] [Mood]
+[Orcname|Dwarfname]'s [Dungeontitle]
+[Mood:0.5] [Dungeontitle] of [Orcname|Dwarfname]

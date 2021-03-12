@@ -1,15 +1,15 @@
 castle called [castlename]
 cottage
-dungeon
+dungeon called [dungeonname]
 fortress called [castlename]
 folly
 house
 hovel
-mine
+mine called [dungeonname]
 palace
 shack
 tower called [castlename]
-prison
+prison called [dungeonname]
 mansion
 hall
 church
@@ -20,21 +20,18 @@ harbour
 lighthouse
 store
 school
-maze
+maze called [dungeonname]
 stable
 shelter
-cave
-cavern
+cave called [dungeonname]
+cavern called [dungeonname]
 gate
-keep
-windmill
+keep called [castlename]
 mill
 villa
 market
 tent
 tower
-cave
-cavern
-pit
-tomb
-crypt
+pit called [dungeonname]
+tomb called [dungeonname]
+crypt called [dungeonname]

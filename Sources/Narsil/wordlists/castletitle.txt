@@ -1,5 +1,10 @@
 keep
+keep
 castle
 fort
 tower
+tower
 fortress
+citadel
+garrison
+outpost

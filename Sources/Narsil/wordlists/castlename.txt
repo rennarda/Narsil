@@ -1,2 +1,3 @@
 [Castleprefix][castlesuffix] [Castletitle:0.4]
 [Castletitle:0.4] [Castleprefix][castlesuffix]
+The [Mood] [Castletitle]
