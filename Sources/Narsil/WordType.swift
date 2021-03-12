@@ -9,6 +9,7 @@ import Foundation
 
 public enum WordType: String, CaseIterable {
     case accompaniment
+    case antagonist
     case action
     case adjective
     case age
@@ -24,6 +25,7 @@ public enum WordType: String, CaseIterable {
     case castleprefix
     case castlesuffix
     case castletitle
+    case castlename
     case clothing
     case colour
     case consonant
@@ -66,6 +68,7 @@ public enum WordType: String, CaseIterable {
     case magicaltreasure
     case magicbonus
     case mood
+    case monster
     case musicalinstrument
     case noun
     case number
@@ -76,6 +79,7 @@ public enum WordType: String, CaseIterable {
     case orcsuffix
     case orcprefix
     case people
+    case person
     case pie
     case place
     case placefeature

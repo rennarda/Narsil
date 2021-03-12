@@ -6,7 +6,7 @@ giant
 goblin
 hobbit
 halfling
-man
+human
 ent
 hobgoblin
 orc
