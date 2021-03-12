@@ -33,8 +33,10 @@ public enum WordType: String, CaseIterable {
     case danger
     case dispersion
     case disposition
+    case dwarfname
     case dwarfprefix
     case dwarfsuffix
+    case elfname
     case elfprefix
     case elfsuffix
     case element
@@ -49,10 +51,12 @@ public enum WordType: String, CaseIterable {
     case fruit
     case gemstone
     case good
+    case halflingname
     case halflingfirstnameprefix
     case halflingfirstnamesuffix
     case halflingsurnameprefix
     case halflingsurnamesuffix
+    case humanname
     case humanprefix
     case humansuffix
     case infame
@@ -61,7 +65,9 @@ public enum WordType: String, CaseIterable {
     case innsecondname
     case inntitle
     case landfeature
+    case landscape
     case jewellery
+    case journey
     case livestock
     case location
     case meat
@@ -72,10 +78,12 @@ public enum WordType: String, CaseIterable {
     case musicalinstrument
     case noun
     case number
+    case npc
     case object
     case oddity
     case ordinal
     case ore
+    case orcname
     case orcsuffix
     case orcprefix
     case people
@@ -99,6 +107,8 @@ public enum WordType: String, CaseIterable {
     case treasurestate
     case unusualcrops
     case vegetable
+    case village
+    case villagename
     case villageindustry
     case villageprefix
     case villagesecond

@@ -25,6 +25,7 @@ endless
 undying
 forsaken
 blighted
+craggy
 frozen
 scorched
 scarred

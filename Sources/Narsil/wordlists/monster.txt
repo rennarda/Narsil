@@ -5,7 +5,15 @@ werewolf
 manticore
 gryphon
 chimera
-dragon
+[age] [size] [colour] dragon
+[age] [colour] dragon
+[age] [colour] dragon
+[age] [size] [color] dragon
+[age] [colour] dragon
+[age] [colour] dragon
+[age] [size] [color] dragon
+[age] [colour] dragon
+[age] [colour] dragon
 wyven
 elemental
 ghost
@@ -15,4 +23,243 @@ skeletons
 necromancer
 sorcerer
 giant
-
+Abjurer
+Aboleth
+Abominable Yeti
+Air Elemental
+Allosaurus
+Androsphinx
+Ankheg
+Archdruid
+Archmage
+Assassin
+Aurochs
+Avatar of Death
+Axe Beak
+Azer
+Balor
+Banderhobb
+Banshee
+Baphomet
+Barbed Devil
+Barghest
+Basilisk
+Bearded Devil
+Behir
+Beholder
+Berserker
+Blackguard
+Blink Dog
+Blood Hawk
+Bodak
+Boggle
+Bone Devil
+Bugbear
+Bugbear Chief
+Bulette
+Bullywug
+Burrowshark
+Cambion
+Carrion Crawler
+Centaur
+Chain Devil
+Chasme
+Chimera
+Chitine
+Choldrith
+Chuul
+Clay Golem
+Cloaker
+Cloud Giant
+Cockatrice
+Couatl
+Cultist
+Dao
+Darkling
+Darkmantle
+Death Dog
+Death Knight
+Death Tyrant
+Deathlock Wight
+Deep Gnome
+Demogorgon
+Derro
+Deva
+Devourer
+Displacer Beast
+Djinni
+Doppelganger
+Draegloth
+Dread Warrior
+Dretch
+Drider
+Drow
+Dryad
+Duergar
+Dust Mephit
+Earth Elemental
+Efreeti
+Empyrean
+Enchanter
+Ettercap
+Ettin
+Evil Mage
+Fire Elemental
+Fire Giant
+Flesh Golem
+Flying Snake
+Fomorian
+Frost Giant
+Gargoyle
+Gelatinous Cube
+Ghast
+Ghost
+Ghoul
+Giant Ape
+Giant Centipede
+Giant Serpent
+Giant Crocodile
+Giant Eagle
+Giant Elk
+Giant Hyena
+Giant Lizard
+Giant Octopus
+Giant Rat
+Giant Scorpion
+Giant Spider
+Giant Vulture
+Gibbering Mouther
+Githyanki
+Gnoll
+Goblin
+Gorgon
+Gray Ooze
+Grell
+Grick
+Griffon
+Grimlock
+Grung
+Gynosphinx
+Half-Ogre
+Harpy
+Hawk
+Hell Hound
+Helmed Horror
+Hezrou
+Hill Giant
+Hippogriff
+Hobgoblin
+Hook Horror
+Horned Devil
+Hydra
+Ice Devil
+Ice Mephit
+Illithilich
+Illusionist
+Imp
+Intellect Devourer
+Invisible Stalker
+Iron Golem
+Kelpie
+Ki-rin
+Kobold
+Korred
+Kraken
+Kuo-Toa
+Lamia
+Lemure
+Lich
+Lion
+Lizardfolk
+Magmin
+Mammoth
+Manticore
+Medusa
+Merfolk
+Merrow
+Mimic
+Mind Flayer
+Minotaur
+Morkoth
+Mummy
+Mummy Lord
+Necromancer
+Nereid
+Night Hag
+Nightmare
+Ochre Jelly
+Ogre
+Oni
+Owlbear
+Pegasus
+Phase Spider
+Pit Fiend
+Pixie
+Poltergeist
+Pseudodragon
+Quaggoth
+Quasit
+Quickling
+Quipper
+Rakshasa
+Razerblast
+Redcap
+Remorhaz
+Revenant
+Roc
+Roper
+Rust Monster
+Sahuagin
+Salamander
+Satyr
+Sea Hag
+Severin
+Shadow
+Shadow Demon
+Shadow Mastiff
+Shambling Mound
+Shrieker
+Siren
+Skeleton
+Skyweaver
+Specter
+Spined Devil
+Spirit Naga
+Sprite
+Stirge
+Stone Giant
+Stone Golem
+Storm Giant
+Succubus
+Incubus
+Tarrasque
+Thri-kreen
+Tiamat
+Tiger
+Transmuter
+Trapper
+Troglodyte
+Troll
+Umber Hulk
+Unicorn
+Vampire
+Warlock
+Warlord
+Water Elemental
+Werebear
+Wereboar
+Wererat
+Wereraven
+Weretiger
+Werewolf
+Wight
+Wolf
+Worg
+Wraith
+Wyvern
+Xorn
+Yeth Hound
+Yeti
+Yochlol
+Yuan-ti
+Zombie

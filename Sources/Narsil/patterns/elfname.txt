@@ -1,2 +1,0 @@
-[elfprefix][elfsuffix][elfsuffix:0.5] [elfprefix][elfsuffix][elfsuffix:0.5]
-[elfprefix][elfsuffix][elfsuffix:0.5]

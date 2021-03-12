@@ -1,0 +1,15 @@
+mountains
+hills
+forests
+mountains
+hills
+moors
+forests
+plains
+plains
+jungles
+deserts
+steppes
+wastelands
+wastelands
+wastelands

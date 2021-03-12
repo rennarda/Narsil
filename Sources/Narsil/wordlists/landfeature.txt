@@ -4,6 +4,9 @@ rise
 hillock
 mound
 mount
+mountain range
+mountain
+mountains of [mood]
 knoll
 hummock
 tor
@@ -21,6 +24,7 @@ bluff
 ridge
 precipice
 rock face
+glacier
 overhang
 pinnacle
 promontory

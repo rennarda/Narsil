@@ -1,1 +1,0 @@
-[halflingfirstnameprefix][halflingfirstnamesuffix] [halflingsurnameprefix][halflingsurnamesuffix]

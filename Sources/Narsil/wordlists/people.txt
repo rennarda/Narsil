@@ -7,19 +7,13 @@ bard
 beggar
 bride
 bishop
-cartwright
 cooper
-devil
 druid
 farmer
 fighter
-fletcher
-forrester
 ghost
 girl
-gravedigger
 hunter
-harp
 lord
 lad
 lady
@@ -37,7 +31,6 @@ princess
 queen
 shepherd
 soldier
-tanner
 thief
 warrior
 witch

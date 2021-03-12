@@ -1,2 +1,2 @@
-[castleprefix][castlesuffix] [castletitle:0.4]
-[castletitle:0.4] [castleprefix][castlesuffix]
+[Castleprefix][castlesuffix] [Castletitle:0.4]
+[Castletitle:0.4] [Castleprefix][castlesuffix]
