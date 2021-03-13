@@ -66,6 +66,7 @@ public enum WordType: String, CaseIterable {
     case humanprefix
     case humansuffix
     case infame
+    case inns
     case ingredient
     case innfirstname
     case innsecondname

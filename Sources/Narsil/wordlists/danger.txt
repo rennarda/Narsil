@@ -1,1 +1,1 @@
-[aspect] [focus]
+[aspect:0.8] [focus]

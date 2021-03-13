@@ -1,4 +1,3 @@
 [villagename] - [village]
 a [person]
-[focus]
 a [building]

@@ -1,37 +1,39 @@
-castle [called] [castlename]
+castle [called] [Castlename]
 cottage
-dungeon [called] [dungeonname]
-fortress [called] [castlename]
+dungeon [called] [Dungeonname]
+fortress [called] [Castlename]
 folly
 house
 hovel
-mine [called] [dungeonname]
+mine [called] [Dungeonname]
 palace
 shack
-tower [called] [castlename]
-prison [called] [dungeonname]
+tower [called] [Castlename]
+prison [called] [Dungeonname]
 mansion
+inn [called] [Inns]
+tavern [called] [Inns]
 hall
 church
 temple
 spire
-citadel [called] [castlename]
+citadel [called] [Castlename]
 harbour
 lighthouse
 store
 school
-maze [called] [dungeonname]
+maze [called] [Dungeonname]
 stable
 shelter
-cave [called] [dungeonname]
-cavern [called] [dungeonname]
+cave [called] [Dungeonname]
+cavern [called] [Dungeonname]
 gate
-keep [called] [castlename]
+keep [called] [Castlename]
 mill
 villa
 market
 tent
 tower
-pit [called] [dungeonname]
-tomb [called] [dungeonname]
-crypt [called] [dungeonname]
+pit [called] [Dungeonname]
+tomb [called] [Dungeonname]
+crypt [called] [Dungeonname]
