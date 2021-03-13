@@ -1,0 +1,5 @@
+benevolent
+friendly
+indifferent
+unfriendly
+hostile

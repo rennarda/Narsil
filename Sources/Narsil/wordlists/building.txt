@@ -1,13 +1,10 @@
 castle [called] [Castlename]
-cottage
 dungeon [called] [Dungeonname]
 fortress [called] [Castlename]
 folly
 house
-hovel
 mine [called] [Dungeonname]
 palace
-shack
 tower [called] [Castlename]
 prison [called] [Dungeonname]
 mansion
@@ -20,19 +17,13 @@ spire
 citadel [called] [Castlename]
 harbour
 lighthouse
-store
-school
 maze [called] [Dungeonname]
-stable
 shelter
 cave [called] [Dungeonname]
 cavern [called] [Dungeonname]
 gate
 keep [called] [Castlename]
-mill
 villa
-market
-tent
 tower
 pit [called] [Dungeonname]
 tomb [called] [Dungeonname]

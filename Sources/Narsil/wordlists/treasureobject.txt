@@ -10,6 +10,7 @@ statue
 candlestick
 tray
 book [about [race] history|about a famous [people]|about [animal]s|about farming [arablecrops]|with a spell of [magic]|of ancient secrets|dark knowledge]
+map to [castle|dungeon]
 drinking horn
 goblet
 chalice

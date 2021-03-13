@@ -1,0 +1,11 @@
+Nobility
+Militia
+Natives
+Mercenaries
+Slaves
+Clergy
+Farmers
+Peasants
+Hunters
+[Race]s
+[Race]s

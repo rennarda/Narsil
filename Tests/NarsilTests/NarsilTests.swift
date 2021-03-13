@@ -46,7 +46,7 @@ final class NarsilTests: XCTestCase {
     }
 
     func testGeneric(){
-        generate(Generator(pattern: "adventuretitle", capitalisation: .word))
+        generate(Generator(pattern: "plothook"))
 //        generate(Generator(pattern: "treasure"))
     }
     

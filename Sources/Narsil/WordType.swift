@@ -35,6 +35,7 @@ public enum WordType: String, CaseIterable {
     case danger
     case dispersion
     case disposition
+    case draw
     case dwarfname
     case dwarfprefix
     case dwarfsuffix
@@ -70,6 +71,7 @@ public enum WordType: String, CaseIterable {
     case ingredient
     case innfirstname
     case innsecondname
+    case inhabitant
     case inntitle
     case landfeature
     case landscape
@@ -98,16 +100,19 @@ public enum WordType: String, CaseIterable {
     case pie
     case place
     case placefeature
+    case plothook
     case magic
     case preparation
     case quarry
     case race
+    case ruler
     case sauce
     case sauceadjective
     case size
     case subject
     case surname
     case syllable
+    case temperament
     case thing
     case treasure
     case treasureobject
