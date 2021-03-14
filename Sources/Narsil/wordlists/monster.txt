@@ -27,7 +27,6 @@ Abjurer
 Aboleth
 Abominable Yeti
 Air Elemental
-Allosaurus
 Androsphinx
 Ankheg
 Archdruid
@@ -138,14 +137,10 @@ Grell
 Grick
 Griffon
 Grimlock
-Grung
-Gynosphinx
 Half-Ogre
 Harpy
-Hawk
 Hell Hound
 Helmed Horror
-Hezrou
 Hill Giant
 Hippogriff
 Hobgoblin
@@ -153,15 +148,12 @@ Hook Horror
 Horned Devil
 Hydra
 Ice Devil
-Ice Mephit
 Illithilich
 Illusionist
 Imp
-Intellect Devourer
 Invisible Stalker
 Iron Golem
 Kelpie
-Ki-rin
 Kobold
 Korred
 Kraken
@@ -171,8 +163,6 @@ Lemure
 Lich
 Lion
 Lizardfolk
-Magmin
-Mammoth
 Manticore
 Medusa
 Merfolk
@@ -180,7 +170,6 @@ Merrow
 Mimic
 Mind Flayer
 Minotaur
-Morkoth
 Mummy
 Mummy Lord
 Necromancer
@@ -189,7 +178,6 @@ Night Hag
 Nightmare
 Ochre Jelly
 Ogre
-Oni
 Owlbear
 Pegasus
 Phase Spider
@@ -197,23 +185,15 @@ Pit Fiend
 Pixie
 Poltergeist
 Pseudodragon
-Quaggoth
-Quasit
 Quickling
 Quipper
-Rakshasa
-Razerblast
 Redcap
-Remorhaz
 Revenant
 Roc
-Roper
 Rust Monster
-Sahuagin
 Salamander
 Satyr
 Sea Hag
-Severin
 Shadow
 Shadow Demon
 Shadow Mastiff
@@ -221,7 +201,6 @@ Shambling Mound
 Shrieker
 Siren
 Skeleton
-Skyweaver
 Specter
 Spined Devil
 Spirit Naga
@@ -233,7 +212,6 @@ Storm Giant
 Succubus
 Incubus
 Tarrasque
-Thri-kreen
 Tiamat
 Tiger
 Transmuter
@@ -257,9 +235,7 @@ Wolf
 Worg
 Wraith
 Wyvern
-Xorn
 Yeth Hound
 Yeti
-Yochlol
 Yuan-ti
 Zombie
