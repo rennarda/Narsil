@@ -1,6 +1,6 @@
 The [object|entity] [on|of|and] [the:0.5] [disposition|mood:0.3] [object|castlename|dungeonname|adventuretitlelocation]
 The [entity] in the [castlename|dungeonname|adventuretitlelocation]
-[The|A] [entity] [is|will be|shall be] [disposition|mood]
+[The|A] [entity] [is|will be|shall be|of] [disposition|mood]
 [The|A] [disposition|mood] [entity]
 [Entity] [in|from|at] the [castlename|dungeonname|adventuretitlelocation]
 The [object]

@@ -1,1 +1,1 @@
-[place][ [placefeature]:0.3]
+[place][ [placefeature]:0.1]

@@ -1,0 +1,20 @@
+delivers [outrageous demands|sensitive information]: [action] [subject]
+sends an invitation: [action] [subject]
+lies to you: [action] [subject]
+offers a fortune
+asks for help: [action] [subject]
+attempts [blackmail|extortion]
+funds an expedition to [location]
+has mistaken your identity
+offers you work: [action] [subject]
+places a [magicaltreasure|valuable [treasureobject]] in your safekeeping
+performs a dangerous ritual: [action] [subject]
+[calls in a debt|calls in a favour|sends a warning]
+has information on someone who is [important|missing|dead|wanted]
+steals from you
+seeks revenge
+is worried for their life
+is framed for [a crime|treason]
+offers details on another antagonist
+gives you directions to [location]
+is attacked by a [monster]

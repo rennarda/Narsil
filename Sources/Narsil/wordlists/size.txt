@@ -1,8 +1,5 @@
-extra large
 large
 large
-medium
-medium
 small
 small
 great
@@ -23,7 +20,6 @@ mighty
 gargantuan
 titanic
 little
-mini
 miniature
 tiny
 minute

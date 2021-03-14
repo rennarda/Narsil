@@ -1,7 +1,4 @@
-young
-youthful
-fresh
 old
-elderly
 ancient
 elder
+primordial

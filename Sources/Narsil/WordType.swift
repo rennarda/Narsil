@@ -12,6 +12,10 @@ public enum WordType: String, CaseIterable {
     case antagonist
     case adventuretitlelocation
     case action
+    case actionlocation
+    case actionperson
+    case actionidea
+    case actionobject
     case adjective
     case age
     case animal
@@ -36,6 +40,7 @@ public enum WordType: String, CaseIterable {
     case dispersion
     case disposition
     case draw
+    case drawspecial
     case dwarfname
     case dwarfprefix
     case dwarfsuffix

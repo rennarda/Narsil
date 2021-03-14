@@ -5,15 +5,15 @@ werewolf
 manticore
 gryphon
 chimera
-[age] [size] [colour] dragon
-[age] [colour] dragon
-[age] [colour] dragon
-[age] [size] [color] dragon
-[age] [colour] dragon
-[age] [colour] dragon
-[age] [size] [color] dragon
-[age] [colour] dragon
-[age] [colour] dragon
+[age:0.5] [size] [colour] dragon
+[age:0.5] [colour] dragon
+[age:0.5] [colour] dragon
+[age:0.5] [size] [color] dragon
+[age:0.5] [colour] dragon
+[age:0.5] [colour] dragon
+[age:0.5] [size] [color] dragon
+[age:0.5] [colour] dragon
+[age:0.5] [colour] dragon
 wyven
 elemental
 ghost
