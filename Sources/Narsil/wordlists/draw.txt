@@ -1,5 +1,5 @@
 [asks|commands|compels|orders|requests] you to [actionperson] a [npc]
 [asks|commands|compels|orders|requests] you to [actionlocation] a [location]
-[asks|commands|compels|orders|requests] you to [actionobject] a [treasureobject]
-[asks|commands|compels|orders|requests] you to [actionidea] a [plan|scheme|plot|idea]
+[asks|commands|compels|orders|requests] you to [actionobject] a [objectcondition] [treasureobject]
+[asks|commands|compels|orders|requests] you to [actionidea] [a plan|a scheme|a plot|an idea]
 [drawspecial]

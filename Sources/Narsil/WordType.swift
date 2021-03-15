@@ -78,6 +78,7 @@ public enum WordType: String, CaseIterable {
     case innsecondname
     case inhabitant
     case inntitle
+    case instigator
     case landfeature
     case landscape
     case jewellery
@@ -94,6 +95,7 @@ public enum WordType: String, CaseIterable {
     case number
     case npc
     case object
+    case objectcondition
     case oddity
     case ordinal
     case ore

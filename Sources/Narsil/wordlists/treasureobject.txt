@@ -1,25 +1,12 @@
 amulet in the shape of a [object|animal|weapon]
 [armour]
 [weapon]
-box
+[box|casket]
 [jewellery]
-casket
-scepter
-mirror
-statue
-candlestick
-tray
+[statue|idol|scepter]
 [scroll|]book|tome] [about [race] history|about a famous [people]|about [animal]s|about farming [arablecrops]|with a spell of [magic]|of ancient secrets|of dark knowledge|location]
-map [to|of] [castle|dungeon]
-drinking horn
-goblet
-chalice
-vase
-bowl
-comb
-lantern
-dice
+map [to|of] [castlename|dungeonname]
+[drinking horn|goblet|chalice|bottle|bowl|vase]
+[comb|dice|candlestick|mirror|tray|lantern]
 skull
-idol
-bottle
 [musicalinstrument]

@@ -1,0 +1,8 @@
+[relative|friend|acquaintance|former enemy]
+[age] scholar
+[handwritten note|portent|fortune teller]
+dying [man|woman|Race]
+member of a [secret society|cult|guild]
+[disposition] [diplomat|people|ruler] [from a noble family:0.5]
+local militia
+[tyrannical|despotic|disposition] [ruler]

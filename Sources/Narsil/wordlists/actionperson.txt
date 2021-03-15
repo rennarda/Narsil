@@ -94,7 +94,6 @@ question
 raid
 recruit
 recover
-reduce
 refuse
 reject
 release
@@ -122,7 +121,7 @@ threaten
 transport
 travel [with|to]
 trick
-truce
+truce with
 trust
 uncover
 uphold
