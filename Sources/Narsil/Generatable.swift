@@ -16,16 +16,16 @@ public protocol Generatable {
     var capitalisation: CapitalisationType { get }
 
     mutating func loadPatterns()
-    mutating func generate(with generator: PhraseGenerator) -> String
+    mutating func generate() -> String
 }
 
 public extension Generatable {
-    mutating func generate(with generator: PhraseGenerator) -> String {
+    mutating func generate() -> String {
         if patterns.count == 0 {
             loadPatterns()
         }
         let pattern = patterns.randomElement()!
-        let phrase = generator.expand(string: pattern)
+        let phrase = PhraseGenerator.shared.expand(string: pattern)
             .components(separatedBy: .whitespacesAndNewlines)
             .filter { !$0.isEmpty }
             .joined(separator: " ")

@@ -14,10 +14,10 @@ public struct SettlementGenerator {
         var oddityGenerator = OddityDescription()
         var industryGenerator = IndustryDescription()
 
-        let name = villageNameGenerator.generate(with: sharedGenerator)
+        let name = villageNameGenerator.generate()
         let size = SettlementSize.generate()
         let population = size.generatePopulation()
-        let fame = oddityGenerator.generate(with: sharedGenerator)
+        let fame = oddityGenerator.generate()
         
         var facilities: [Facility] = []
         for facility in Facility.allCases {
@@ -33,7 +33,7 @@ public struct SettlementGenerator {
         
         var industries: [String] = []
         for _ in 0..<size.numberOfIndustries(for: population) {
-            industries.append(industryGenerator.generate(with: sharedGenerator))
+            industries.append(industryGenerator.generate())
         }
         
         return Settlement(name: name, size: size, population: population, industries: industries , inns: inns, facilities: facilities, fame: fame)
@@ -47,15 +47,15 @@ public struct SettlementGenerator {
 
         var inns: [Inn] = []
         for _ in 0..<size.numberOfInns(for: population) {
-            let innName = innNameGenerator.generate(with: sharedGenerator)
+            let innName = innNameGenerator.generate()
             var meals: [String] = []
             var beers: [Beer] = []
             
             for _ in 0..<Int.random(in: 2...4) {
-                meals.append(mealGenerator.generate(with: sharedGenerator))
+                meals.append(mealGenerator.generate())
             }
             for _ in 0..<Int.random(in: 2...3) {
-                beers.append(Beer(name: beerGenerator.generate(with: sharedGenerator), description: beerDescription.generate(with: sharedGenerator)))
+                beers.append(Beer(name: beerGenerator.generate(), description: beerDescription.generate()))
             }
             
             inns.append(Inn(name: innName, food: meals, beer: beers))
@@ -66,7 +66,7 @@ public struct SettlementGenerator {
     public static func regenerateName(for settlement: Settlement) -> Settlement {
         var villageNameGenerator = VillageName()
 
-        return Settlement(name: villageNameGenerator.generate(with: SettlementGenerator.sharedGenerator), size: settlement.size, population: settlement.population, industries: settlement.industries , inns: settlement.inns, facilities: settlement.facilities, fame: settlement.fame)
+        return Settlement(name: villageNameGenerator.generate(), size: settlement.size, population: settlement.population, industries: settlement.industries , inns: settlement.inns, facilities: settlement.facilities, fame: settlement.fame)
     }
 
     public static func regenerateInns(for settlement: Settlement) -> Settlement {

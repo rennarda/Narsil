@@ -8,6 +8,7 @@
 import Foundation
 
 public struct PhraseGenerator {
+    public static let shared = PhraseGenerator()
     var words: Dictionary<WordType, [String]> = [:]
     
     public init() {
