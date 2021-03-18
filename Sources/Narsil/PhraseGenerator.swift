@@ -8,14 +8,10 @@
 import Foundation
 
 public struct PhraseGenerator {
-    public static let shared = PhraseGenerator()
+    public static var shared = PhraseGenerator()
     var words: Dictionary<WordType, [String]> = [:]
-    
-    public init() {
-        loadWordLists()
-    }
-    
-    func substitute(for keyword: String) -> String {
+        
+    mutating func substitute(for keyword: String) -> String {
         var activeKeyword = keyword
         if keyword.contains("|") {
             activeKeyword = String(keyword.split(separator: "|").randomElement()!)
@@ -24,8 +20,7 @@ public struct PhraseGenerator {
         let wordToReturn: String
         
         if let wordType = WordType(rawValue: activeKeyword.lowercased()),
-              let wordArray = words[wordType],
-              let word = wordArray.randomElement()
+           let word = randomWord(wordType: wordType)
         {
             wordToReturn = word
             
@@ -40,7 +35,7 @@ public struct PhraseGenerator {
         }
     }
 
-    func expand(string: String) -> String {
+    mutating func expand(string: String) -> String {
         let regEx = try! NSRegularExpression(pattern: "\\[([\\w|\\-\\d',&\\(\\)\\s]*):?(\\d+\\.\\d+)?]", options: [])
         guard let match = regEx.firstMatch(in: string, options: [], range: NSRange(string.startIndex..<string.endIndex, in: string))
         else { return string }
@@ -63,7 +58,7 @@ public struct PhraseGenerator {
            let from = Int(rangeComponents[0]),
            let to = Int(rangeComponents[1])
         {
-            substitution = String(Int.random(in: from..<to))
+            substitution = String(Int.random(in: from...to))
         }
         
         if string.substring(NSRange(location: 0, length: outerMatch.location)).contains(substitution){
@@ -83,5 +78,19 @@ public struct PhraseGenerator {
             }
             words[type] = lines.components(separatedBy: .newlines).dropLast()            
         }
+    }
+    
+    mutating func randomWord(wordType: WordType) -> String? {
+        if let wordArray = words[wordType] {
+            return wordArray.randomElement()
+        }
+        
+        guard let fileURL = Bundle.module.url(forResource: "wordlists/\(wordType.rawValue)", withExtension: "txt"),
+              let lines = try? String(contentsOf: fileURL)
+        else {
+            return ""
+        }
+        words[wordType] = lines.components(separatedBy: .newlines).dropLast()
+        return lines.components(separatedBy: .newlines).dropLast().randomElement()
     }
 }
