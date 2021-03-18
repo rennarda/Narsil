@@ -2,17 +2,17 @@
 [5-20] silver
 [10-50] copper
 [Gemstone]s [and [gemstone]s:0.3] worth [10-100] gold
-A [size:0.2] worthless [treasurestate] [treasureobject]
-A [size:0.2] worthless [treasurestate] [treasureobject]
-A [size:0.2] [treasurestate] plain [treasureobject] worth [1-6] copper
-A [size:0.2] [treasurestate] simple [treasureobject] worth  [1-6] copper
-A [size:0.2] [treasurestate] bronze [treasureobject] worth  [1-6] silver
-A [size:0.2] [treasurestate] silver [treasureobject] [[set|inlaid] with [gemstone]:0.1] worth  [1-5] [silver|gold]
-A [size:0.2] [treasurestate] golden [treasureobject] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.5] worth  [1-10] gold
+A [size:0.2] worthless [treasurestate:0.3] [treasureobject]
+A [size:0.2] worthless [treasurestate:0.3] [treasureobject]
+A [size:0.2] [treasurestate:0.3] plain [treasureobject] worth [1-6] copper
+A [size:0.2] [treasurestate:0.3] simple [treasureobject] worth  [1-6] copper
+A [size:0.2] [treasurestate:0.3] bronze [treasureobject] worth  [1-6] silver
+A [size:0.2] [treasurestate:0.3] silver [treasureobject] [[set|inlaid] with [gemstone]:0.1] worth  [1-5] [silver|gold]
+A [size:0.2] [treasurestate:0.3] golden [treasureobject] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.5] worth  [1-10] gold
 A [size:0.2] plain [treasureobject] worth [1-12] copper
 A [size] [clothing] worth [1-12] copper
 A [good] [size] [clothing] worth [1-12] silver
 A [size:0.2] simple [treasureobject] worth  [1-12] copper
 A [good:0.2] [size:0.2] bronze [treasureobject] worth  [1-12] silver
-A [good:0.4] [size:0.2] silver [treasureobject] [[set|inlaid] with [gemstone]:0.1]s worth [1-10] [silver|gold]
-A [good:0.6] [size:0.2] golden [treasureobject] [[set|inlaid] with [gemstone] [and [gemstone]s:0.5]:0.5] worth  [1-20] gold
+A [good:0.4] [size:0.2] silver [treasureobject] [[set|inlaid] with [gemstone]:0.1] worth [1-10] [silver|gold]
+A [good:0.6] [size:0.2] golden [treasureobject] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.5] worth  [1-20] gold

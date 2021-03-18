@@ -1,6 +1,6 @@
 [Object]
 [Animal]
-[Building]
+[Buildingtype]
 [People]
 [Race]
 [Landfeature]

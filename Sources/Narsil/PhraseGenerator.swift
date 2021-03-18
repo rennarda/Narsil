@@ -1,5 +1,5 @@
 //
-//  File.swift
+//  PhraseGenerator.swift
 //  
 //
 //  Created by Andrew Rennard on 23/02/2021.
@@ -9,8 +9,10 @@ import Foundation
 
 public struct PhraseGenerator {
     public static var shared = PhraseGenerator()
-    var words: Dictionary<WordType, [String]> = [:]
+    private var words: Dictionary<WordType, [String]> = [:]
         
+    public init(){}
+    
     mutating func substitute(for keyword: String) -> String {
         var activeKeyword = keyword
         if keyword.contains("|") {

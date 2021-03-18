@@ -27,6 +27,7 @@ public enum WordType: String, CaseIterable {
     case beertitle
     case bodypart
     case building
+    case buildingtype
     case castleprefix
     case castlesuffix
     case castletitle
