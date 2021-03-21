@@ -1,4 +1,9 @@
+[colour]
+adamantine
+ancient
+bizarre
 blocked
+buried
 foul
 mysterious
 crafted
@@ -48,3 +53,11 @@ veiled
 deep
 depleted
 forgotten
+concealed
+curious
+cursed
+defiled
+demolished
+demonic
+ruined
+towering
