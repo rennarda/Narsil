@@ -26,10 +26,10 @@ struct Constrained {
 public struct Weather {
     @Constrained(value: 0.5, maxValue: 1.0, minValue: 0.0)
     public var cloudValue
-
+    
     @Constrained(value: 0.5, maxValue: 1.0, minValue: 0.0)
     public var precipitationValue
-
+    
     @Constrained(value: 0.5, maxValue: 1.0, minValue: 0.0)
     public var tempValue
 
@@ -38,16 +38,20 @@ public struct Weather {
 
     public init(){}
     
-    public mutating func generate() {
-        windValue = update(value: windValue)
-        tempValue = update(value: tempValue)
-        precipitationValue = update(value: precipitationValue)
-        cloudValue = update(value: cloudValue)
+    public mutating func generate(windDM: Double = 0.0,
+                                  precipitationDM: Double = 0.0,
+                                  tempDM: Double = 0.0,
+                                  cloudDM: Double = 0.0
+    ) {
+        windValue = update(value: windValue, dm: windDM)
+        tempValue = update(value: tempValue, dm: tempDM)
+        precipitationValue = update(value: precipitationValue, dm:precipitationDM)
+        cloudValue = update(value: cloudValue, dm: cloudDM)
         print(tempDescription, windDescription, cloudDescription, precipitationDescription)
     }
     
-    private func update(value: Double) -> Double {
-        let randomValue = Double.random(in: 0.0...1.0)
+    private func update(value: Double, dm: Double = 0.0) -> Double {
+        let randomValue = Double.random(in: 0.0...1.0) + dm
         if randomValue > value {
             return value + 0.1
         } else if randomValue < value {
@@ -72,7 +76,7 @@ public struct Weather {
             case 0.7..<0.8:
                 return "Unusually Windy"
             case 0.8..<1.0:
-                return "Exceptionally Windy"
+                return "Very Stormy"
             default:
                 return "Unknown"
         }
@@ -81,19 +85,19 @@ public struct Weather {
     public var tempDescription: String {
         switch tempValue {
             case 0.0..<0.2:
-                return "10º below normal"
+                return "Very Cold"
             case 0.2..<0.3:
-                return "5º below normal"
+                return "Cold"
             case 0.3..<0.4:
-                return "2-3º below normal"
+                return "Cool"
             case 0.4..<0.6:
-                return "Average"
+                return "Average temperature"
             case 0.6..<0.7:
-                return "2-3º above normal"
+                return "Warm"
             case 0.7..<0.8:
-                return "5º above normal"
+                return "Very warm"
             case 0.8..<1.0:
-                return "10º above normal"
+                return "Hot"
             default:
                 return "Unknown"
         }
@@ -104,7 +108,7 @@ public struct Weather {
             case 0.0..<0.2:
                 return "Exceptionally Clear"
             case 0.2..<0.3:
-                return "Unusually Clear"
+                return "Clear"
             case 0.3..<0.4:
                 return "Scattered Clouds"
             case 0.4..<0.6:
@@ -114,7 +118,7 @@ public struct Weather {
             case 0.7..<0.8:
                 return "Very Cloudy"
             case 0.8..<1.0:
-                return "Exceptionally Cloudy"
+                return "Overcast"
             default:
                 return "Unknown"
         }
@@ -131,17 +135,17 @@ public struct Weather {
             case (0.3..<0.6,0.7..<0.8):
                 return "Scattered heavy showers"
             case (0.3..<0.6,0.8..<1.0):
-                return "Scattered downpoars"
+                return "Scattered downpours"
             case (0.6..<1.0, 0.5..<0.6):
                 return "Drizzle"
             case (0.6..<1.0, 0.6..<0.7):
-                return "Light persistent rain"
+                return "Light persistent precipitation"
             case (0.6..<1.0, 0.7..<0.8):
-                return "Persistent rain"
+                return "Persistent precipitation"
             case (0.6..<1.0, 0.8..<0.9):
-                return "Persistent heavy rain"
+                return "Persistent heavy precipitation"
             case (0.6..<1.0, 0.9..<1.0):
-                return "Persistent torrential rain"
+                return "Persistent torrential precipitation"
             default:
                 return "Unknown"
         }
