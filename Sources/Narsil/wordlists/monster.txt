@@ -1,241 +1,62 @@
-[race]s
-[animal]s
-hydra
-werewolf
-manticore
-gryphon
-chimera
-[age:0.5] [size] [colour] dragon
-[age:0.5] [colour] dragon
-[age:0.5] [colour] dragon
-[age:0.5] [size] [color] dragon
-[age:0.5] [colour] dragon
-[age:0.5] [colour] dragon
-[age:0.5] [size] [color] dragon
-[age:0.5] [colour] dragon
-[age:0.5] [colour] dragon
-wyven
-elemental
-ghost
-vampire
-zombies
-skeletons
-necromancer
-sorcerer
-giant
-Abjurer
-Aboleth
-Abominable Yeti
-Air Elemental
-Androsphinx
-Ankheg
-Archdruid
-Archmage
-Assassin
-Aurochs
-Avatar of Death
-Axe Beak
-Azer
-Balor
-Banderhobb
+
 Banshee
-Baphomet
-Barbed Devil
-Barghest
 Basilisk
-Bearded Devil
-Behir
-Beholder
-Berserker
-Blackguard
-Blink Dog
-Blood Hawk
-Bodak
-Boggle
-Bone Devil
 Bugbear
-Bugbear Chief
-Bulette
-Bullywug
-Burrowshark
-Cambion
-Carrion Crawler
 Centaur
-Chain Devil
-Chasme
-Chimera
-Chitine
-Choldrith
-Chuul
-Clay Golem
-Cloaker
-Cloud Giant
+chimera
 Cockatrice
-Couatl
-Cultist
-Dao
-Darkling
-Darkmantle
-Death Dog
-Death Knight
-Death Tyrant
-Deathlock Wight
-Deep Gnome
 Demogorgon
-Derro
-Deva
-Devourer
-Displacer Beast
-Djinni
 Doppelganger
-Draegloth
-Dread Warrior
-Dretch
-Drider
-Drow
 Dryad
-Duergar
-Dust Mephit
-Earth Elemental
-Efreeti
-Empyrean
+elemental
 Enchanter
-Ettercap
-Ettin
 Evil Mage
-Fire Elemental
-Fire Giant
-Flesh Golem
-Flying Snake
-Fomorian
 Frost Giant
 Gargoyle
-Gelatinous Cube
-Ghast
-Ghost
+ghost
 Ghoul
+giant
 Giant Ape
-Giant Centipede
 Giant Serpent
-Giant Crocodile
-Giant Eagle
-Giant Elk
-Giant Hyena
-Giant Lizard
-Giant Octopus
-Giant Rat
-Giant Scorpion
-Giant Spider
-Giant Vulture
-Gibbering Mouther
-Githyanki
 Gnoll
 Goblin
 Gorgon
-Gray Ooze
-Grell
-Grick
-Griffon
-Grimlock
-Half-Ogre
+gryphon
 Harpy
 Hell Hound
-Helmed Horror
 Hill Giant
 Hippogriff
 Hobgoblin
-Hook Horror
-Horned Devil
-Hydra
-Ice Devil
-Illithilich
-Illusionist
-Imp
-Invisible Stalker
-Iron Golem
-Kelpie
-Kobold
-Korred
-Kraken
-Kuo-Toa
-Lamia
-Lemure
+hydra
 Lich
-Lion
-Lizardfolk
-Manticore
+manticore
 Medusa
 Merfolk
-Merrow
-Mimic
-Mind Flayer
 Minotaur
 Mummy
-Mummy Lord
 Necromancer
-Nereid
-Night Hag
-Nightmare
-Ochre Jelly
 Ogre
 Owlbear
-Pegasus
-Phase Spider
-Pit Fiend
-Pixie
-Poltergeist
-Pseudodragon
-Quickling
-Quipper
-Redcap
 Revenant
-Roc
-Rust Monster
-Salamander
-Satyr
-Sea Hag
-Shadow
-Shadow Demon
-Shadow Mastiff
-Shambling Mound
-Shrieker
 Siren
 Skeleton
-Specter
-Spined Devil
-Spirit Naga
-Sprite
-Stirge
-Stone Giant
-Stone Golem
+sorcerer
 Storm Giant
-Succubus
-Incubus
-Tarrasque
-Tiamat
-Tiger
-Transmuter
-Trapper
 Troglodyte
 Troll
 Umber Hulk
-Unicorn
+Undead
 Vampire
 Warlock
-Warlord
-Water Elemental
 Werebear
-Wereboar
-Wererat
-Wereraven
-Weretiger
 Werewolf
 Wight
-Wolf
 Worg
 Wraith
-Wyvern
-Yeth Hound
+wyven
 Yeti
-Yuan-ti
 Zombie
+[age:0.5] [colour] dragon
+[age:0.5] [size] [colour] dragon
+[animal]s
+[race]s

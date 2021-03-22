@@ -1,1 +1,2 @@
 [place][ [placefeature]:0.1]
+[village] called [Villagename]
