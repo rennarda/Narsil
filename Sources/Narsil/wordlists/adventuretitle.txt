@@ -5,3 +5,7 @@
 The [objectcondition:0.9] [object]
 The [buildingtype] [and|of] the [Race|Monster|People]
 The [mood:0.5] [landfeature] [of the [mood] [entity]:0.5]
+[Entity] [in|from|at] [castlename|dungeonname|adventuretitlelocation]
+The [objectcondition:0.5] [object]
+[castlename|dungeonname|adventuretitlelocation] [and|of] the [Race|Monster|People]
+[Castlename|Dungeonname|Adventuretitlelocation]

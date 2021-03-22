@@ -22,3 +22,6 @@ Labyrinth
 Maze
 Underkeep
 Dark
+Hive
+Labyrinth
+Necropolis
