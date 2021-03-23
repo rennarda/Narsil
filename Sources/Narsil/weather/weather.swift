@@ -8,7 +8,7 @@
 import Foundation
 
 @propertyWrapper
-struct Constrained {
+struct Constrained: Hashable {
     var value: Double
     var maxValue: Double = 1.0
     var minValue: Double = 0.0
@@ -35,19 +35,27 @@ public struct Weather {
 
     @Constrained(value: 0.5, maxValue: 1.0, minValue: 0.0)
     public var windValue
-
-    public init(){}
     
-    public mutating func generate(windDM: Double = 0.0,
+    private var id: UUID
+    
+    public init(cloudValue: Double = 0.5, precipitationValue: Double = 0.5, tempValue: Double = 0.5, windValue: Double = 0.5){
+        self.id = UUID()
+        self.cloudValue = cloudValue
+        self.precipitationValue = precipitationValue
+        self.tempValue = tempValue
+        self.windValue = windValue
+    }
+    
+    public func generate(windDM: Double = 0.0,
                                   precipitationDM: Double = 0.0,
                                   tempDM: Double = 0.0,
                                   cloudDM: Double = 0.0
-    ) {
-        windValue = update(value: windValue, dm: windDM)
-        tempValue = update(value: tempValue, dm: tempDM)
-        precipitationValue = update(value: precipitationValue, dm:precipitationDM)
-        cloudValue = update(value: cloudValue, dm: cloudDM)
-        print(tempDescription, windDescription, cloudDescription, precipitationDescription)
+    ) -> Weather {
+        let newWindValue = update(value: windValue, dm: windDM)
+        let newTempValue = update(value: tempValue, dm: tempDM)
+        let newPrecipitationValue = update(value: precipitationValue, dm:precipitationDM)
+        let newCloudValue = update(value: cloudValue, dm: cloudDM)
+        return Weather(cloudValue: newCloudValue, precipitationValue: newPrecipitationValue, tempValue: newTempValue, windValue: newWindValue)
     }
     
     private func update(value: Double, dm: Double = 0.0) -> Double {
@@ -230,6 +238,10 @@ public struct Weather {
                 return "Unknown"
         }
     }
+}
 
-
+extension Weather: Hashable {
+    public static func == (lhs: Weather, rhs: Weather) -> Bool {
+        return  lhs.id == rhs.id
+    }
 }
