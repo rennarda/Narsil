@@ -75,13 +75,28 @@ public struct Weather {
                 return "Windy"
             case 0.7..<0.8:
                 return "Unusually Windy"
-            case 0.8..<1.0:
+            case 0.8...1.0:
                 return "Very Stormy"
             default:
                 return "Unknown"
         }
     }
 
+    public var windIconName: String {
+        switch windValue {
+            case 0.0..<0.5:
+                return "aqi.low"
+            case 0.5..<0.7:
+                return "wind"
+            case 0.7..<0.8:
+                return "tornado"
+            case 0.8...1.0:
+                return "hurricane"
+            default:
+                return "Unknown"
+        }
+    }
+    
     public var tempDescription: String {
         switch tempValue {
             case 0.0..<0.2:
@@ -96,8 +111,21 @@ public struct Weather {
                 return "Warm"
             case 0.7..<0.8:
                 return "Very warm"
-            case 0.8..<1.0:
+            case 0.8...1.0:
                 return "Hot"
+            default:
+                return "Unknown"
+        }
+    }
+    
+    public var tempIconName: String {
+        switch tempValue {
+            case 0.0..<0.4:
+                return "thermometer.snowflake"
+            case 0.4..<0.6:
+                return "thermometer"
+            case 0.6...1.0:
+                return "thermometer.sun"
             default:
                 return "Unknown"
         }
@@ -117,8 +145,29 @@ public struct Weather {
                 return "Cloudy"
             case 0.7..<0.8:
                 return "Very Cloudy"
-            case 0.8..<1.0:
+            case 0.8...1.0:
                 return "Overcast"
+            default:
+                return "Unknown"
+        }
+    }
+
+    public var cloudIconName: String {
+        switch cloudValue {
+            case 0.0..<0.2:
+                return "sun.max"
+            case 0.2..<0.3:
+                return "sun.dust"
+            case 0.3..<0.4:
+                return "sun.haze"
+            case 0.4..<0.6:
+                return "cloud"
+            case 0.6..<0.7:
+                return "smoke"
+            case 0.7..<0.8:
+                return "cloud.fill"
+            case 0.8...1.0:
+                return "smoke.fill"
             default:
                 return "Unknown"
         }
@@ -126,28 +175,61 @@ public struct Weather {
 
     public var precipitationDescription: String {
         switch (cloudValue, precipitationValue) {
+            case (0.0..<0.3, 0.5...):
+                return "Foggy"
             case (0.0..<0.3, _), (_, 0.0..<0.5):
-                return "None"
+                return "No precipitation"
             case (0.3..<0.6,0.5..<0.6):
                 return "Light scattered showers"
             case (0.3..<0.6,0.6..<0.7):
                 return "Scattered showers"
             case (0.3..<0.6,0.7..<0.8):
                 return "Scattered heavy showers"
-            case (0.3..<0.6,0.8..<1.0):
+            case (0.3..<0.6,0.8...1.0):
                 return "Scattered downpours"
-            case (0.6..<1.0, 0.5..<0.6):
+            case (0.6...1.0, 0.5..<0.6):
                 return "Drizzle"
-            case (0.6..<1.0, 0.6..<0.7):
+            case (0.6...1.0, 0.6..<0.7):
                 return "Light persistent precipitation"
-            case (0.6..<1.0, 0.7..<0.8):
+            case (0.6...1.0, 0.7..<0.8):
                 return "Persistent precipitation"
-            case (0.6..<1.0, 0.8..<0.9):
+            case (0.6...1.0, 0.8..<0.9):
                 return "Persistent heavy precipitation"
-            case (0.6..<1.0, 0.9..<1.0):
+            case (0.6...1.0, 0.9...1.0):
                 return "Persistent torrential precipitation"
             default:
                 return "Unknown"
         }
     }
+
+    public var precipitationIconName: String {
+        switch (cloudValue, precipitationValue) {
+            case (0.0..<0.3, 0.5...):
+                return "cloud.fog"
+            case (0.0..<0.3, _), (_, 0.0..<0.5):
+                return "cloud.sun"
+            case (0.3..<0.6,0.5..<0.6):
+                return "cloud.sun.fill"
+            case (0.3..<0.6,0.6..<0.7):
+                return "cloud.sun.rain"
+            case (0.3..<0.6,0.7..<0.8):
+                return "cloud.sun.rain.fill"
+            case (0.3..<0.6,0.8...1.0):
+                return "cloud.sun.bolt.fill"
+            case (0.6...1.0, 0.5..<0.6):
+                return "cloud.drizzle"
+            case (0.6...1.0, 0.6..<0.7):
+                return "cloud.drizzle.fill"
+            case (0.6...1.0, 0.7..<0.8):
+                return "cloud.rain.fill"
+            case (0.6...1.0, 0.8..<0.9):
+                return "cloud.heavyrain.fill"
+            case (0.6...1.0, 0.9...1.0):
+                return "cloud.bolt.rain.fill"
+            default:
+                return "Unknown"
+        }
+    }
+
+
 }
