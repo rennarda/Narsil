@@ -10,3 +10,6 @@ garrison
 outpost
 stockade
 spire
+bastion
+hall
+fane

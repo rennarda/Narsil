@@ -29,6 +29,7 @@ public extension Generatable {
             .components(separatedBy: .whitespacesAndNewlines)
             .filter { !$0.isEmpty }
             .joined(separator: " ")
+            .correctIndefiniteArticle()
      
         if capitalisation == .initial {
             return phrase.prefix(1).capitalized + phrase.dropFirst()

@@ -1,8 +1,5 @@
-helm
-shield
 plate
 scale
-mail
-greaves
-cap
-bracers
+chainmail
+leather
+hard leather

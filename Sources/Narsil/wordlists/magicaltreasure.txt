@@ -1,6 +1,6 @@
-A [good:0.8] [size:0.2] magical [treasureobject] +[magicbonus] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.3] worth  [20-200] gold
+A [good:0.5] [size:0.2] magical [treasureobject] +[magicbonus] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.3] worth  [20-200] gold
 [2-4] doses of a potion of [magic] [(actually poison):0.05] worth  [5-10] gold each
-A [good:0.5] [small|large:0.5] magical [clothing] of [magic] +[magicbonus] worth [10-100] gold
-A [good:0.5] [wand|rod|staff|orb|sceptre|[jewellery]|ring] of [magic] +[magicbonus] worth [10-100] gold
-A [good:0.5] [weapon] [of [element]:0.2] +[magicbonus] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.3] worth [10-100] gold
-A [good:0.5] [small|large:0.5] set of [leather|chain|scale|plate] armour +[magicbonus] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.3] worth [10-100] gold
+A [good:0.3] [small|large:0.5] magical [clothing] of [magic] +[magicbonus] worth [10-100] gold
+A [good:0.3] [wand|rod|staff|orb|sceptre|[jewellery]|ring] of [magic] +[magicbonus] worth [10-100] gold
+A [good:0.3] [weapon] [of [element]:0.2] +[magicbonus] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.3] worth [10-100] gold
+A [good:0.3] [small|large:0.2] [half|partial:0.2] set of [leather|chain|scale|plate] armour +[magicbonus] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.3] worth [10-100] gold

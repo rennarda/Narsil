@@ -87,6 +87,7 @@ public enum WordType: String, CaseIterable {
     case livestock
     case location
     case meat
+    case metal
     case magicaltreasure
     case magicbonus
     case mood

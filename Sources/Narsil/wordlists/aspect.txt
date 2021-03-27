@@ -15,6 +15,7 @@ bizarre
 bleak
 blocked
 blood
+black
 bone
 brain
 broken
@@ -92,6 +93,7 @@ mystical
 natural
 open
 pillaged
+polluted
 ruined
 sacred
 sealed

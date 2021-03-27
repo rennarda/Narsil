@@ -1,0 +1,6 @@
+bronze
+bronze
+[copper|silver|gold|mithril]
+steel
+steel
+steel

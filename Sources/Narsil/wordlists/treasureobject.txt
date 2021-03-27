@@ -1,5 +1,8 @@
 amulet in the shape of a [object|animal|weapon]
-[armour]
+[[full|half|partial] suit|[helm|helmet]] of [armour] armour
+shield
+[set|pair] of [leather|metal] [greaves|vambraces]
+[weapon]
 [weapon]
 [box|casket]
 [jewellery]
