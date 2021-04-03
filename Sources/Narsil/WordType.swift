@@ -97,6 +97,9 @@ public enum WordType: String, CaseIterable {
     case magicbonus
     case modernfemale
     case modernmale
+    case modernfemalefirstname
+    case modernmalefirstname
+    case modernsurname
     case mood
     case monster
     case musicalinstrument
