@@ -1,3 +1,5 @@
 [Spanishfemalefirstname]
 [englishfemaleFirstname]
-[germanmalefirstname]
+[germanfemalefirstname]
+[frenchfemalefirstname]
+[italianfemalefirstname]

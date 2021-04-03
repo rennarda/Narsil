@@ -65,6 +65,11 @@ public enum WordType: String, CaseIterable {
     case fish
     case flavour
     case flavourdisposition
+    case frenchsurname
+    case frenchmale
+    case frenchfemale
+    case frenchmalefirstname
+    case frenchfemalefirstname
     case focus
     case fruit
     case gemstone
@@ -90,6 +95,11 @@ public enum WordType: String, CaseIterable {
     case inhabitant
     case inntitle
     case instigator
+    case italianmale
+    case italianfemale
+    case italianfemalefirstname
+    case italianmalefirstname
+    case italiansurname
     case landfeature
     case landscape
     case jewellery

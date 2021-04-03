@@ -1,3 +1,5 @@
 [Spanishmalefirstname]
 [englishmaleFirstname]
-[germanfemalefirstname]
+[germanmalefirstname]
+[frenchmalefirstname]
+[italianmalefirstname]
