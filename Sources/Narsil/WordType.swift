@@ -68,6 +68,11 @@ public enum WordType: String, CaseIterable {
     case focus
     case fruit
     case gemstone
+    case germanmale
+    case germanfemale
+    case germanmalefirstname
+    case germanfemalefirstname
+    case germansurname
     case good
     case halflingname
     case halflingfirstnameprefix
