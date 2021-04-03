@@ -53,6 +53,11 @@ public enum WordType: String, CaseIterable {
     case elfprefix
     case elfsuffix
     case element
+    case englishmale
+    case englishfemale
+    case englishfemalefirstname
+    case englishmalefirstname
+    case englishsurname
     case entity
     case fame
     case farming
@@ -90,6 +95,8 @@ public enum WordType: String, CaseIterable {
     case metal
     case magicaltreasure
     case magicbonus
+    case modernfemale
+    case modernmale
     case mood
     case monster
     case musicalinstrument
@@ -118,6 +125,11 @@ public enum WordType: String, CaseIterable {
     case sauce
     case sauceadjective
     case size
+    case spanishsurname
+    case spanishfemalefirstname
+    case spanishmalefirstname
+    case spanishfemale
+    case spanishmale
     case subject
     case surname
     case syllable
