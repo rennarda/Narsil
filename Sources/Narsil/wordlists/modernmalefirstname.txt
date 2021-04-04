@@ -3,3 +3,4 @@
 [germanmalefirstname]
 [frenchmalefirstname]
 [italianmalefirstname]
+[scandanavianmalefirstname]
