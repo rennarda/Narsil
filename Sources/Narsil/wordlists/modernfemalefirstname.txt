@@ -4,3 +4,5 @@
 [frenchfemalefirstname]
 [italianfemalefirstname]
 [scandanavianfemalefirstname]
+[russianfemalefirstname]
+[japanesefemalefirstname]

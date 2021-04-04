@@ -4,3 +4,5 @@
 [frenchmalefirstname]
 [italianmalefirstname]
 [scandanavianmalefirstname]
+[russianmalefirstname]
+[japanesemalefirstname]

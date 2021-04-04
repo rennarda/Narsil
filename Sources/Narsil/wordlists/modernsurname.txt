@@ -4,3 +4,5 @@
 [italiansurname]
 [germansurname]
 [scandanaviansurname]
+[russiansurname]
+[japanesesurname]

@@ -102,6 +102,11 @@ public enum WordType: String, CaseIterable {
     case italiansurname
     case landfeature
     case landscape
+    case japanesemale
+    case japanesefemale
+    case japanesemalefirstname
+    case japanesefemalefirstname
+    case japanesesurname
     case jewellery
     case journey
     case livestock
