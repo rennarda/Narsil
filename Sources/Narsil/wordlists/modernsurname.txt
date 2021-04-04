@@ -6,3 +6,4 @@
 [scandanaviansurname]
 [russiansurname]
 [japanesesurname]
+[chinesesurname]

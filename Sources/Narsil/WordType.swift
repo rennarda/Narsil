@@ -33,6 +33,11 @@ public enum WordType: String, CaseIterable {
     case castletitle
     case castlename
     case called
+    case chinesemale
+    case chinesefemale
+    case chinesesurname
+    case chinesemalefirstname
+    case chinesefemalefirstname
     case clothing
     case colour
     case consonant
