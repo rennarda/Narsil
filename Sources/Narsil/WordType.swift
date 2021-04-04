@@ -148,6 +148,13 @@ public enum WordType: String, CaseIterable {
     case spanishmalefirstname
     case spanishfemale
     case spanishmale
+    case scandanavianfemalefirstname
+    case scandanavianmalefirstname
+    case scandanavianmale
+    case scandanavianfemale
+    case scandanavianfemalesurname
+    case scandanavianmalesurname
+    case scandanaviansurname
     case subject
     case surname
     case syllable
