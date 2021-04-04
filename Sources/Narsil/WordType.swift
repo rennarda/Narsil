@@ -140,6 +140,11 @@ public enum WordType: String, CaseIterable {
     case quarry
     case race
     case ruler
+    case russiansurname
+    case russianfemalefirstname
+    case russianmalefirstname
+    case russianmale
+    case russianfemale
     case sauce
     case sauceadjective
     case size
