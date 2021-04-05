@@ -8,12 +8,12 @@
 import Foundation
 
 @propertyWrapper
-struct Constrained: Hashable {
+public struct Constrained: Hashable, Codable {
     var value: Double
     var maxValue: Double = 1.0
     var minValue: Double = 0.0
     
-    var wrappedValue: Double {
+    public var wrappedValue: Double {
         get {
             value
         }
@@ -23,18 +23,18 @@ struct Constrained: Hashable {
     }
 }
 
-public struct Weather {
+public struct Weather: Codable {
     @Constrained(value: 0.5, maxValue: 1.0, minValue: 0.0)
-    public var cloudValue
+    public var cloudValue: Double
     
     @Constrained(value: 0.5, maxValue: 1.0, minValue: 0.0)
-    public var precipitationValue
+    public var precipitationValue: Double
     
     @Constrained(value: 0.5, maxValue: 1.0, minValue: 0.0)
-    public var tempValue
+    public var tempValue: Double
 
     @Constrained(value: 0.5, maxValue: 1.0, minValue: 0.0)
-    public var windValue
+    public var windValue: Double
     
     private var id: UUID
     
