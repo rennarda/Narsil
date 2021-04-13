@@ -9,7 +9,7 @@ import Foundation
 
 public struct PhraseGenerator {
     public static var shared = PhraseGenerator()
-    private var words: Dictionary<WordType, [String]> = [:]
+    private var words: Dictionary<String, [String]> = [:]
         
     public init(){}
     
@@ -20,9 +20,9 @@ public struct PhraseGenerator {
         }
         
         let wordToReturn: String
+        let wordType = activeKeyword.lowercased()
         
-        if let wordType = WordType(rawValue: activeKeyword.lowercased()),
-           let word = randomWord(wordType: wordType)
+        if let word = randomWord(wordType: wordType)
         {
             wordToReturn = word
             
@@ -72,23 +72,12 @@ public struct PhraseGenerator {
         }
     }
     
-    mutating func loadWordLists(){
-        WordType.allCases.forEach { type in
-            guard let fileURL = Bundle.module.url(forResource: "wordlists/\(type.rawValue)", withExtension: "txt"),
-                  let lines = try? String(contentsOf: fileURL)
-            else {
-                return
-            }
-            words[type] = lines.components(separatedBy: .newlines).dropLast()            
-        }
-    }
-    
-    mutating func randomWord(wordType: WordType) -> String? {
+    mutating func randomWord(wordType: String) -> String? {
         if let wordArray = words[wordType] {
             return wordArray.randomElement()
         }
         
-        guard let fileURL = Bundle.module.url(forResource: "wordlists/\(wordType.rawValue)", withExtension: "txt"),
+        guard let fileURL = Bundle.module.url(forResource: "wordlists/\(wordType)", withExtension: "txt"),
               let lines = try? String(contentsOf: fileURL)
         else {
             return ""
