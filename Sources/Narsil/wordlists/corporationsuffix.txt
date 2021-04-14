@@ -1,0 +1,10 @@
+lock
+star
+gen
+tech
+dyne
+runner[s:0.3]
+technik[s:0.3]
+core
+tron[ics:0.2]
+corp

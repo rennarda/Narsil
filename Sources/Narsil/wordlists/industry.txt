@@ -1,0 +1,21 @@
+manufacturing
+labs
+clinic
+motors
+power
+energy
+genetics
+cybernetics
+computer
+systems
+weapons
+agricultural
+mining
+defence
+airlines
+haulage
+heavy industries
+aerospace
+transport
+broadcasting
+
