@@ -8,3 +8,5 @@ technik[s:0.3]
 core
 tron[ics:0.2]
 corp
+[colour]
+[north|south|east|west]

@@ -18,4 +18,11 @@ heavy industries
 aerospace
 transport
 broadcasting
-
+investments
+holdings
+construction
+software
+consulting
+healthcare
+robotics
+research

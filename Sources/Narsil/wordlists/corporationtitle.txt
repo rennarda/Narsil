@@ -1,6 +1,5 @@
 incorporated
 limited
-gmbh
 international
 industries
 corporation
@@ -8,3 +7,4 @@ dynamics
 enterprises
 systems
 products
+solutions
