@@ -48,9 +48,10 @@ public extension Generatable {
                             Bundle.module.url(forResource: "wordlists/\(patternFileName)", withExtension: "txt"),
               let lines = try? String(contentsOf: fileURL)
         else {
+            print("Unable to load pattern file name: \(patternFileName)")
             return
         }
-        patterns = lines.components(separatedBy: .newlines).dropLast()
+        patterns = lines.components(separatedBy: .newlines).filter{$0.count > 0}
     }
 }
 

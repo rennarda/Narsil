@@ -1,0 +1,27 @@
+unprocessed ore
+sand
+gravel
+powdered aluminium
+copper pellets
+iron filings
+limestone
+cement powder
+fertiliser
+plastic granules
+resin powder
+synthetic fibres
+coal
+animal feed
+flour
+nuts
+[raw|refined] sugar
+seeds
+starch
+[wheat|maize|rice|barley|oats|rye|sorghum|soybeans]
+scrap metal
+pig iron
+wood chips
+unprocessed timber
+bricks
+concrete blocks
+bio-fertiliser

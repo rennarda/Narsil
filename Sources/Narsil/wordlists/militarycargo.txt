@@ -1,0 +1,8 @@
+personal armour
+powered armour
+[sidearms|firearms|laser weapons|plasma weapons]
+[ammunition|explosives|ordnance]
+MREs
+[communication equipment|scanners]
+clothing
+portable shelters

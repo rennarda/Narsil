@@ -80,9 +80,9 @@ public struct PhraseGenerator {
         guard let fileURL = Bundle.module.url(forResource: "wordlists/\(wordType)", withExtension: "txt"),
               let lines = try? String(contentsOf: fileURL)
         else {
-            return ""
+            return nil
         }
-        words[wordType] = lines.components(separatedBy: .newlines).dropLast()
+        words[wordType] = lines.components(separatedBy: .newlines).filter{$0.count > 0}
         return lines.components(separatedBy: .newlines).dropLast().randomElement()
     }
 }

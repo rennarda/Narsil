@@ -1,0 +1,6 @@
+Consumer Goods: [1-10] tons of [consumergoodcargo]
+Electronics: [1-5] tons of [electroniccargo]
+Foodstuff: [1-10] tons of [foodcargo]
+Medial Supplies: [1-3] tons of [medicalcargo]
+Military Supplies: [5-50] tons of [militarycargo]
+Manufactured Goods: [5-500] tons of [manufacturedcargo]

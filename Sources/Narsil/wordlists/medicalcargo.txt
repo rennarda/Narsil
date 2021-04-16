@@ -1,0 +1,11 @@
+pharmaceuticals
+controller substances
+hospital equipment
+surgical equipment
+dressings
+PPE
+breathing masks
+surgical gowns
+surgical robotics
+oxygen cylinders
+sensor equipment

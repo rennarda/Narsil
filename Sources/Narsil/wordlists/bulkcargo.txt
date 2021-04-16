@@ -1,0 +1,2 @@
+Liquid: [10-1000] tons of [liquidbulkcargo]
+Dry: [10-1000] tons of [drybulkcargo]

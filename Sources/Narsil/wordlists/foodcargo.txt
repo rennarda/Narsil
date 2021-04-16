@@ -1,0 +1,14 @@
+breakfast cereals
+dyhdrated meals
+canned goods
+pasta
+rice
+frozen meat
+frozen fish
+flour
+fresh vegetables
+frozen vegetables
+cooking sauces
+fresh fruit
+[potatoes|beans|cabbages|carrots|onions|brocolli|turnips|tomatoes]
+[bananas|apples|mangoes|pineapples|oranges|lemons|plums|pears]
