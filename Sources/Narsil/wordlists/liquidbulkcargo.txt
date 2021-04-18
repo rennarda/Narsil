@@ -2,7 +2,7 @@ petroleum
 gasoline
 petrochemicals
 crude oil
-liquified gas
+liquid methane
 mineral water
 liquid nitrogen
 liquid helium
