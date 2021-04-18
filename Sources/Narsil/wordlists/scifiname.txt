@@ -1,0 +1,4 @@
+[scififirstnameprefix][scififirstnamesuffix] [scifisurnameprefix][scifisurnameprefix:0.3][scifisurnamesuffix]
+[scififirstnameprefix][scififirstnamesuffix] [scifisurnameprefix][scifisurnameprefix:0.3][scifisurnamesuffix]
+[scififirstnameprefix]-[scififirstnamesuffix] [scifisurnameprefix][scifisurnameprefix:0.3][scifisurnamesuffix]
+[scififirstnameprefix] [scifisurnameprefix][scifisurnameprefix:0.3][scifisurnamesuffix]

@@ -115,6 +115,13 @@ public struct HumanName: Generatable {
     public init(){}
 }
 
+public struct ScifiName: Generatable {
+    public var patterns: [String] = []
+    public var patternFileName: String = "scifiname"
+    public var capitalisation = CapitalisationType.word
+    public init(){}
+}
+
 public struct DwarfName: Generatable {
     public var patterns: [String] = []
     public var patternFileName: String = "dwarfname"
