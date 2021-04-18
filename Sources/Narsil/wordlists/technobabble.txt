@@ -1,0 +1,1 @@
+[babbleprefix]-[babblesuffix] [babbleevent][s:0.4] [in|of|at] the [babbleprefix]-[babblesuffix] [babbletarget]
