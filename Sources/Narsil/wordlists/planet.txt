@@ -1,8 +1,8 @@
-A [small|tiny] [cold|very cold|hot] airless rocky world, 0.[1-3]g, with [no|trace] atmosphere
-A [very cold|cold|warm|hot|very hot] dry desert world, 0.[5-9]g, with a [trace|very thin|thin|tainted|breathable|thick|toxic] atmosphere [and signs of an extinct civilisation| and ancient ruins|and extinct life:0.3]
-A [cold|temperate|warm] water world, 1.[0-5]g, with a [breathable|tainted|thick] atmosphere [and [primordial|simple|multicellular|complex|abundant] life:0.4]
-A [very cold|cold] ice world 0.[1-8]g, with a [trace|thin|breathable|tainted] atmosphere [and [extinct|primitive|complex] life:0.2]
-An [cool|warm|temperate] earth like world, 1.[0-6]g with a [breathable|thick|tainted] atmosphere, and [complex|abundant|verdant] life [and signs of an extinct civilisation| and ancient ruins|and a primitive civilisation|and an advanced civilisation:0.3]
-A [cool|warm|hot] primordial world, [0.[8-9]g|1.[1-6]g], with a [tainted|poisonous|toxic|corrosive|breathable|thin] atmosphere, and signs of [primordial|primitive|simple|extinct] life
-A [hot|ferociously hot|violent] volcanic world 0.[4-9]g, with a [tainted|poisonous|toxic|corrosive|insidious] atmosphere
-A [hot|ferociously hot] venus like world, [0.[8-9]g|1.[1-6]g], with a [tainted|poisonous|toxic|corrosive|insidious] atmosphere [and signs of an extinct civilisation|and ancient ruins|and extinct life:0.3]
+[planetname]: a [small|tiny] [cold|very cold|hot] airless rocky world, 0.[1-3]g, with [no|trace] atmosphere
+[planetname]: a [very cold|cold|warm|hot|very hot] dry desert world, 0.[5-9]g, with a [trace|very thin|thin|tainted|breathable|thick|toxic] atmosphere [and signs of an extinct civilisation| and ancient ruins|and extinct life:0.3]
+[planetname]: a [cold|temperate|warm] water world, 1.[0-5]g, with a [breathable|tainted|thick] atmosphere [and [primordial|simple|multicellular|complex|abundant] life:0.4]
+[planetname]: a [very cold|cold] ice world 0.[1-8]g, with a [trace|thin|breathable|tainted] atmosphere [and [extinct|primitive|complex] life:0.2]
+[planetname]: a [cool|warm|temperate] earth like world, 1.[0-6]g with a [breathable|thick|tainted] atmosphere, and [complex|abundant|verdant] life [and signs of an extinct civilisation| and ancient ruins|and a primitive civilisation|and an advanced civilisation:0.3]
+[planetname]: a [cool|warm|hot] primordial world, [0.[8-9]g|1.[1-6]g], with a [tainted|poisonous|toxic|corrosive|breathable|thin] atmosphere, and signs of [primordial|primitive|simple|extinct] life
+[planetname]: a [hot|ferociously hot|violent] volcanic world 0.[4-9]g, with a [tainted|poisonous|toxic|corrosive|insidious] atmosphere
+[planetname]: a [hot|ferociously hot] venus like world, [0.[8-9]g|1.[1-6]g], with a [tainted|poisonous|toxic|corrosive|insidious] atmosphere [and signs of an extinct civilisation|and ancient ruins|and extinct life:0.3]

@@ -18,3 +18,5 @@ su
 mek
 go
 kha
+eine
+kis
