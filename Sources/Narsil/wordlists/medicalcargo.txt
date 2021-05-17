@@ -1,5 +1,5 @@
 pharmaceuticals
-controller substances
+controlled substances
 hospital equipment
 surgical equipment
 dressings
