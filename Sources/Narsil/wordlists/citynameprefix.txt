@@ -1,0 +1,2 @@
+new
+[north|south|east|west]
