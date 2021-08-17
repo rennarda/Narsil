@@ -63,13 +63,7 @@ public struct PhraseGenerator {
         {
             substitution = String(Int.random(in: from...to))
         }
-        
-        if string.substring(NSRange(location: 0, length: outerMatch.location)).contains(substitution){
-            // word already exists, try again!
-            return expand(string: string)
-        } else {
-            return expand(string: string.replacingCharacters(in: string.swiftRange(outerMatch), with: substitution))
-        }
+        return expand(string: string.replacingCharacters(in: string.swiftRange(outerMatch), with: substitution))
     }
     
     mutating func randomWord(wordType: String) -> String? {

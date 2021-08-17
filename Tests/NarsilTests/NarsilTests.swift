@@ -9,7 +9,7 @@ final class NarsilTests: XCTestCase {
     func generate(_ generator:Generatable) {
         var generatorCopy = generator
         for _ in 0..<iterations {
-            print(generatorCopy.generate(with: phraseGenerator))
+            print(generatorCopy.generate())
         }
     }
 
@@ -48,6 +48,11 @@ final class NarsilTests: XCTestCase {
     func testGeneric(){
         generate(Generator(pattern: "plothook"))
 //        generate(Generator(pattern: "treasure"))
+    }
+
+    func testModernName() {
+        generate(Generator(pattern: "modernmale"))
+        generate(Generator(pattern: "modernfemale"))
     }
     
 }
