@@ -1,16 +1,7 @@
-police officer
-informant
-drug dealer
-shop keeper
-gun runner
-gang leader
-office worker
-corporate
-street samurai
-bodyguard
-fixer
-street doctor
-tech
-cyberware dealer
+[police officer|detective]
+[informant|drug dealer|gun runner|gang leader|fence]
+[corporate|office worker|shop keeper|bar tender]
+[street samurai|bodyguard]
+[fixer|street doctor|tech|cyberware dealer|hacker]
 [replicant|android|synthetic]
 [VIP|celebrity|social media starlet|rocker]

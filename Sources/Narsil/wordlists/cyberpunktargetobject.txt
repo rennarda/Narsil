@@ -1,1 +1,1 @@
-[actionobject] [a|some|several] [prototype|experimental|rare|valuable|illegal|advanced|restricted:0.4] [militarycargo|electroniccargo|medicalcargo|system|data]
+[prototype|experimental|rare|valuable|illegal|advanced|restricted:0.4] [militarycargo|electroniccargo|medicalcargo|system|data]

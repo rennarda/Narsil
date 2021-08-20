@@ -1,8 +1,9 @@
-personal armour
-powered armour
+[personal armour|energy shields]
+[powered armour|combat walkers]
 [sidearms|firearms|laser weapons|plasma weapons]
-[ammunition|explosives|ordnance]
-MREs
+[ammunition|explosives|ordnance|heavy weapons]
+combat drugs [called [code]:0.5]
 [communication equipment|scanners]
-clothing
 portable shelters
+armoured vehicles
+stealth technology

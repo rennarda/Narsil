@@ -1,1 +1,1 @@
-[actionperson] a [cyberpunkassociate] [called] [[modernmale|modernfemale]|handle|Scifiname]
+ a [cyberpunkassociate] [called] [[modernmale|modernfemale]|handle|Scifiname]

@@ -1,8 +1,8 @@
 help
-prevent this
-intervene
+prevent
+intervene in
 assist
-provide [backup|escort|cover]
-stop this from happening
-cover the tracks
+provide [backup|escort|cover] for
+stop
+cover the tracks of
 investigate

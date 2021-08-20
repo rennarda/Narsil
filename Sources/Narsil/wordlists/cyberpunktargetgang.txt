@@ -1,1 +1,1 @@
-[actionidea|actionperson] a gang [called] [gangname]
+a gang [called] [gangname]

@@ -57,6 +57,6 @@ wyven
 Yeti
 Zombie
 [age:0.5] [colour] dragon
-[age:0.5] [size] [colour] dragon
+[age:0.5] [colour] dragon
 [animal]s
 [race]s

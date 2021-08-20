@@ -1,1 +1,1 @@
-[actionidea|actionperson] a company [called] [corporation]
+[corporation]

@@ -1,0 +1,9 @@
+pistol
+shotgun
+laser
+blaster
+rifle
+MG
+sniper
+grenade
+AR
