@@ -1,7 +1,7 @@
 research
 evidence
 recording
-profile
+profile data
 scans
 document
 audio recording

@@ -1,0 +1,4 @@
+[cyberpunkoccupation]
+[cyberpunkoccupation]
+[relative|friend|acquaintance|former enemy]
+[punk|lowlife|hacker|gang member]
