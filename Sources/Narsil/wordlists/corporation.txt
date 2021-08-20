@@ -1,3 +1,3 @@
 [Corporationprefix][corporationsuffix|Corporationsuffix] [industry:0.5] [Corporationtitle:0.5]
-[modernsurname] [industry:0.5] [Corporationtitle:0.9]
-[Syllable][syllable][syllable:0.2][syllable:0.2] [industry:0.5] [Corporationtitle:0.9]
+[Modernsurname] [Industry:0.5] [Corporationtitle:0.9]
+[Syllable][syllable][syllable:0.2][syllable:0.2] [Industry:0.5] [Corporationtitle:0.9]

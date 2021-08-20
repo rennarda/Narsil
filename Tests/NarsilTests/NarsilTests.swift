@@ -55,4 +55,12 @@ final class NarsilTests: XCTestCase {
         generate(Generator(pattern: "modernfemale"))
     }
     
+    func testCyberpunkJob(){
+        generate(Generator(pattern: "cyberpunkjob"))
+    }
+
+    func testGangName(){
+        generate(Generator(pattern: "gangname"))
+    }
+
 }

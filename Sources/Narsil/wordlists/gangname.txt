@@ -1,0 +1,8 @@
+[The:0.5] [Colour] [Gangsuffix]
+[The:0.5] [North|South|East|West] Side [Gangsuffix]
+[The:0.5] [[Metal]ers|[Metal] [Gangsuffix]]
+[The:0.5] [Castleprefix] [Gangsuffix]
+[The:0.5] [Mood] [Gangsuffix]
+[The:0.5] [Monster|People]s
+[The:0.5] [Weapon] [Gangsuffix]
+[The:0.5] [Modernsurname]'s [Gangsuffix]
