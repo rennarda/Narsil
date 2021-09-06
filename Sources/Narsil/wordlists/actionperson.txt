@@ -126,7 +126,6 @@ trust
 uncover
 uphold
 usurp
-vengeance
 violate
 watch [for:0.5]
 weaken

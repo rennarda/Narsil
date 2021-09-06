@@ -2,6 +2,7 @@
 [informant|drug dealer|gun runner|gang leader|fence]
 [corporate|office worker|shop keeper|bar tender]
 [street samurai|bodyguard]
-[fixer|street doctor|tech|cyberware dealer|hacker]
+[fixer|street doctor|tech|cyberware dealer|hacker|runner|slicer]
 [replicant|android|synthetic]
 [VIP|celebrity|social media starlet|rocker]
+[solder|officer|marine|pilot]

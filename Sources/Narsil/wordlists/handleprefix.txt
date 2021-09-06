@@ -117,3 +117,4 @@ Zhora
 [one|two|three|four|five|six|seven|eight|nine|ten|twelve|twenty][1-12]
 wires
 [japanesemalefirstname|japanesemalefirstname]
+[alpha|beta|gamma|delta|epsilon|tau|omega]

@@ -8,5 +8,5 @@ inspired
 requested
 begged
 forced
-approached by
-tricked by
+approached
+tricked
