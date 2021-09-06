@@ -1,0 +1,12 @@
+arcology
+lab
+research facility
+warehouse
+office
+server farm
+tower
+underground base
+private island
+[orbital facility|lunar base]
+skyscraper
+manufacturing facility

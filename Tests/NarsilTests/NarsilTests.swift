@@ -57,6 +57,7 @@ final class NarsilTests: XCTestCase {
     
     func testCyberpunkJob(){
         generate(Generator(pattern: "cyberpunkjob"))
+//        generate(Generator(pattern: "cyberpunkcomplication"))
     }
 
     func testGangName(){
