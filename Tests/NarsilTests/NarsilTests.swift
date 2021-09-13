@@ -68,4 +68,8 @@ final class NarsilTests: XCTestCase {
         generate(Generator(pattern: "handle"))
     }
 
+    func testShipName(){
+        generate(Generator(pattern: "shipname"))
+    }
+
 }

@@ -1,4 +1,4 @@
-The [Classicalnames]
-The [Royalnavyshipname]
-The [Admiral|General|Marshall] [Modernsurname]
-The [Usnavyshipname]
+[shipnameprefix] [Classicalnames]
+[shipnameprefix] [Royalnavyshipname]
+[shipnameprefix] [Admiral|General|Marshall] [Modernsurname]
+[shipnameprefix] [Usnavyshipname]
