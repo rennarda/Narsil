@@ -20,15 +20,15 @@ final class NarsilTests: XCTestCase {
     func testMeals(){
         generate(MealName())
     }
-    
+
     func testInns(){
         generate(InnName())
     }
-    
+
     func testBeers(){
         generate(BeerName())
     }
-    
+
     func testVillages(){
         generate(VillageName())
     }
@@ -54,7 +54,7 @@ final class NarsilTests: XCTestCase {
         generate(Generator(pattern: "modernmale"))
         generate(Generator(pattern: "modernfemale"))
     }
-    
+
     func testCyberpunkJob(){
         generate(Generator(pattern: "cyberpunkjob"))
 //        generate(Generator(pattern: "cyberpunkcomplication"))
@@ -70,6 +70,14 @@ final class NarsilTests: XCTestCase {
 
     func testShipName(){
         generate(Generator(pattern: "shipname"))
+    }
+
+    func testPlanetName(){
+        generate(Generator(pattern: "planetname"))
+    }
+
+    func testsectorName(){
+        generate(Generator(pattern: "sectorname"))
     }
 
 }

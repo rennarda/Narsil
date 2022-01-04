@@ -1,2 +1,1 @@
-[scififirstnameprefix][scififirstnameprefix:0.5][scififirstnamesuffix]
-[scififirstnameprefix][scififirstnameprefix:0.5][scififirstnamesuffix] [Alpha|Beta|Gamma|Delta|Epsilon|I|II|III|IV|V|VI|VII|[1-6]|Prime]
+[scififirstnameprefix][scififirstnameprefix:0.5][scififirstnamesuffix] [Alpha|Beta|Gamma|Delta|Epsilon|I|II|III|IV|V|VI|VII|[1-6]|Prime:0.4]
