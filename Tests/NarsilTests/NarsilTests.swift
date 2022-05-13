@@ -72,8 +72,12 @@ final class NarsilTests: XCTestCase {
 //        generate(Generator(pattern: "shipname"))
 //    }
 
-    func testPlanetName(){
-        generate(Generator(pattern: "planetname"))
+//    func testPlanetName(){
+//        generate(Generator(pattern: "planetname"))
+//    }
+
+    func testEpic(){
+        generate(Generator(pattern: "epicgroup"))
     }
 
 //    func testsectorName(){

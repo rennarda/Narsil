@@ -1,0 +1,2 @@
+[Aspect:0.2] [Epicpeople]s of [Aspect:0.1] [Epicconcept]
+[Epicconcept] [Epicpeople]s
