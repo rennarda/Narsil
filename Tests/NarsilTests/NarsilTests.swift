@@ -55,10 +55,10 @@ final class NarsilTests: XCTestCase {
 //        generate(Generator(pattern: "modernfemale"))
 //    }
 //
-//    func testCyberpunkJob(){
-//        generate(Generator(pattern: "cyberpunkjob"))
-////        generate(Generator(pattern: "cyberpunkcomplication"))
-//    }
+    func testCyberpunkJob(){
+        generate(Generator(pattern: "gangname"))
+//        generate(Generator(pattern: "cyberpunkcomplication"))
+    }
 //
 //    func testGangName(){
 //        generate(Generator(pattern: "gangname"))
@@ -76,9 +76,9 @@ final class NarsilTests: XCTestCase {
 //        generate(Generator(pattern: "planetname"))
 //    }
 
-    func testEpic(){
-        generate(Generator(pattern: "epicgroup"))
-    }
+//    func testEpic(){
+//        generate(Generator(pattern: "epicgroup"))
+//    }
 
 //    func testsectorName(){
 //        generate(Generator(pattern: "sectorname"))

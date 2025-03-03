@@ -1,0 +1,42 @@
+combat gang
+skaters
+martial artists
+jackers
+street fighters
+wireheads
+biker gang
+racers
+sneaks
+rioters
+boosters
+chromers
+cultists
+mafia
+yakuza
+hunters
+racketeers
+pranksters
+street kids
+nihilists
+guardians
+policlub
+dealers
+fixers
+communists
+anarchists
+fascists
+hackers
+thieves
+ringers
+muggers
+raiders
+thugs
+breakers
+hitmen
+rejects
+losers
+victims
+junkies
+scoundrels
+scavengers
+anti-[gangtype]
