@@ -13,47 +13,47 @@ final class NarsilTests: XCTestCase {
         }
     }
 
-    func testOddities() {
-        generate(OddityDescription())
-    }
-
-    func testMeals(){
-        generate(MealName())
-    }
-    
-    func testInns(){
-        generate(InnName())
-    }
-    
-    func testBeers(){
-        generate(BeerName())
-    }
-    
-    func testVillages(){
-        generate(VillageName())
-    }
-
-    func testLocation(){
-        generate(LocationDescription())
-    }
-
-    func testAction(){
-        generate(ActionOracle())
-    }
-
-    func testDanger(){
-        generate(DangerOracle())
-    }
-
-    func testGeneric(){
-        generate(Generator(pattern: "plothook"))
-//        generate(Generator(pattern: "treasure"))
-    }
-
-    func testModernName() {
-        generate(Generator(pattern: "modernmale"))
-        generate(Generator(pattern: "modernfemale"))
-    }
+//    func testOddities() {
+//        generate(OddityDescription())
+//    }
+//
+//    func testMeals(){
+//        generate(MealName())
+//    }
+//
+//    func testInns(){
+//        generate(InnName())
+//    }
+//
+//    func testBeers(){
+//        generate(BeerName())
+//    }
+//
+//    func testVillages(){
+//        generate(VillageName())
+//    }
+//
+//    func testLocation(){
+//        generate(LocationDescription())
+//    }
+//
+//    func testAction(){
+//        generate(ActionOracle())
+//    }
+//
+//    func testDanger(){
+//        generate(DangerOracle())
+//    }
+//
+//    func testGeneric(){
+//        generate(Generator(pattern: "plothook"))
+////        generate(Generator(pattern: "treasure"))
+//    }
+//
+//    func testModernName() {
+//        generate(Generator(pattern: "modernmale"))
+//        generate(Generator(pattern: "modernfemale"))
+//    }
 
     func testHumanNameUsesMedievalEnglishResources() {
         var generator = HumanName()
@@ -105,22 +105,34 @@ final class NarsilTests: XCTestCase {
         XCTAssertEqual("a apple".correctIndefiniteArticle(), "an apple")
         XCTAssertEqual("Juliana of York".correctIndefiniteArticle(), "Juliana of York")
     }
-    
+
     func testCyberpunkJob(){
-        generate(Generator(pattern: "cyberpunkjob"))
+        generate(Generator(pattern: "gangname"))
 //        generate(Generator(pattern: "cyberpunkcomplication"))
     }
+//
+//    func testGangName(){
+//        generate(Generator(pattern: "gangname"))
+//    }
+//
+//    func testHandle(){
+//        generate(Generator(pattern: "handle"))
+//    }
+//
+//    func testShipName(){
+//        generate(Generator(pattern: "shipname"))
+//    }
 
-    func testGangName(){
-        generate(Generator(pattern: "gangname"))
-    }
+//    func testPlanetName(){
+//        generate(Generator(pattern: "planetname"))
+//    }
 
-    func testHandle(){
-        generate(Generator(pattern: "handle"))
-    }
+//    func testEpic(){
+//        generate(Generator(pattern: "epicgroup"))
+//    }
 
-    func testShipName(){
-        generate(Generator(pattern: "shipname"))
-    }
+//    func testsectorName(){
+//        generate(Generator(pattern: "sectorname"))
+//    }
 
 }

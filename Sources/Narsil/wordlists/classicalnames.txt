@@ -212,7 +212,7 @@ Chronos
 Chrysippus
 Chryson
 Chrysus
-Chthonic deities
+Chthonic
 Chthonius
 Cinyras
 Circe
@@ -522,7 +522,8 @@ Mopsus
 Moros
 Morpheus
 Mortals
-Mousika or Musica
+Mousika
+Musica
 Muses
 Mylas
 Myles
@@ -684,7 +685,6 @@ Sangarius
 Sarpedon
 Satyrs
 Scamander
-Sea deities
 Selene
 Semele
 Silenus

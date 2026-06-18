@@ -6,8 +6,6 @@ office
 server farm
 tower
 underground base
-private island
-[orbital facility|lunar base]
 skyscraper
 manufacturing facility
 black clinic
@@ -18,3 +16,83 @@ automated dock
 luxury habitat
 abandoned mall
 drone hangar
+coffee shop
+pawn shop
+tattoo parlour
+street food stall
+bookstore
+nightclub
+flower market
+barbershop
+hardware store
+arcade
+corner pub
+laundromat
+bicycle repair shop
+karaoke bar
+used clothing store
+tattoo removal clinic
+pet grooming salon
+boxing gym
+vinyl record store
+noodle bar
+investment firm
+tech startup
+law office
+advertising agency
+architectural firm
+biotech research lab
+consulting firm
+media production house
+pharmaceutical company
+cybersecurity firm
+fashion headquarters
+real estate developer
+marketing agency
+insurance company
+banking headquarters
+AI development lab
+engineering consultancy
+logistics company
+gaming studio
+aerospace corporation
+micro-apartments
+luxury penthouse tower
+pod living complex
+gated suburban community
+converted warehouse lofts
+floating houseboats
+high-rise tenement block
+eco-friendly smart homes
+underground bunker residences
+retrofitted office-to-housing flats
+capsule apartments
+rooftop shanty settlements
+co-living spaces
+vertical farming residences
+modular prefab housing
+abandoned mall turned housing
+art deco revival condos
+corporate-owned worker dormitories
+post-war brutalist housing blocks
+off-grid solar-powered homes
+robotics repair shop
+underground speakeasy
+fusion sushi bar
+escape room venue
+cyber café
+handmade jewelry boutique
+luxury watch retailer
+board game café
+vinyl toy store
+private investigation agency
+electric vehicle charging station
+24-hour diner
+craft brewery
+music recording studio
+urban farming supply store
+second-hand bookshop
+high-end fashion boutique
+self-storage facility
+independent film cinema
+gaming lounge
