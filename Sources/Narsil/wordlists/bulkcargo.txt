@@ -1,2 +1,7 @@
 Liquid: [10-1000] tons of [liquidbulkcargo]
 Dry: [10-1000] tons of [drybulkcargo]
+Mixed Bulk: [50-500] tons of [drybulkcargo] and [liquidbulkcargo]
+Refrigerated Bulk: [20-300] tons of [foodcargo]
+Liquid Bulk: [10-200] tons of [liquidbulkcargo]
+Industrial Bulk: [50-800] tons of [drybulkcargo]
+Agricultural Bulk: [20-500] tons of [drybulkcargo]

@@ -1,1 +1,6 @@
  a [cyberpunkassociate] [called] [[Modernmale|Modernfemale]|Handle|Scifiname|Japanesefemale|Japanesemale]
+the [cyberpunkassociate] [called] [Modernmale|Modernfemale|Handle|Scifiname|Japanesefemale|Japanesemale]
+a missing [cyberpunkoccupation] [called] [Modernmale|Modernfemale|Handle|Scifiname]
+a corporate witness [called] [Modernmale|Modernfemale|Handle|Scifiname]
+an informant [called] [Handle|Scifiname|Japanesefemale|Japanesemale]
+a fugitive executive [called] [Modernmale|Modernfemale|Handle]

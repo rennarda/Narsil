@@ -11,3 +11,8 @@ nine
 ten
 [leven|el|eleven]
 twelve
+zero
+nought
+niner
+one
+four

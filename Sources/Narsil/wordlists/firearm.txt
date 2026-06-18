@@ -7,3 +7,11 @@ MG
 sniper
 grenade
 AR
+machine pistol
+railgun
+coilgun
+stunner
+smartgun
+flechette pistol
+gauss rifle
+shock baton

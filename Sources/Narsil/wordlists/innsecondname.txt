@@ -6,3 +6,9 @@
 [Landfeature]
 [Waterfeature]
 [Musicalinstrument]
+[Bodypart]
+[Place]
+crossroads
+flagon
+hearth
+sign

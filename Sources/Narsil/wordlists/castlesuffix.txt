@@ -19,3 +19,11 @@ gor
 gan
 vel
 [syllable]
+spire
+watch
+crown
+moor
+tor
+bridge
+haven
+ward

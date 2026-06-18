@@ -46,3 +46,11 @@ warm
 wild
 wood
 simple
+apple
+bee
+candle
+copper
+daisy
+merry
+pepper
+whistle

@@ -9,3 +9,11 @@ wind
 storm
 light
 dark
+shadow
+smoke
+salt
+stone
+iron
+mist
+ash
+thorn

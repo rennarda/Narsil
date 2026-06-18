@@ -8,3 +8,11 @@ enterprises
 systems
 products
 solutions
+holdings
+group
+labs
+research
+security
+ventures
+consortium
+logistics

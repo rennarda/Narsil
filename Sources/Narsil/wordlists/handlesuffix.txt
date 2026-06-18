@@ -31,3 +31,13 @@ Smash
 Spryte
 Whirly
 Xylo
+Crash
+Ghost
+Glitch
+Kernel
+Latch
+Neon
+Patch
+Root
+Signal
+Vector

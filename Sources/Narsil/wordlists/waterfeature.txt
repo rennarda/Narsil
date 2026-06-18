@@ -9,3 +9,11 @@ lagoon
 rill
 coast
 sea
+waterfall
+estuary
+fjord
+marsh
+swamp
+fen
+spring
+canal

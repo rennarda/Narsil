@@ -13,3 +13,8 @@ spire
 bastion
 hall
 fane
+redoubt
+fastness
+stronghold
+bulwark
+gatehouse

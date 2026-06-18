@@ -11,3 +11,13 @@ posi
 meta
 com
 nu
+omni
+aeon
+syn
+orbit
+tera
+kin
+zen
+volt
+helix
+poly

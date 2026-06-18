@@ -3,3 +3,11 @@ lute
 lyre
 drum
 harp
+fiddle
+horn
+pipe
+viol
+mandolin
+hurdy-gurdy
+cittern
+tambour

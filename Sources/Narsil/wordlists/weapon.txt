@@ -7,3 +7,11 @@ arrow
 hammer
 lance
 spear
+club
+crossbow
+dagger
+flail
+mace
+pike
+scimitar
+staff

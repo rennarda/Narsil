@@ -2,3 +2,7 @@
 [shipnameprefix] [Royalnavyshipname]
 [shipnameprefix] [Admiral|General|Marshall] [Modernsurname]
 [shipnameprefix] [Usnavyshipname]
+[shipnameprefix] [colour] [animal]
+[shipnameprefix] [mood] [object]
+[shipnameprefix] [planetname]
+[shipnameprefix] [element] [Classicalnames]

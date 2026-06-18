@@ -65,3 +65,15 @@ circle
 ring
 obelisk
 column
+altar
+banner
+bone flute
+candle
+codex
+helm
+hourglass
+key
+mask
+mirror
+needle
+seal

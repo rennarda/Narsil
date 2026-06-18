@@ -9,3 +9,10 @@ Peasants
 Hunters
 [Race]s
 [Race]s
+Artisans
+Caravaners
+Fisherfolk
+Outlaws
+Pilgrims
+Scribes
+Trappers

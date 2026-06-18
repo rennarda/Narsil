@@ -8,3 +8,11 @@ pear
 hops
 grape
 [unusualcrops]
+carrot
+onion
+leek
+garlic
+beet
+parsnip
+plum
+hazelnut

@@ -26,3 +26,13 @@ bricks
 concrete blocks
 bio-fertiliser
 polymers
+ceramic pellets
+silica dust
+rare earth concentrate
+titanium sponge
+carbon pellets
+salt crystals
+recycled plastics
+regolith
+processed slag
+graphene flakes

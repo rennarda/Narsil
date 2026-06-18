@@ -59,3 +59,13 @@ monolith
 standing stone
 jungle
 island
+ravine
+gorge
+sinkhole
+badlands
+bog
+fen
+moor
+cairn
+stone circle
+ancient road

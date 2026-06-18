@@ -1,2 +1,7 @@
 [scififirstnameprefix][scififirstnameprefix:0.5][scififirstnamesuffix]
 [scififirstnameprefix][scififirstnameprefix:0.5][scififirstnamesuffix] [Alpha|Beta|Gamma|Delta|Epsilon|I|II|III|IV|V|VI|VII|[1-6]|Prime]
+[Scifiname] [Prime|Major|Minor|I|II|III|IV]
+[Modernsurname]'s World
+[systemprefix] [systemsuffix] [I|II|III|IV|V|[1-9]]
+[scififirstnameprefix][scififirstnamesuffix]-[1-99]
+[Alpha|Beta|Gamma|Delta|Epsilon|Tau|Omega|Phoneticalphabet] [I|II|III|IV|V]

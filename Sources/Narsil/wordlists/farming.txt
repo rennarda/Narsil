@@ -1,2 +1,7 @@
 farming [livestock|arablecrops|fieldcrops]
 farming [livestock|arablecrops|fieldcrops] and [fieldcrops|livestock]
+raising [livestock]
+orcharding [unusualcrops]
+market gardening
+keeping bees
+tending vineyards

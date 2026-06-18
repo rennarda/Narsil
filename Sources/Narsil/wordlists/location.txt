@@ -1,2 +1,4 @@
 [place][ [placefeature]:0.1]
 [Villagename] - [village]
+[mood] [building] [called|known as|by the name of] [Castlename|Dungeonname]
+[dispersion] [place]

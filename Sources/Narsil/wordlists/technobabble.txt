@@ -1,1 +1,6 @@
 [babbleprefix]-[babblesuffix] [babbleevent][s:0.4] [in|of|at] the [babbleprefix]-[babblesuffix] [babbletarget]
+[systemprefix] [systemsuffix] [babbleevent] in the [babbleprefix]-[babblesuffix] [babbletarget]
+[babbleprefix]-[babblesuffix] resonance [inside|around|beneath] the [system]
+[babbleprefix]-[babblesuffix] [babbletarget] [inversion|collapse|cascade|feedback]
+[system] suffering [babbleprefix]-[babblesuffix] [babbleevent]
+[babbleprefix]-[babblesuffix] contamination of the [babbletarget]

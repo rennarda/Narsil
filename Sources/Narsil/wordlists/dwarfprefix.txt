@@ -21,3 +21,11 @@ thor
 zhu
 khor
 vehn
+bal
+dorn
+fund
+garn
+krag
+marn
+thrain
+varg

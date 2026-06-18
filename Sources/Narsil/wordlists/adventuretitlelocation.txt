@@ -35,3 +35,13 @@ tower
 pit
 tomb
 crypt
+sanctum
+observatory
+shrine
+monastery
+vault
+library
+granary
+watchtower
+causeway
+catacomb

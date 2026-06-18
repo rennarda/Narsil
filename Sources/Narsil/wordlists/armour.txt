@@ -3,3 +3,9 @@ scale
 chainmail
 leather
 hard leather
+bronze plate
+hide
+mail
+ringmail
+splint
+studded leather

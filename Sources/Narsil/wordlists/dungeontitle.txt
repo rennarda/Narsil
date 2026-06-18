@@ -24,3 +24,11 @@ Tomb
 Tunnel
 Underkeep
 Warren
+Vault
+Sepulchre
+Hollow
+Cistern
+Sanctum
+Ossuary
+Delve
+Underhall

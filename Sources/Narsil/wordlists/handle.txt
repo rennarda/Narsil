@@ -1,3 +1,8 @@
 [Colour:0.1][handleprefix][-[1-12]:0.05]
 [[A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z]-:0.2][Handleprefix][boi|boy|girl|gal|colour:0.4][-[1-12]:0.05]
 [Classicalnames]
+[handleprefix][handlesuffix]
+[handleprefix]-[handlesuffix]
+[Handleprefix] [code]
+[handlesuffix][1-99]
+[Colour:0.2][Handleprefix][[A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z]:0.2]

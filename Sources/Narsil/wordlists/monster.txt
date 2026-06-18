@@ -60,3 +60,13 @@ Zombie
 [age:0.5] [colour] dragon
 [animal]s
 [race]s
+Changeling
+Draugr
+Ettin
+Hag
+Kraken
+Lamia
+Naga
+Sea Serpent
+Spectre
+Will-o-Wisp

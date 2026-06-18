@@ -11,3 +11,9 @@ ent
 hobgoblin
 orc
 ogre
+centaur
+gnoll
+kobold
+lizardfolk
+merfolk
+trollkin

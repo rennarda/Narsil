@@ -1,1 +1,6 @@
 [prototype|experimental|rare|valuable|illegal|advanced|restricted:0.5] [militarycargo|electroniccargo|medicalcargo|system|data|cybernetics|cybernetics]
+[encrypted|stolen|classified|forged] [data|profile data|gene sequences]
+[prototype|illegal|military] [droid|firearm|cybernetics]
+[sealed|black market|quarantined] medical samples
+[corporate|military|gang] account keys
+[experimental|unstable|restricted] wetware

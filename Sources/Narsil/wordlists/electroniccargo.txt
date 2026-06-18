@@ -11,3 +11,11 @@ personal care products
 power cells
 robots
 robot components
+sensor arrays
+shipboard computers
+navigation modules
+holo projectors
+data cores
+diagnostic scanners
+autofactory controllers
+drone parts

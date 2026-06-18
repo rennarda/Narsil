@@ -193,3 +193,15 @@ wounds
 [People]
 [People]
 [People]
+ancestry
+artifact
+betrayal
+curse
+exile
+fate
+heirloom
+inheritance
+omen
+prophecy
+relic
+ritual

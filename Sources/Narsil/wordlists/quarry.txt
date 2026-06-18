@@ -5,3 +5,9 @@ gravel
 sand
 rock
 clay
+slate
+granite
+basalt
+chalk
+flint
+soapstone

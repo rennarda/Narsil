@@ -5,3 +5,9 @@ millet
 rye
 corn
 maize
+spelt
+buckwheat
+sorghum
+lentil
+flax
+hemp

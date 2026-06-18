@@ -7,3 +7,9 @@ hundred
 thousand
 many
 several
+one
+four
+six
+eight
+nine
+ten

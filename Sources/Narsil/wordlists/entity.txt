@@ -6,3 +6,6 @@
 [people]
 [race]
 [stranger|one|dweller|lurker|holder|keeper]
+[wanderer|exile|oracle|herald]
+[queen|king|prince|princess|saint]
+[shadow|flame|storm|thorn]

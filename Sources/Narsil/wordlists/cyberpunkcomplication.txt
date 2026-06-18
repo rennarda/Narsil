@@ -3,3 +3,9 @@
 [All is not as it seems|The job is a setup].
 The job must be completed in [2-10] [hours|days].
 You need to [infiltrate|investigate|enter] a [dangerous|enemy|secure|guarded] [cyberpunkbuilding|facility|area|zone].
+The target is protected by a [loyal|experimental|hostile] [droid|AI|security system].
+The client has lied about [the target|the payment|the risks|their identity].
+The authorities are already watching the [drop|target|area|client].
+Someone inside the crew has been compromised.
+The job will trigger a corporate lockdown in [1-6] hours.
+The target has already been moved to a [cyberpunkbuilding].

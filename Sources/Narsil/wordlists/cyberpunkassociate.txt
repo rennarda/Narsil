@@ -3,3 +3,8 @@
 [relative|friend|acquaintance|former enemy]
 [punk|lowlife|gang member]
 [hacker|runner|slicer]
+[street doc|black clinic surgeon|organ broker]
+[corp defector|whistleblower|burned executive]
+[drone jockey|rig operator|security consultant]
+[media fixer|data courier|identity broker]
+[augmented courier|chrome addict|ex-cop]

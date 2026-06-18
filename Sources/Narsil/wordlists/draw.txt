@@ -3,3 +3,6 @@
 [asks|commands|compels|orders|requests] you to [actionobject] a [objectcondition] [treasureobject]
 [asks|commands|compels|orders|requests] you to [actionidea] [a plan|a scheme|a plot|an idea]
 [drawspecial]
+[begs|implores|dares|hires] you to [actionperson] a [npc]
+[begs|implores|dares|hires] you to [actionlocation] [location]
+[offers payment|promises a reward|swears an oath] if you [actionobject] the [objectcondition] [treasureobject]

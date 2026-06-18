@@ -22,3 +22,11 @@ amethyst
 garnet
 jet
 pearl
+bloodstone
+carnelian
+chalcedony
+moonstone
+onyx
+peridot
+serpentine
+sunstone

@@ -1,1 +1,6 @@
 [Modernsurname] [Installationtype]
+[planetname] [Installationtype]
+[systemprefix] [Installationtype]
+[Corporationprefix][corporationsuffix] [Installationtype]
+[code] [Installationtype]
+[Modernsurname] [research|mining|security|relay] station

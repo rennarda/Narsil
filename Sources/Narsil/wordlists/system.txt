@@ -1,1 +1,6 @@
 [Systemprefix] [Systemprefix:0.2] [Systemprefix:0.2] [Systemsuffix]
+[Systemprefix]-[systemsuffix]
+[Systemprefix] [systemsuffix] Mk [1-9]
+[Systemprefix] [Systemprefix:0.3] [systemsuffix] Array
+[Systemprefix] [systemsuffix] Network
+[systemprefix]-class [systemsuffix]

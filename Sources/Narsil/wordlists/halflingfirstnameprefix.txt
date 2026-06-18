@@ -50,3 +50,11 @@ job
 per
 rum
 rob
+bry
+cob
+daisy
+hob
+lil
+mar
+nib
+tib

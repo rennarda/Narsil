@@ -44,3 +44,9 @@ z
 ng
 in
 d
+br
+cl
+dr
+fl
+gr
+sk

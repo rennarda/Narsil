@@ -60,3 +60,13 @@ transport
 uncover
 uphold
 watch
+bind
+consecrate
+curse
+decode
+enchant
+forge
+purify
+smuggle
+unseal
+ward

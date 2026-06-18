@@ -16,3 +16,9 @@ A [size:0.2] simple [treasureobject] worth  [1-12] copper
 A [good:0.2] [size:0.2] bronze [treasureobject] worth  [1-12] silver
 A [good:0.4] [size:0.2] silver [treasureobject] [[set|inlaid] with [gemstone]:0.1] worth [1-10] [silver|gold]
 A [good:0.6] [size:0.2] golden [treasureobject] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.5] worth  [1-20] gold
+A pouch of [gemstone] chips worth [1-12] silver
+A [size:0.2] [treasurestate:0.2] ivory [treasureobject] worth [1-10] gold
+A [good:0.3] [size:0.2] [metal] [treasureobject] worth [1-20] silver
+A bundle of [treasurestate:0.3] trade bars worth [1-6] gold
+A [size:0.2] carved bone [treasureobject] worth [1-12] silver
+A [good:0.2] lacquered [treasureobject] worth [1-10] gold

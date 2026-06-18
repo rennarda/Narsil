@@ -11,3 +11,9 @@ bracelet
 amulet
 crown
 scepter
+anklet
+arm ring
+brooch
+chain
+signet ring
+torc

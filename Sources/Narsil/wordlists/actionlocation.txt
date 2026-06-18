@@ -67,3 +67,13 @@ waste
 watch
 weaken
 work for
+bar
+besiege
+consecrate
+defile
+delve into
+map
+purify
+rebuild
+sanctify
+unseal

@@ -12,3 +12,11 @@ cooking sauces
 fresh fruit
 [potatoes|beans|cabbages|carrots|onions|brocolli|turnips|tomatoes]
 [bananas|apples|mangoes|pineapples|oranges|lemons|plums|pears]
+protein paste
+nutrient blocks
+vat-grown meat
+freeze dried vegetables
+algae cakes
+coffee beans
+tea bricks
+lab cultured dairy

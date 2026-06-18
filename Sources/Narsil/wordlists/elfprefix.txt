@@ -28,3 +28,11 @@ ing
 thin
 fea
 id
+aer
+cal
+eol
+ith
+lae
+mir
+syl
+thal

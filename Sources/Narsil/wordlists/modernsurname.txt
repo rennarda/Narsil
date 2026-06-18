@@ -8,3 +8,11 @@
 [japanesesurname]
 [chinesesurname]
 [indiansurname]
+Archer
+Bishop
+Cross
+Everly
+Hale
+Mercer
+Quill
+Vale

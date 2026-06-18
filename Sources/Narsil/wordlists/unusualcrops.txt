@@ -6,3 +6,11 @@ blackcurrant
 blackberry
 blueberry
 raspberry
+fig
+quince
+mulberry
+saffron
+mandrake
+nightroot
+mooncap
+dragonpepper

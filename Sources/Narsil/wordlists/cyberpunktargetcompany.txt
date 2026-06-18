@@ -1,1 +1,6 @@
 [corporation]
+a subsidiary of [corporation]
+a shell company owned by [corporation]
+a black budget division of [corporation]
+the security branch of [corporation]
+the research arm of [corporation]

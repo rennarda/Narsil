@@ -8,3 +8,9 @@ iron
 iron
 coal
 coal
+mithril
+adamant
+cobalt
+nickel
+cinnabar
+gemstones

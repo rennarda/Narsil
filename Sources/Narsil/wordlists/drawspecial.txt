@@ -18,3 +18,11 @@ is framed for [a crime|treason]
 offers details on another antagonist
 gives you directions to [location]
 is attacked by a [monster]
+reveals a map to [location]
+brings news from [location]
+claims ownership of a [magicaltreasure|valuable [treasureobject]]
+asks you to keep a secret: [action] [subject]
+arrives with a sealed warrant
+has lost something in [location]
+warns of a betrayal: [action] [subject]
+offers safe passage through [location]

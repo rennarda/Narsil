@@ -23,3 +23,11 @@ rust
 bitter
 grim
 [syllable][syllable]
+ashen
+brass
+ember
+thorn
+raven
+wyrm
+moon
+oak

@@ -6,3 +6,10 @@ eel
 chicken
 deer
 fur
+duck
+goose
+horse
+mule
+rabbit
+bee
+yak

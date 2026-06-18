@@ -20,3 +20,11 @@ baskets
 paper
 parchment
 medicines
+habitat modules
+airlocks
+pressure bulkheads
+reactor housings
+solar arrays
+landing pads
+comm towers
+water recyclers

@@ -8,3 +8,11 @@
 [japanesemalefirstname]
 [chinesemalefirstname]
 [indianmalefirstname]
+Jaxon
+Kai
+Milo
+Rowan
+Asher
+Finn
+Ezra
+Luca

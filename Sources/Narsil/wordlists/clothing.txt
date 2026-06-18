@@ -14,3 +14,11 @@ kilt
 waistcoat
 belt
 pair of gloves
+armoured jacket
+pressure suit
+flight suit
+smart coat
+mirror shades
+utility harness
+ballistic vest
+environment cloak

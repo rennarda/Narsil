@@ -98,3 +98,14 @@ winkles
 wolf fish
 wrasse
 zander
+arctic char
+bloater
+brown shrimp
+char
+conger
+kipper
+queen scallops
+rollmops
+sea bass
+skate
+whitebait

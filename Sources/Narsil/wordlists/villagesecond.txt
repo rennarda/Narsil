@@ -71,3 +71,13 @@ on the [Villagesecond]
 under [Villageprefix][villagesuffix]
 by [Villageprefix][villagesuffix]
 cum [Villageprefix][villagesuffix]
+abbey
+causeway
+copse
+ford
+mill
+orchard
+quay
+spring
+weir
+wharf

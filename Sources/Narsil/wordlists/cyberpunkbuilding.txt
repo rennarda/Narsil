@@ -10,3 +10,11 @@ private island
 [orbital facility|lunar base]
 skyscraper
 manufacturing facility
+black clinic
+data vault
+arcade den
+corporate safehouse
+automated dock
+luxury habitat
+abandoned mall
+drone hangar

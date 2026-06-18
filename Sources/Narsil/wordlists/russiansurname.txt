@@ -1706,3 +1706,9 @@ Zykov
 Zyomin
 Zyryanov
 Zyuganov
+Beryozkin
+Dobrovolsky
+Kopylov
+Krasilnikov
+Lazarevsky
+Ryabinin

@@ -1,2 +1,8 @@
 new
 [north|south|east|west]
+fort
+port
+upper
+lower
+saint
+lake

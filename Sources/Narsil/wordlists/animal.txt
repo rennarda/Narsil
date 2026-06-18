@@ -40,3 +40,13 @@ owl
 ape
 rat
 hawk
+badger
+bat
+elk
+heron
+mastiff
+mule
+otter
+ram
+rook
+toad

@@ -28,3 +28,15 @@ pit
 tomb
 crypt
 tavern
+abbey
+monastery
+shrine
+watchtower
+mill
+forge
+warehouse
+granary
+sanctuary
+barracks
+catacombs
+observatory

@@ -19,3 +19,11 @@ xeno
 sub
 supra
 super
+astro
+crypto
+meta
+para
+chrono
+proto
+iso
+exo

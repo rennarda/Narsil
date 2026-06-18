@@ -14,3 +14,11 @@ integration
 disintegration
 redistribution
 inversion
+oscillation
+resonance
+cascade
+transference
+compression
+refraction
+phase shift
+containment breach

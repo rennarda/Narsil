@@ -12,3 +12,10 @@ hell
 delve
 loom
 level
+vault
+hollow
+root
+sepulchre
+burrow
+shaft
+gate

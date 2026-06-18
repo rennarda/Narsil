@@ -4,3 +4,9 @@ bronze
 steel
 steel
 steel
+adamantine
+brass
+cold iron
+electrum
+iron
+lead

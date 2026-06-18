@@ -1,1 +1,6 @@
 [aspect:0.8] [focus]
+[bad:0.5] omen
+[monster:0.4] threat
+[treasurestate:0.4] trap
+[mood:0.5] curse
+[element:0.3] hazard

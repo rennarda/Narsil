@@ -12,3 +12,9 @@ map [to|of] [castlename|dungeonname]
 [drinking horn|goblet|chalice|bottle|bowl|vase]
 [comb|dice|candlestick|mirror|tray|lantern]
 [musicalinstrument]
+[astrolabe|abacus|inkwell|seal]
+[funerary mask|death mask|festival mask]
+[set|bundle] of [silver|gold|copper] trade bars
+[reliquary|shrine box|prayer wheel]
+[needle case|snuff box|perfume vial]
+[tablet|plaque] inscribed with [rune|sigil]s

@@ -19,3 +19,13 @@ cakes of
 a platter of
 a drizzle of
 [preparation:0.2] parcels of
+braised
+buttered
+charred
+crumbed
+cured
+honeyed
+potted
+smoked
+soused
+spiced

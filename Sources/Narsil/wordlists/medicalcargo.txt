@@ -9,3 +9,11 @@ surgical gowns
 surgical robotics
 oxygen cylinders
 sensor equipment
+vaccines
+prosthetic limbs
+gene therapy kits
+organ transport pods
+cryogenic blood
+antibiotics
+neural repair gel
+diagnostic beds

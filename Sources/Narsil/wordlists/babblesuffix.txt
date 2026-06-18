@@ -13,3 +13,11 @@ plural
 muonic
 mycelic
 cellular
+tachyonic
+entropic
+vectorial
+synaptic
+ionic
+isotopic
+harmonic
+recursive

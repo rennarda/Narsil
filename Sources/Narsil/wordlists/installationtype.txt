@@ -7,3 +7,9 @@ colony
 highport
 dock
 outpost
+relay
+array
+refinery
+habitat
+platform
+waystation

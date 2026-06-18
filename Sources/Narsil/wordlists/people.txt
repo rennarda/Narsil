@@ -29,3 +29,13 @@ witch
 wizard
 woman
 [ruler]
+apothecary
+cartographer
+charcoal burner
+cutpurse
+ferryman
+herbalist
+pilgrim
+scribe
+soothsayer
+tinker

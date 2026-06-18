@@ -7,3 +7,10 @@ combat drugs [called [code]:0.5]
 portable shelters
 armoured vehicles
 stealth technology
+tactical drones
+field generators
+combat cybernetics
+targeting computers
+riot control gear
+drop pods
+orbital beacons

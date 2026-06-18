@@ -21,3 +21,9 @@ south
 nether
 old
 new
+middle
+inner
+outer
+saint
+kings
+queens

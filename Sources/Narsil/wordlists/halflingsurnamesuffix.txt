@@ -40,3 +40,11 @@ top
 trail
 wander
 water
+bank
+bun
+cake
+cup
+meadow
+patch
+pot
+wick

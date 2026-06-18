@@ -10,3 +10,11 @@ mud
 festivals
 farmland
 [vegetable]s
+[fruit]s
+[fish]
+[meat]
+music
+markets
+weather
+roads
+bridges

@@ -13,3 +13,10 @@ steppes
 wastelands
 wastelands
 wastelands
+marshes
+fens
+valleys
+badlands
+highlands
+woodlands
+glaciers

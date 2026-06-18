@@ -6,3 +6,10 @@ member of a [secret society|cult|guild]
 [disposition] [diplomat|people|ruler] [from a noble family:0.5]
 local militia
 [tyrannical|despotic|disposition] [ruler]
+[disposition] merchant
+[age] mapmaker
+retired [people]
+travelling [bard|monk|pilgrim|scribe]
+messenger from [location]
+survivor of [a raid|a shipwreck|a siege|a fire]
+keeper of a [building]

@@ -97,3 +97,13 @@ wich
 withy
 zy
 [villagesuffix][villagesuffix]
+croft
+combe
+fen
+holm
+mill
+nook
+thwaite
+wick
+wyke
+yard

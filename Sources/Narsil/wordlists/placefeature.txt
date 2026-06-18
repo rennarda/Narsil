@@ -1,1 +1,7 @@
 with a [mood] [building]
+with a ruined [buildingtype]
+with a hidden [building]
+with [1-6] standing stones
+crossed by a [waterfeature]
+overlooked by a [building]
+said to be haunted

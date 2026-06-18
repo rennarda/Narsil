@@ -11,3 +11,11 @@ pears
 raspberry
 smokey
 [beerflavour] and [beerflavour]
+biscuity
+caramel
+citrus
+earthy
+floral
+honeyed
+oaken
+peppery

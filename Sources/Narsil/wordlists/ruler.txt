@@ -21,3 +21,11 @@ sorcerer
 earl
 warlord
 chieftain
+baron
+baroness
+duke
+duchess
+high priest
+matriarch
+patriarch
+regent

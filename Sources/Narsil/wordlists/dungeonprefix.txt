@@ -19,3 +19,11 @@ iron
 steel
 blood
 [syllable][syllable]
+bone
+hollow
+night
+salt
+worm
+grave
+mire
+ashen

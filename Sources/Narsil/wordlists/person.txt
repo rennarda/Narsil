@@ -1,2 +1,7 @@
 [people]
 [npc]
+[ruler]
+[inhabitant]
+[race] [people]
+[disposition:0.2] [people]
+[disposition:0.2] [ruler]

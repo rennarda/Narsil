@@ -1,1 +1,6 @@
 [age:0.2] [size:0.2] [mood] [landfeature|building|landfeature|building|waterfeature]
+[age:0.2] [mood] [landfeature] near a [waterfeature]
+[size:0.2] [mood] [building] beside a [landfeature]
+[age:0.2] [mood] [waterfeature][ [placefeature]:0.4]
+a [size:0.3] [mood] [buildingtype] in the [landscape]
+a [mood] [landfeature] marked by a [buildingtype]

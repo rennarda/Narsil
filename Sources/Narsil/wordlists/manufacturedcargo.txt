@@ -8,3 +8,11 @@ vehicle components
 reels of [copper|steel|fibre optic|carbon nanotube] cable
 carbon fibre
 prefabricated buildings
+pressure doors
+airlock assemblies
+habitat panels
+machine tools
+industrial bearings
+printer feedstock
+reactor shielding
+life support modules

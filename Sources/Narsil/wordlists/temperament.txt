@@ -3,3 +3,8 @@ friendly
 indifferent
 unfriendly
 hostile
+wary
+curious
+mercenary
+zealous
+fearful

@@ -118,3 +118,15 @@ Zhora
 wires
 [japanesemalefirstname|japanesemalefirstname]
 [alpha|beta|gamma|delta|epsilon|tau|omega]
+Afterimage
+Anvil
+Blackout
+Crash
+Datamine
+Glitch
+Hardline
+Kernel
+Latch
+Neon
+Patch
+Root

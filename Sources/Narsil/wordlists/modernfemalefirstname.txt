@@ -8,3 +8,11 @@
 [japanesefemalefirstname]
 [chinesefemalefirstname]
 [indianfemalefirstname]
+Avery
+Nova
+Riley
+Harper
+Quinn
+Piper
+Sloane
+Zara

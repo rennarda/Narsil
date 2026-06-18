@@ -6,3 +6,9 @@ crisp
 bake
 cake
 fritter
+dumpling
+galette
+pottage
+pudding
+trencher
+turnover

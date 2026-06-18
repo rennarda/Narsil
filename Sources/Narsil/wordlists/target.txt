@@ -1,3 +1,6 @@
 [villagename] - [village]
 a [person]
 a [building]
+a [location]
+a [treasureobject]
+a [npc]

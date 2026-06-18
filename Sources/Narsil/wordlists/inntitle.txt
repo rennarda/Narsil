@@ -12,3 +12,10 @@ boozer
 taphouse
 saloon
 bar
+alehouse
+coaching inn
+dram shop
+drinking house
+gin palace
+public house
+roadhouse

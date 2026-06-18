@@ -15,3 +15,11 @@ rusty
 silver
 lilac
 white
+amber
+ashen
+cerulean
+charcoal
+ivory
+ochre
+scarlet
+verdigris

@@ -1,0 +1,1541 @@
+# Narsil Main Generator Samples
+
+Generated 50 samples per main generator.
+
+## InnName
+
+1. The Bristling Flagon
+2. The Hollpach Tavern
+3. Ye Ancient Four Half-cut Grey Steppe Near A Tarns
+4. Olde Weathered Mandolin
+5. The Wirkmarsh Hostelry
+6. Ye Merry Selfish Hearth
+7. The Lamb And Stars
+8. Ye Merry Crossroads
+9. The Silver Granary
+10. Ye Ancient Cutpurse's Stream Public House
+11. The Generous Crossroads
+12. Olde Eckmill Hearth
+13. Ye Merry Cromglin Hurdy-gurdy
+14. Ye Merry Ugly Hearth
+15. Ye Olde Monolith
+16. The Rolling Flagon
+17. The Restless Crossroads
+18. The Old Sign
+19. The Little Thumb
+20. The Several Coppices
+21. The Old Farmer's Eye
+22. Ye Ancient Half-cut A Sunken Ridge Marked By A Tower Roadhouse
+23. Ye Ancient Ghost's Abbey
+24. The Elf's Tarn
+25. The Lallishurst Hostelry
+26. Ye Olde Ten Gilded Mouses
+27. Ye Ancient Hobgoblin & Obelisk
+28. The Weathered Ent
+29. The Crooked Arse
+30. Olde Drunk Bowyer
+31. The Dwarf's Rib
+32. Ye Merry Lad And Halfling
+33. The Hawk & Bone Flute
+34. Olde Weathered Goblin
+35. The Wyrbourne Arms
+36. The Miner Public House
+37. The Tannook Dram Shop
+38. The Weathered Flagon
+39. The Little Two Half-cut Signs Dram Shop
+40. The Old Ivory Fortress
+41. The Drowsy Sinkhole
+42. The Little Three Gilded Signs
+43. The Agreeable Horn
+44. Olde Half-cut Harp
+45. Ye Olde Twisscombe Ale House
+46. Ye Olde Wayward Hearth
+47. Ye Ancient Goblin And Pipe Saloon
+48. The Old Flying Flagon
+49. The Furtive Soothsayer
+50. The Cubknock Fiddle
+
+## VillageName
+
+1. Flaxprominence Shore
+2. Waterbury
+3. Reddel
+4. Saint Nightrootcairn
+5. East Pershall
+6. Oakcombe
+7. Peasmonolith
+8. Deerpond Quay
+9. Anchorwich
+10. Lower Inverend
+11. Tamster
+12. Swinedilly By Timwich
+13. Lindenwick
+14. Bonewell
+15. Thurshade
+16. Throcksey
+17. Terper
+18. Lesser Beetsea
+19. Altardych
+20. Drayper
+21. Barmery
+22. North Chickenhill
+23. Milletcrater
+24. Ramstone Stile
+25. Apebury Stile
+26. Bullmery
+27. Cartographerknock
+28. Hunterwich
+29. Market Apelagoon
+30. Cinquebaugh
+31. Outer Breeper
+32. Holltize
+33. Ochrestead
+34. Fritmill
+35. Druidock
+36. Sunknock
+37. Ridinbury
+38. Bridedean
+39. Hopslake
+40. Alchemisteley
+41. Gorsedose
+42. Mousepach
+43. New Horsebarrow
+44. Ferrymanridge
+45. Audetree
+46. Dogwych Quay
+47. Tillcester
+48. Troutminster
+49. Empiremouth
+50. Eckstanton
+
+## CityName
+
+1. Cinon
+2. Wanham
+3. Antoniettiwick
+4. New Venhaven
+5. Mercergate
+6. Luvexburgh
+7. Quimekharbor
+8. Boissieu
+9. Lower Vyrgon
+10. Venfield
+11. Salkovster
+12. Charrointon
+13. Horamarket
+14. Vansu
+15. Zachariacross
+16. Caseinepool
+17. Vyrbo
+18. Rek
+19. Onburgh
+20. Stivanelloster
+21. Sannikovfalls
+22. Onburgh
+23. Arenanderwick
+24. Tababridge
+25. Fort Anawanby
+26. Bishop
+27. Bishop
+28. Möhringbridge
+29. Crosston
+30. Fort Sòngharbor
+31. Archerburgh
+32. Ethburgh
+33. Casrekfield
+34. Desportesburgh
+35. Gonharbor
+36. Pivovarov
+37. Rudin
+38. Fort Komaimouth
+39. Tāng
+40. Lake Secketer
+41. Cantosby
+42. Darford
+43. Gongate
+44. Mercer
+45. Roslund
+46. Toomek
+47. Upper Khacross
+48. Petrukhin
+49. Everly
+50. Dencross
+
+## CastleName
+
+1. Broken Hills Bastion
+2. The Prophetic Bulwark Of The Lamia Doppelganger
+3. Bitter Forests Tower
+4. Haunted Wastelands Stronghold
+5. The Hall Of Witre Athad
+6. The Empty Hall
+7. Ngeahold
+8. Bloodied Glaciers Tower
+9. Bat Mountains Citadel
+10. Raventor
+11. The Fortress Of Thokuzg
+12. Castle Ironheath
+13. Wane Lioey's High Tower
+14. The Celestial Fort Of The Goblin Herbalist
+15. Rustveil
+16. Gorsewell Fort
+17. The Bizarre Gatehouse Of The Hunter Priestess
+18. Terpath Bulwark
+19. The Hidden Fane
+20. Darkgul Fane
+21. Oakgan
+22. Bloodstained Steppes Tower
+23. The Dead Fortress
+24. Echoing Valleys Fort
+25. The Collapsed Fastness Of The Scorched Girl
+26. The Foreboding Redoubt
+27. The Bastion Of Bragzun
+28. Troutlow Redoubt
+29. Hollow Plains Fane
+30. Estiohad Thati's Tower
+31. The Deceptive Keep Of Grokrak
+32. Magical Mountains Keep
+33. Brassgarth Stockade
+34. Thongelby Hall
+35. The Dinosaur Hall
+36. Stormbrock
+37. Keep Helgarth
+38. The Bleak Castle Of Haera Hinst
+39. Khuddhrar's Spire
+40. The Echoing Redoubt Of The Evil Mage Witch
+41. The Bizarre Castle
+42. Mortor Fane
+43. Redgan Fortress
+44. Wasted Steppes Garrison
+45. The Fort Of Foryaiand
+46. Highward Bastion
+47. Malvel
+48. Malgul
+49. The Tower Of Andme Brasswild Boar
+50. Polham Fortress
+
+## CorporationName
+
+1. Synwest Research Group
+2. Styouion Products
+3. Bishop Systems
+4. Omnicore
+5. Orbitdyne
+6. Metaposigrid Dynamics
+7. Instar Holdings Group
+8. Zenlock And Polytechniks Labs
+9. Sieber-Voltsilver
+10. Novasynworks Holdings
+11. Thoul
+12. Nupositron Consortium
+13. Meta-Tron Consortium
+14. Instar Systems Group
+15. Genaeonforge International
+16. Teradyne Systems Group
+17. Zeneast Weapons Group
+18. Wasiththe Agricultural
+19. Metacommind International
+20. Orbit-Corp Ventures
+21. Quill-Novacore Group
+22. Novamind Defence
+23. Volt-Tron Transport
+24. Bishop-Remworks Industries
+25. Zensoft And Devlogic
+26. Zencyberlink Solutions
+27. Cyberdevrunners Holdings
+28. Quill Consortium
+29. Ithan Security
+30. Helixplex And Syndyne Products
+31. Hyperlogic & Novadyne Limited
+32. Vale Logistics
+33. Archer Holdings
+34. Strack-Voltrunners Incorporated
+35. Catanzariti-Zenstar Dynamics
+36. Tiovehi Construction Products
+37. Veryou Industries
+38. Zen-Grid Heavy Industries Holdings
+39. Posicorp
+40. Incorp Healthcare Group
+41. Onse Solutions
+42. Hyper-Forge Healthcare Products
+43. Com-Grid Healthcare Incorporated
+44. Asuld Airlines Dynamics
+45. Ramesh Transport Solutions
+46. Novaaxis Defence
+47. Nugrid And Novacore
+48. Uldherwas Robotics Labs
+49. Omni-Runner Energy International
+50. Polytechnik And Hyperdyne International
+
+## InstallationName
+
+1. Delta-26 Waystation
+2. Artificial Outpost
+3. Metanet Array
+4. Steady-State Colony
+5. Delta I Port
+6. Cybergrid Vision
+7. Qiū's World Platform
+8. Epsilon-82 Platform
+9. Quill Relay Station
+10. Quantum Refinery
+11. Harmonic Reducer I Refinery
+12. Hanato Mining Station
+13. Archer Research Station
+14. Quill Security Station
+15. Luó Mining Station
+16. Epsilon-64 Station
+17. Reykha Beta Colony
+18. Posiaxis Outpost
+19. Neutrino Array
+20. Pobo Calvek Prime Down
+21. Phased Filter I Refinery
+22. See-57 Station
+23. Electromagnetic Vision
+24. Skogstad Security Station
+25. Tau-60 Dock
+26. Duplay Vision
+27. Quill Outpost
+28. K-63 Waystation
+29. Sion Outpost
+30. NL-5 Platform
+31. Bee-55 Array
+32. KU-0 Colony
+33. Synaptic Station
+34. Ansible Colony
+35. Zentechnik Array
+36. Yuán Waystation
+37. X08 Dock
+38. Deara Amionrie Major Vision
+39. Plasma Highport
+40. PY56 Outpost
+41. Xel-ara Luthor Major Waystation
+42. Everly Outpost
+43. IX90 Habitat
+44. Everly Research Station
+45. Hale Outpost
+46. Plasma Vision
+47. Electromagnetic Vision
+48. Synwest Port
+49. Ketsu Kyma Major Colony
+50. Positronic Waystation
+
+## MealName
+
+1. Alexanders pie & soused pickled samphire
+2. Charred parsnip & braised bitter melon in a thin sorrel & burdock sauce beside devilled beet greens
+3. Mashed salted sea bass & toasted mango with a side of a platter of spratts
+4. A drizzle of legumes & crumbed guinea hen in an onion & sorrel sauce under a blanket of buttered langoustines
+5. Flaked lamb shoulder & spiced dory in a cider & tarragon sauce crowned with buttered loin of lamb
+6. Guppy crisp & crumbed eggs caressed by boiled archerfish
+7. Olives galette & crumbed cabbage in a robust chilli & snapdragon sauce together with raw plumcot
+8. Pork belly crisp & pickled market pistachio nuts in a horseradish & passionflower sauce
+9. Roach pastie & a drizzle of pistachio nuts
+10. Soused navy beans & spiced pollock with a side of roasted rice
+11. Minced chicken bake & devilled banana squash in an onion & chamomile sauce
+12. Potted salted white pudding & crumbed loach in a white wine & grains of paradise sauce accompanied by roasted chub
+13. Salmonberry pastie & stewed greengage
+14. Raw dory & honeyed tangerine in a brackish sorrel & anise sauce beside pickled asparagus
+15. Stewed baby calf liver & raw smoked ostrich in a pepper & salak sauce
+16. Beef heart flan & soused manta ray in a chilli & rosemary sauce tucked beside spiced chervil root
+17. Buttered cauliflower & cured kale in a custard & musk sauce
+18. Buttered tongue & grilled barbel
+19. Cakes of artichoke & roasted flounder in a sorrel & allspice sauce caressed by braised buttered nettles
+20. Corned beef pastie & grilled passionfruit
+21. Braised cured pork belly & mashed beef tenderloin
+22. Plaice galette & cured crab apples served with pickled honeydew
+23. Braised periwinkles & a platter of wolf fish in a brackish onion & paprika sauce
+24. Chipped eggs & spiced kidney beans
+25. Sole pastie & smoked river cuttlefish in a mustard & mint sauce
+26. Pulled collard greens & devilled bitter melon in a gravy & coriander sauce
+27. Cauliflower pie & a platter of partridge in an aromatic parsley & juniper sauce
+28. Spiced avocado & crumbed gem squash ringed with pickled salsify
+29. Baby longan galette & devilled fig in a cream & hawthorn sauce
+30. Smoked mackerel pastie & pulled tench in a herb & red clover sauce accompanied by baked cockles
+31. Bitter melon turnover & mashed lime
+32. Honeyed salak crisp & a drizzle of onions in a sharp mushroom & celery seed sauce
+33. Rabbit flan & parcels of redcurrant in a white wine & snapdragon sauce
+34. Asparagus pottage & flaked mussels with a side of buttered pickled white radish
+35. Cured pork belly & boiled plum in a juniper & borage sauce
+36. Hawthorn berry pudding & raw blackbird in a bitter sorrel & cicely sauce
+37. Raw pecans & parcels of green beans crowned with a platter of dried manta ray
+38. Grayling crisp & a drizzle of rhubarb in a pungent juniper & cayenne sauce followed by cakes of sloes
+39. Sardine pastie & fried ox cheeks accompanied by flambeed river minnow
+40. A platter of smoked octopus & smoked ling over roasted banana
+41. Cantaloupe pudding & buttered cherimoya
+42. Spiced hagfish & raw salt pork in a chilli & violet sauce
+43. Buttered carrot crisp & crumbed dried snapper ringed with pulled beet
+44. Mashed sweetbreads & fried honeyed gooseberry in a hot white wine & curry leaf sauce tucked beside parcels of cucumber
+45. Cranberry pastie & honeyed watermelon in a fragrant red wine & lemon sauce tucked beside sauteed smelt
+46. Fried smoked conger & fried sea beet in a plain white wine & mastic sauce
+47. A platter of parsley & stewed venison in a thin chilli & hawthorn sauce ringed with mashed faggots
+48. Chipped dory & roasted chili pepper in a red wine & ginger sauce
+49. Red cabbage galette & flambeed kohlrabi in a red wine & pine sauce
+50. Honeyed grayling & boiled black-eyed peas in a horseradish & lovage sauce ringed with fried anchovy
+
+## HumanName
+
+1. Tiingdor Hadeveeasho
+2. Notle Wyngar
+3. Evehen Redclaw
+4. Hadne Thecorin
+5. Ingon Goldenknuckle
+6. Meionnd Hafsie
+7. Ereallzar Arthit
+8. Meour Ochrefinger
+9. Asoul Brassphoenix
+10. Eratha Ourtha
+11. Isan Wyngar
+12. Isquil Outheen
+13. Inyou Ering
+14. Gonre Hincoreve
+15. Aresho Bronzethumb
+16. Ionar Goldenrib
+17. Theandse Fredlan
+18. Tohinle Thfal
+19. Asnt Greengoose
+20. Withad Lilacthumb
+21. Ingwas Goldenscale
+22. Uldhi Erroth
+23. Lete Erquilvesho
+24. Inthaonat Rustygoat
+25. Tiois Bluebadger
+26. Shoion Ochrehoof
+27. Enanbel Veth
+28. Ednt Ngnot
+29. Entatle Brassfoot
+30. Leand Hered
+31. Ereerate Rustyfang
+32. Reereour Entin
+33. Sebel Thiverti
+34. Andar Silverhorse
+35. Edsho Abonnie
+36. Herand Sibsie
+37. Stre Charcoalfish
+38. Hisntthyou Forhen
+39. Hathi Andrey
+40. Venzar Isthdor
+41. Hathaea Alerra
+42. Hinorour Morourat
+43. Herall Ermor
+44. Newati Ionesea
+45. Tiocor Seuldnt
+46. Hithi Crimsonwolverine
+47. Youere Aretioar
+48. Erabut Paleclaw
+49. Wasver Stsho
+50. Ithto Inisve
+
+## ScifiName
+
+1. Sawdar Amiium
+2. Ben Calum
+3. Benune Porvesla
+4. Kanora Madum
+5. Braen Nabma
+6. Ketkha Anen
+7. Nyxan Juncalen
+8. Boden Aerine
+9. Cas Nabsoos
+10. Ow Skyva
+11. Jaxpa Quarva
+12. Sim-pa Corrie
+13. Rey-gon Luthlo
+14. Aso Tyrum
+15. De-gon Kydor
+16. Too-kis Zenku
+17. Simbo Billuthkins
+18. Junix Calos
+19. Alba Tyrvek
+20. Tal Amimadda
+21. Gem Dykins
+22. Po Balbervek
+23. Vyrsu Billuthdor
+24. Kanden Skyax
+25. Asokis Oras
+26. Owgo Fettath
+27. Anagon Korrkyor
+28. Jun-pa Soana
+29. Quime Zenanla
+30. Janmek Jerkesdor
+31. Junkis Fettzenma
+32. Eno-kha Solkylo
+33. Qui Fettla
+34. Kan Orgian
+35. Sim-an Dyax
+36. Mon Jerkins
+37. Gemwan Corvek
+38. Or Kydala
+39. Han-gon Dydor
+40. Cas-go Onjunma
+41. Quiune Mothku
+42. Kaneth Amioror
+43. Zenon Zenorla
+44. Jaxsu Dyrie
+45. Han-eth Soluthma
+46. Quigon Nabana
+47. Zevsu Korrtis
+48. Saw Dyda
+49. Kanwan Corvek
+50. Vaneth Junvesvek
+
+## DwarfName
+
+1. Fundrak Charcoalchainmail
+2. Grimdam
+3. Khordhu Brassleg
+4. Gimdum
+5. Khadlindrum Magicaltin
+6. Gruzorn Bloodiedcopper
+7. Zhubek Whitecoal
+8. Marndam
+9. Thorrum Hightooth
+10. Dornraklin Sunnystudded Leather
+11. Khudrumthur Wildsilver
+12. Baldamli Deepringmail
+13. Bifin Broodinghorn
+14. Bifli
+15. Vehnli
+16. Kharrum
+17. Grokli
+18. Khudrum Warmrib
+19. Gruthurdhu Goldensplint
+20. Dwarum Brasshair
+21. Grokdhzulin Silentblade
+22. Khordhraz Baghard Leather
+23. Vargdam
+24. Kragrum
+25. Fundvar
+26. Bifdhrar
+27. Barbek
+28. Bifbek Brassdagger
+29. Grokdum Crimsonstaff
+30. Grimzadh Bluearrow
+31. Gruthur
+32. Khaddhzu
+33. Bifin
+34. Khazsten Darkbronze Plate
+35. Thrainglu Fallenstaff
+36. Dwavarzadh
+37. Garndhzu Darkcinnabar
+38. Khadlin Sacredknife
+39. Khaddam
+40. Dornzorn
+41. Dorndhrargund
+42. Khadrak
+43. Marnlin Ebonfang
+44. Vehndrum Keenmail
+45. Kragzorn Slylead
+46. Khorzhad Earthgemstones
+47. Khardhzubek Grassringmail
+48. Zhuin
+49. Hafin Thorniron
+50. Grudhraz Goodstudded Leather
+
+## HalflingName
+
+1. Andgo Manyleaf
+2. Froson Cloakstep
+3. Poppie Fastthumb
+4. Gafgo Greenbasher
+5. Ealwick Keenmeadow
+6. Elobob Hairycloak
+7. Drowade Earthcake
+8. Robry Underbasher
+9. Jombi Happyear
+10. Banfer Thorntongue
+11. Elapie Hairyhollow
+12. Bango Bramblepatch
+13. Klebob Keenleaf
+14. Ealwick Simplehill
+15. Pulpie Shadowtongue
+16. Eloard Whistlepuck
+17. Haldose Smallpatch
+18. Gorson Bagbottom
+19. Robbi Whistlehill
+20. Pulfer Copperhill
+21. Jobdro Bagbun
+22. Corbo Baggins
+23. Droley Pepperburrow
+24. Homlo Quickhearth
+25. Elodalf Brookcombe
+26. Sagbi Longtongue
+27. Satwise Manyfinger
+28. Sumkin Simplewater
+29. Frawise Earthpot
+30. Comdro Applefoyl
+31. Corkin Cloakshadow
+32. Comdolf Merrycaller
+33. Merkin Shadowhollow
+34. Merard Woodtop
+35. Ealry Cloakthumb
+36. Bildose Highside
+37. Elalo Daisybough
+38. Kelpie Manyhole
+39. Jobdalf Manyfoyl
+40. Gardo Warmstep
+41. Lilwise Brookbuck
+42. Frodalf Bramblefriend
+43. Rumdrum Hairybottle
+44. Canwade Bigcloak
+45. Bobard Warmbottom
+46. Foldose Shadowcake
+47. Drabob Deepbottle
+48. Bomdose Grasstongue
+49. Tumpie Sharpwick
+50. Bimgo Pepperbottom
+
+## ElfName
+
+1. Fearondrond Noliandtil
+2. Callothsea Laemir
+3. Telviesea Aldel
+4. Mirionad
+5. Foradorn
+6. Sylloth Forrond
+7. Teldor Tollasthien
+8. Tinnor Laedor
+9. Ingtur Idiath
+10. Fallum Feaviego
+11. Ossque
+12. Nolalas Nanlum
+13. Ingmir Feadel
+14. Calion Sinien
+15. Linionnor
+16. Glorwyn
+17. Syleblum
+18. Eolthienriel Alglin
+19. Mirfiel Thalfiel
+20. Falvien Eolebriel
+21. Aergodel Aerad
+22. Tinalas Linnenmar
+23. Vanornalas Feaiandfin
+24. Tinlumsari Linvieque
+25. Gonmir
+26. Tirfiel
+27. Tanmir
+28. Thiniathtur Celeb
+29. Aertursea Sindan
+30. Calquerien Ossiand
+31. Glortur Osslumuv
+32. Nanmir Celrod
+33. Calgomir Tirgo
+34. Lefindan Vanienrien
+35. Nolriel Luiand
+36. Ithquewyn Luienrond
+37. Tinnor
+38. Telebfin Ingionthien
+39. Tineb
+40. Ithiandglin Eoltil
+41. Sintil Tirturiath
+42. Avavien
+43. Feaiathsea
+44. Eoldel
+45. Feasea Calfielvie
+46. Thalion Cuisearod
+47. Sylwyn
+48. Forion
+49. Tinrienvien
+50. Elglin Tineb
+
+## OrcName
+
+1. Shagog
+2. Thoknahk
+3. Bragzug
+4. Zogmukdush
+5. Ugnak
+6. Zogzun
+7. Grokzug
+8. Bolgluk
+9. Snagog
+10. Krulrat
+11. Grishgarog
+12. Thokog
+13. Rukratnahk
+14. Azuzgthug
+15. Ghazog
+16. Krulgruluzg
+17. Grokthug
+18. Shagdushmuk
+19. Golfgash
+20. Gorbash
+21. Mogluk
+22. Bolgluk
+23. Grokzunzug
+24. Ghazzun
+25. Thokgar
+26. Brekluk
+27. Bolgmukgrul
+28. Mognahk
+29. Rukbaggrar
+30. Durggashluk
+31. Bragbag
+32. Grashdushgrul
+33. Thokrakh
+34. Ghazbashfim
+35. Rukzug
+36. Snagluk
+37. Grashgromgrar
+38. Bolgrat
+39. Grokdushgash
+40. Azratthug
+41. Hekmuk
+42. Ghazbulgrom
+43. Bragbash
+44. Breknahk
+45. Grashbul
+46. Zoggash
+47. Breknahk
+48. Durgzug
+49. Hekzugrakh
+50. Zoggash
+
+## BeerName
+
+1. Pixie's Fang Lager
+2. Drowsy Hound Small Beer
+3. Nantmery Vulture Small Beer
+4. Woman's Eye Vodka
+5. Giant's A Forbidden Greenwood Marked By A Mill Draught
+6. Wise Stars Small Beer
+7. Tilllow Frozen Sea With A Sacred Dungeon Named The Cavess Of Tainted Gin
+8. Happy Sinkhole Brew
+9. Undereter Temple Cask
+10. Cinquecombe Hawk Mild
+11. Proud Tinker
+12. Weathered Lagoon
+13. Brindlewaite Sanctuary Ale
+14. Stonkin Viol Flaggon
+15. Soothsayer's Keep Brew
+16. Crooked A Vibrant Monastery In The Hills Nectar
+17. Wayward Mouth Grog
+18. Gilded Horn Elixir
+19. Thick Marsh Draught
+20. Gnoll's Spire Cup
+21. Goblin's Ear Tea
+22. Charcoal Lagoon Lager
+23. Half-cut Pleasant Fortress Going By The Demonic Keep Mild
+24. Woman's Stag Beer
+25. Ent's Palm Cup
+26. Stingy Door
+27. Religious Lizardfolk Punch
+28. Crooked Leg Elixir
+29. Drunk Bard Cordial
+30. Violent Knee Cask
+31. Pealart Hearth Brown Ale
+32. Goblin's Arse
+33. Confused Folk Cordial
+34. Thief's Nose Beer
+35. Thongshade Crossroads Cordial
+36. Walking Hearth Lager
+37. Restless Lyre Bracer
+38. Gilded Hobbit Brown Ale
+39. Terhouses Fiddle Cider
+40. Prancing Stars Porter
+41. Bronze Hearth Small Beer
+42. Wealthy Scale Cask
+43. Warrior's Wing Brown Ale
+44. Crooked Ogre
+45. Sleepy Hearth Barleywine
+46. Merfolk's Knee Wallop
+47. Brindlestead Foggy Tavern Remembered As The Little Seven Mandolins Beside A Steppe Brew
+48. Brooding Cliff Mead
+49. Tutkeld Crossroads Draught
+50. Careless Sign Elixir
+
+## BeerDescription
+
+1. Chocolate with a hint of lovage
+2. Pears with tones of watercress
+3. Raspberry with a backbone of horserasdish
+4. Honeyed with a hint of coriander
+5. Earthy with a wash of capers
+6. Wheaty with a hint of horserasdish
+7. Floral and fresh with overtones of celery leaf
+8. Barley with a mixture of lavender
+9. Chocolate with a hint of caraway
+10. Peppery with overtones of hawthorn
+11. Earthy with a backbone of chicory
+12. Malty with hints of cinnamon
+13. Pears with a wash of tarragon
+14. Malty with undertones of fennel
+15. Pears with overtones of fenugreek
+16. Oaken with a backbone of celery leaf
+17. Earthy with a trace of mint
+18. Honeyed with a backbone of raspberry
+19. Floral with a whisper of nigella
+20. Honeyed with overtones of lovage
+21. Pears with tones of sorrel
+22. Barley with notes of lovage
+23. Biscuity with a hint of sweet essence
+24. Malty with a mixture of spearmint
+25. Dark with a trace of lemon
+26. Citrus with a hint of mustard
+27. Fresh with hints of saffron
+28. Hoppy with notes of raspberry
+29. Hoppy with a backbone of cayenne
+30. Caramel with a wash of lilac
+31. Nutty with hints of fennel
+32. Dark with hints of salt essence
+33. Dark with an aftertaste of star anise
+34. Oaken with a wash of basil
+35. Earthy with hints of rosemary
+36. Floral with overtones of chicory
+37. Oaken with a backbone of dill
+38. Caramel with hints of wormwood
+39. Citrus with overtones of mistletoe
+40. Peppery with tones of angelica
+41. Barley with a mixture of turmeric
+42. Floral with a hint of sour essence
+43. Honeyed with an aftertaste of lemon
+44. Hoppy with a mixture of black pepper
+45. Biscuity with tones of bergamot
+46. Fresh with undertones of fennel
+47. Apples with a whisper of redcurrant
+48. Biscuity with a wash of salt essence
+49. Dark with a whisper of nigella
+50. Malty with a backbone of wild garlic
+
+## OddityDescription
+
+1. Avoided for cruel artichokes
+2. Distrusted for crumbed honeyed tamarind
+3. Infamous for bleak farmland
+4. Infamous for being built near infernal precipice near a tarn
+5. Distrusted for accursed archerfish
+6. Approved of for fabulous markets
+7. Rated for delightful white radishs
+8. Esteemed for fantastic location
+9. Acclaimed for salt cod dumpling
+10. Praised for great smells
+11. Ill-famed for disgusting wine
+12. Well known for delightful farmland
+13. Notorious for foul scallions
+14. Respected for surprising bridges
+15. Distrusted for inbreeding
+16. Praised for celebrated bridges
+17. Ill-famed for being the birthplace of a famous bard
+18. Admired for lovely music
+19. Approved of for having many warehouses
+20. Approved of for fine smells
+21. Infamous for cruel music
+22. Avoided for ugly views
+23. Ill-famed for foul mirabelles
+24. Complimented for award winning carp
+25. A bad reputation for suspicion of outsiders
+26. Esteemed for generous smells
+27. Famous for glorious markets
+28. Rated for glorious weather
+29. Acclaimed for promising location
+30. Infamous for hideous roads
+31. Notorious for bleak bridges
+32. Acclaimed for auspicious roads
+33. Envied for ill-fated hospitality
+34. Well known for being founded by Ents
+35. Envied for despicable weather
+36. Notorious for a feud between Orcs
+37. Avoided for ugly location
+38. Ill-famed for poor men
+39. Avoided for bad beer
+40. Admired for honourable views
+41. Celebrated for inbreeding
+42. Ostracised for foul state of repair
+43. Distrusted for having many forges
+44. Ill-famed for disgusting farmland
+45. Famous for superb hough
+46. Loved for adorable weather
+47. Scandalised for suspicion of outsiders
+48. Revered for joyous music
+49. Ostracised for laughable men
+50. Respected for splendid pork knuckle
+
+## IndustryDescription
+
+1. Bee keeping
+2. Farming sheep and mooncap
+3. Making reactor housings
+4. Growing fig
+5. Milling sorghum
+6. Weaving wool
+7. Quarrying limestone
+8. Quarrying limestone
+9. Fishing plaice
+10. Growing lemon
+11. Herding sheep
+12. Making weapons
+13. Farming millet and pear
+14. Farming pig and leek
+15. Market gardening
+16. Tanning hides
+17. Milling hemp
+18. Fishing squid
+19. Weaving wool
+20. Tending vineyards
+21. Making jewellery
+22. Weaving wool
+23. Herding chicken
+24. Growing mandrake
+25. Charcoal burning
+26. Farming fur and goat
+27. Charcoal burning
+28. Orcharding quince
+29. Making ships
+30. Making comm towers
+31. Making houses
+32. Salt panning
+33. Fishing turbot
+34. Farming buckwheat and deer
+35. Bee keeping
+36. Herding rabbit
+37. Charcoal burning
+38. Weaving wool
+39. Salt panning
+40. Fishing cowfish
+41. Weaving wool
+42. Raising duck
+43. Tanning hides
+44. Growing cherry
+45. Farming cattle and duck
+46. Growing mulberry
+47. Quarrying clay
+48. Making furniture
+49. Farming chicken
+50. Orcharding blueberry
+
+## LocationDescription
+
+1. Surrounded by vast flooded forest
+2. Mastiffknock - A riverside village of 102 tending vineyards and farming garlic and fur
+3. Coppervanie - A small hamlet of 7 raising fur
+4. Ratbrook - A market town of 2352 charcoal burning, charcoal burning and making clothing
+5. Gorseemy - A scattered hamlet of 11 growing mulberry
+6. An infernal gate in the mountains
+7. Veined with white plantation
+8. Mixed with stormy cliff near a lake
+9. Marked with a bitter ancient ruin marked by a temple
+10. Redfield - A large hamlet of 19 Dwarfs salt panning
+11. Stormy gate by the name of Dorgul Hall
+12. Oppressive barracks known as The Isolated Bastion by the name of The Crumbling Chasm of Sagdushnak
+13. Spotted with ancient wasted waterfall
+14. Malodorous observatory styled Sylrond Idrondlas's Hall by the name of The Buried Catacomb of the Apothecary High priest
+15. Bordered by a misty steppe marked by a watchtower
+16. Wild mill by the name of Garndhzu
+17. Iron tower called Garrison Highward by the name of The Ossuary of the Oppressive
+18. Undying mansion known as Gimli
+19. Twilldale Isle - A riverside village of 36 mining coal and weaving wool
+20. Threaded with high swamp with a hidden mansion
+21. Marked with nightmare hummock
+22. Flaxpond Ditch - A walled village of 91 quarrying granite
+23. Scattered with a smoky monolith marked by a monastery
+24. Ratash Mel - A medium village of 192 mining lead
+25. Black bank near a lagoon
+26. Smoky crypt going by Vargdum known as Rustwatch
+27. Frozen temple beside an ancient road
+28. Marked with crumbling mound
+29. Ominous fortress remembered as The Active Fane of the Shepherd Bishop by the name of The Ossified Tunnel of the Hunter Warrior
+30. Cromhythe - A small hamlet of 9 farming carrot and eel
+31. High Houndfen Green - A medium town of 7606 orcharding mulberry and herding cattle
+32. Hamoigh - A large hamlet of 10 making bridges
+33. Surrounded by infernal villa
+34. Primordial brooding fjord with 4 standing stones
+35. Half buried among blighted spring
+36. White tower by the name of The Verdant Vault
+37. Clustered around elder mansion beside a hedge
+38. Fathomless gate
+39. Scattered with chaotic keep known as Deepgan beside a bank
+40. Black granary remembered as The Feathered Keep of the Oblivious Druid
+41. Tainted steppe
+42. Womanlart Ditch - A scattered hamlet of 14 milling maize
+43. Foggy spire known as Tomb Greyshaft
+44. Moonless beck
+45. Lost swamp
+46. High Langcombe - A small hamlet of 8 Trollkins salt panning
+47. Wizardwithy - A large village of 381 tending vineyards and quarrying granite
+48. White folly known as The Enchanted Deep
+49. Sunny crypt named The Glowing Depths known as Nightmare Balthur
+50. Threaded with cursed cliff near a fjord
+
+## ActionOracle
+
+1. Curse Ogre
+2. Capture duty
+3. Enchant protection
+4. Follow trials
+5. Dispute price
+6. Investigate monumental lies
+7. Ruin home
+8. Clash with outside
+9. Affect Orc
+10. Scheme renown
+11. Return language
+12. Hold wounds
+13. Advance truth
+14. Imitate power
+15. Abandon battle
+16. Assist leader
+17. Uphold energy
+18. Communicate honor
+19. Fortify superstition
+20. Separate enemies
+21. Take infamous masses
+22. Breach secret
+23. Carry delightful law
+24. Dominate representative
+25. Lie to inside
+26. Propose friendship
+27. Triumph betrayal
+28. Separate spiritual
+29. Charge tension
+30. Destroy warning
+31. Raid wound
+32. Break dream
+33. Weaken creation
+34. Kill superlative duty
+35. Locate law
+36. Unseal battle
+37. Destroy expectations
+38. Defend tension
+39. Impress resource
+40. Protect weather
+41. Kill pain
+42. Distract community
+43. Celebrate wealth
+44. Bestow health
+45. Coordinate history
+46. Capture destiny
+47. Seek bureaucracy
+48. Violate Maid
+49. Construct language
+50. Sanctify desolation
+
+## DangerOracle
+
+1. Wind hazard
+2. Hazard
+3. Hazard
+4. Hazard
+5. Giant Serpent threat
+6. Wight threat
+7. Curse
+8. Threat
+9. Sign
+10. Omen
+11. Curse
+12. Hazard
+13. Owlbear threat
+14. Curse
+15. Stormy curse
+16. Hazard
+17. Remains
+18. Forsaken curse
+19. Omen
+20. Mysterious Elf
+21. Naga threat
+22. Nightmare curse
+23. Holed trap
+24. Trap
+25. Natural trigger
+26. Curse
+27. Sunny curse
+28. Broken trap
+29. Dead curse
+30. Threat
+31. Will-o-Wisp threat
+32. Message
+33. Foul omen
+34. Claustrophobic curse
+35. Crooked refuge
+36. Trap
+37. Threat
+38. Tarnished trap
+39. Shattered curse
+40. Threat
+41. Trigger
+42. Curse
+43. Undead threat
+44. Trap
+45. Disgusting omen
+46. Threat
+47. Threat
+48. Trap
+49. Flooded death
+50. Omen
+
+## TreasureOracle
+
+1. 8 silver
+2. An undersized golden dice set with diamond worth 18 gold
+3. A punctured simple signet ring worth 2 copper
+4. A mighty smashed bronze hurdy-gurdy worth 3 silver
+5. Azurites worth 79 gold
+6. 8 gold
+7. A carved bone blade worth 7 silver
+8. An immense kilt worth 9 copper
+9. A tiny simple bowl worth 5 copper
+10. A celebrated silver bowl worth 4 silver
+11. A grimy golden candlestick worth 4 gold
+12. A generous bronze tome of dark knowledge worth 9 silver
+13. 1 gold
+14. An award winning lacquered festival mask worth 3 gold
+15. A miniature bronze box worth 1 silver
+16. 12 copper
+17. A carved bone set of silver greaves worth 6 silver
+18. A gargantuan flight suit worth 7 copper
+19. A worthless dilapidated spear
+20. A golden map to The Sunken Dark of the Fighter Bandit worth 6 gold
+21. Agates and jaspers worth 35 gold
+22. A bundle of trade bars worth 3 gold
+23. A colossal waterlogged bronze death mask worth 6 silver
+24. A silver bowl worth 3 silver
+25. A pouch of serpentine chips worth 6 silver
+26. A worthless mirror
+27. 19 silver
+28. A simple drinking horn worth 1 copper
+29. A minute pair of gloves worth 1 copper
+30. A worthless blade
+31. A broken plain bundle of silver trade bars worth 4 copper
+32. A pouch of peridot chips worth 4 silver
+33. A gargantuan smart coat worth 6 copper
+34. 39 copper
+35. A celebrated minute pressure suit worth 1 silver
+36. A dilapidated bronze partial suit of splint armour worth 2 silver
+37. Opals worth 67 gold
+38. A silver amulet in the shape of a griffin worth 8 gold
+39. 20 silver
+40. A bundle of cracked trade bars worth 4 gold
+41. A substantial pair of shorts worth 10 copper
+42. A waterlogged silver bracelet worth 1 gold
+43. An extensive silver idol worth 3 silver
+44. A large tarnished bronze pike worth 3 silver
+45. A golden helmet of plate armour inlaid with obsidian and jet worth 6 gold
+46. A worthless faded bow
+47. A vast plain drum worth 8 copper
+48. A golden helmet of hide armour set with diamond worth 2 gold
+49. A plain prayer wheel worth 4 copper
+50. A broken golden staff worth 4 gold
+
+## MagicalTreasureOracle
+
+1. A scroll sealed with iron wire containing a spell of warding worth 56 gold
+2. A scroll sealed with bronze wire containing a spell of illusion worth 23 gold
+3. A set of chain armour +3 worth 64 gold
+4. A large magical ballistic vest of flying +5 worth 54 gold
+5. A vial of earth essence granting healing worth 43 gold
+6. A honourable vial of mist essence granting stone control worth 53 gold
+7. A silver charm against speed +2 worth 36 gold
+8. A set of plate armour +2 worth 87 gold
+9. A scroll sealed with steel wire containing a spell of undead control worth 48 gold
+10. An adamantine charm against mind control +1 worth 88 gold
+11. An arrow +1 worth 93 gold
+12. A large magical ballistic vest of underwater breathing +2 worth 80 gold
+13. 3 doses of a potion of defence worth 7 gold each
+14. A cloak clasp of defence +3 worth 26 gold
+15. An arrow of water +1 worth 81 gold
+16. 3 doses of a potion of seduction worth 9 gold each
+17. A lovely orb of shapechanging +1 worth 89 gold
+18. A scroll sealed with adamantine wire containing a spell of defence worth 15 gold
+19. An axe +2 worth 82 gold
+20. A seal of underwater breathing +3 worth 107 gold
+21. A scimitar +3 set with ruby worth 38 gold
+22. A ring of ash control +4 worth 21 gold
+23. A staff of speed +3 worth 84 gold
+24. A rod of seduction +1 worth 19 gold
+25. A honourable large magical skirt of telepathy +2 worth 12 gold
+26. 3 doses of a potion of agility worth 5 gold each
+27. A vial of air essence granting animal speech worth 30 gold
+28. A brass charm against mind control +2 worth 39 gold
+29. 3 doses of a potion of dream walking worth 8 gold each
+30. 3 doses of a potion of animal speech worth 8 gold each
+31. A magical festival mask +1 worth 168 gold
+32. A cloak clasp of dream walking +2 set with quartz worth 52 gold
+33. A superlative wand of mind control +1 worth 83 gold
+34. A splendid crossbow of earth +3 worth 40 gold
+35. A magical map to Kharliglu +2 worth 153 gold
+36. A scroll sealed with bronze wire containing a spell of strength worth 44 gold
+37. A half set of chain armour +1 worth 29 gold
+38. A partial set of chain armour +2 inlaid with azurite and agate worth 13 gold
+39. A scroll sealed with copper wire containing a spell of healing worth 43 gold
+40. An adorable cloak clasp of stone speaking +1 inlaid with moonstone worth 74 gold
+41. A vial of dark essence granting warding worth 71 gold
+42. A crossbow +2 worth 83 gold
+43. A beautiful cloak clasp of agility +4 worth 24 gold
+44. A joyous cloak clasp of undead control +2 worth 67 gold
+45. A great pair of earrings of flying +1 worth 52 gold
+46. 2 doses of a potion of light summoning worth 5 gold each
+47. A wand of sleeping +2 worth 90 gold
+48. A magical pair of shoes of shapechanging +1 worth 24 gold
+49. A joyous orb of banishment +6 worth 36 gold
+50. A vial of iron essence granting water control worth 25 gold
+
+## Generator(plothook)
+
+1. After many hours past high plains and across a bright swamp to an a little sunny sanctuary in the moors with a ruined monastery, you discover a demand: hunt leadership
+2. After countless days by trail to a wasted sanctuary , you discover a demand: transport illusions
+3. An old scholar begs you to create spotted with shattered waterfall
+4. An silver pair of bronze greaves points the way to Cotfield Bourne - A walled village of 400 growing orange
+5. A keeper of a cavern called Mognakdush's Hive offers you work: suppress lies
+6. You encounter a strange event: defeat anger
+7. A friend compels you to secure a rune-carved flail
+8. After many days around lost glaciers and across a magical tarn to an ancient searing pinnacle near a pond, you discover a demand: inspect blood
+9. You encounter a strange event: assault friendship
+10. A member of a cult begs you to usurp a female Hobgoblin farmer named Gorgromnahk
+11. A dirty merchant compels you to guide a grim candlestick
+12. A travelling scribe offers a secret if you defend blood
+13. An secret scroll about kobold history points the way to bordered by a dark mansion in the mountains
+14. Rumours from Hempriver - A small hamlet of 8 tanning hides suggest someone will carry truth
+15. You encounter a strange event: seize peace
+16. Rumours from elder tree near a rill suggest someone will spy prize
+17. A primordial scholar compels you to disrupt a plot
+18. You stumble on a hidden location : sundered tree near a waterfall
+19. A primordial scholar begs you to assault a female Human scribe named Hento Ingtedenent
+20. After many days by track to a shrouded inn , you discover a demand: gratify outside
+21. A tyrannical earl offers a secret if you spy on failure
+22. An old mapmaker offers payment if you judge Gnoll
+23. After countless hours by river to a gilded cavern , you discover a demand: abandon magic
+24. You stumble on a strange event: consult artifact
+25. A messenger from sunken monastery beside a badlands offers forgiveness if you escort loss
+26. Rumours from Goldenshall - A large town of 4119 growing mooncap and making furniture suggest someone will escape pride
+27. An magical tray points the way to Trouthouses - A scattered hamlet of 13 weaving wool
+28. A local militia begs you to redeem a singing female Gnome cartographer named Khorlin
+29. A retired warlord attempts blackmail
+30. You encounter a strange event: spy battle
+31. Rumours from tainted cavern called Darkhi Sanctum beside a steppe suggest someone will waste friendship
+32. Rumours from interspersed with abyssal stone circle suggest someone will finish fate
+33. An infernal helm of chainmail armour points the way to haunted church beside a pinnacle
+34. You encounter a hidden location : tempestuous tower named Grishmuk's Caves
+35. A selfish baron compels you to find a Elkmer - A hill village of 135 weaving wool
+36. You encounter a notorious location : Kerbeach - A small village of 100 keeping bees
+37. A messenger from a blighted glacier marked by a granary dares you to persecute a male Human tinker named Iontio Allnot
+38. A local militia promises a reward if you debase the important lyre
+39. A primordial scholar offers forgiveness if you demand enemies
+40. You stumble on a hidden location : set amongst a dark abbey in the forests
+41. A smug king from a noble family dares you to hold black overhang near a stream
+42. A local militia commands you to explore an idea
+43. You stumble on an iron location : Ivorystone - A hill village of 298 weaving wool
+44. Rumours from smouldering catacombs called Hollowhold suggest someone will imitate military
+45. A friend requests you to finish a female Human bandit named Vever Rustynose
+46. You stumble on a strange event: reveal suffering
+47. A portent dares you to deceive a female Gnome herbalist named Bofrum Ivoryscale
+48. You encounter a strange event: care suffering
+49. After 6 hours over obscure glaciers and across a lost stream to a sizeable frozen harbour, you discover a demand: raid corruption
+50. You encounter a secret location : Blanfen - A hill village of 236 weaving wool
+
+## Generator(cyberpunkjob)
+
+1. You are approached by a replicant called blade70 to recover illegal laser from a black budget division of Zen-Techniks Systems Products. You are assisted by corporate security.
+2. Your group is inspired by a risk analyst remembered as Baker to fortify military account keys from a corporate witness named Bérengère Everly. The client has lied about the risks.
+3. You are inspired by a gang member named Cricket to destroy a wetware nurse.
+4. Your group is blackmailed by a corporate witness known as Milo Hale to befriend a gun runner going by Kai Hale. You are opposed by insurgents.
+5. You are begged by a subsidiary of Archer Healthcare Dynamics to celebrate military account keys from a cybercult going by Timid Crew. The client has lied about the risks.
+6. You are tricked to plant video recording within Basallote-Omniplex Consortium.
+7. You are extorted to plant document within a shell company owned by Hyperaxis & Devcorp Consortium. The target is protected by a hostile security system.
+8. Your crew is extorted by Teraorbitlink Limited to recover military account keys from the Scorched Gang gang. The authorities are already watching the area.
+9. Your team is approached to plant gene sequences within a shell company owned by Synrunner Heavy industries Group. The target has already been moved to a skyscraper.
+10. You are compelled to help an informant remembered as Shirai Yuriko during a raid on a skyscraper. The authorities are already watching the client.
+11. Your group is retained by a corporate witness styled Titan-Xylo to ransom a data courier called Asoven Tyrvek.
+12. Your group is summoned by a gene tech remembered as Addison Vale to blackmail an organ broker.
+13. You must stop an a gang called Z50 to uncover a former enemy. The target is protected by a hostile security system.
+14. You must recover a Inrunners and Metamind Dynamics to decode corporate account keys from a subsidiary of Inpolynet Logistics.
+15. A black clinic surgeon by the name of Van Tyrrie needs you to develop unstable wetware before corporate extraction team arrive.
+16. Your group is paid by an informant by the name of Hamayotsu Katsuyuki to await a media fixer by the name of CeruleanAngel. You are accompanied by police.
+17. Your group is summoned by the whistleblower remembered as Jaxon Samter to await a security consultant styled Crispín Frantsev.
+18. Your team is retained to plant document within the research arm of Wated Power International.
+19. You must escort an identity thief by the name of Omero Archer to hide unstable wetware from an offshoot of Hel Gang.
+20. You are extorted to plant recording within a subsidiary of Posi-Net . You are accompanied by hunter killer robots.
+21. You are bribed to negotiate with a fugitive executive by the name of Riley Mercer during a raid on a research facility.
+22. Your group is summoned by a fugitive executive styled Linkgal to return an identity broker named Cleo Hoffer.
+23. You are hired by a drone jockey remembered as Link to investigate prototype Z27-one from a fugitive executive going by Wire Tau-79.
+24. Your team is coerced to plant scans within the research arm of Kintech Systems Group.
+25. You must negotiate with an a gang called The East Side Gang to watch a punk.
+26. Your team is begged to plant cyber organs within the research arm of Novacore Genetics International.
+27. You must recover a Remremstar Incorporated to eliminate a detective.
+28. Your crew is paid by Poly-Tron Research to recover military account keys from a booster gang named North Side Crew.
+29. Your team is begged to plant document within a subsidiary of Devstar & Hypertechnik Solutions. The job is a setup.
+30. A rig operator remembered as Avery Akashi needs you to remove gang account keys before police arrive.
+31. Your team is forced to plant video recording within the security branch of Quill-Aeonworks . You are hunted by armed drones.
+32. Your team is recruited to plant source code within the research arm of Cybermetalink Incorporated.
+33. Your group is summoned by a friend going by E Vale to steal military unit E4 from a cybercult by the name of The Roaring Cru.
+34. You must prevent an a gang called Smartgun Boys to oppose a rig operator.
+35. A rig operator by the name of Léon Utsumi needs you to create quarantined medical samples before black clinic enforcers arrive. The job must be completed in 7 days.
+36. Your crew is requested to assist a missing corporate remembered as Rémy Sauerbeck during a raid on a warehouse. You need to infiltrate a guarded zone.
+37. Your group is tricked by a Social media starlet called Garon Kesath, working at Hale Haulage Labs, to carry unstable wetware from an informant remembered as Dex. The authorities are already watching the client.
+38. Your team is compelled to plant document within the security branch of Haall Dynamics.
+39. You are contracted to expose the hacker styled Orgon Kyium during a raid on a manufacturing facility.
+40. Your group is begged by a data courier styled Solange Cross, working with Meta-Core , to control prototype stunner from the security branch of Synlock Holdings. The job is a setup.
+41. You are recruited by a security consultant remembered as Bra-kha Jerrie to coordinate a black clinic surgeon called Riley Grafov. The job must be completed in 5 hours.
+42. You are retained by a corp defector named Wakitashiro Tsuneharu to avenge an augmented courier.
+43. Your group is tricked by a drone jockey called Shimaya Yōichi to recover unstable wetware from a gang remembered as Mor Boys. The job must be completed in 4 days.
+44. You are forced by a gang member styled LatchS, working with Cyberstar , to separate a Celebrity. Someone inside the crew has been compromised.
+45. You are pressured by a black budget division of Meta-Tronics Robotics Consortium to gather military account keys from a gang named The Axe Boys.
+46. Your crew is hired to track an informant by the name of Ta-ora Luthum during a raid on an underground base. The authorities are already watching the area.
+47. You must negotiate with a Novalock and Synsilver to deceive black market medical samples from the research arm of Metacorp Research Group.
+48. Your group is threatened by a lowlife going by Qiao Bishop to suppress a security consultant by the name of Harper Aveline. The job must be completed in 10 hours.
+49. You are retained by a subsidiary of Ionmor Consulting Enterprises to celebrate unstable wetware from the The Oak Wolves gang. You are helped by anarchists.
+50. You are retained by a rig operator by the name of DatamineSpryte to seize a lowlife. Someone inside the crew has been compromised.
+
+## Generator(gangname)
+
+1. Missing Boys
+2. Dyal's Ones
+3. The Scorched Pack
+4. East Side Gang
+5. The Loyal Boys
+6. The Mallucci's Ones
+7. Pöntinen's Pack
+8. Fallen Boys
+9. Copper Dragons
+10. Cen's Wolves
+11. Dryads
+12. Skeletons
+13. The Hippogriffs
+14. The Barren Crew
+15. The Club Wolves
+16. J44
+17. Weathered Cru
+18. The Hags
+19. The Bishop's Boys
+20. Laser Ones
+21. Dreaded Cru
+22. The Sword Crew
+23. Brass Cru
+24. D-44
+25. Bandits
+26. Pistol Boys
+27. Cross's Pack
+28. The Wolf Wolves
+29. Mace Gang
+30. Veloso's Gang
+31. Dead Cru
+32. White Boys
+33. The Careworn Wolves
+34. Claustrophobic Gang
+35. The Cockatrices
+36. The Yetis
+37. The Cumberbatch's Crew
+38. The Starless Cru
+39. The Cross's Gang
+40. Omega-85
+41. B59
+42. Machine Pistol Gang
+43. Rusty Boys
+44. Hel Set
+45. Knife Boys
+46. Delta-92
+47. Gamma-62
+48. The Black Gang
+49. The Nightmare Boys
+50. Beta-29
+
+## Generator(handle)
+
+1. Angel
+2. Blueboi36
+3. Patch-helo
+4. Dex
+5. Razoramber
+6. Palaestra
+7. Afterimage
+8. ZhoraCrash
+9. WiresJacker
+10. Vector16
+11. Quikk34
+12. Seven-wheels
+13. BladePounder
+14. GoldenChalk
+15. Chinboi
+16. Impulse-feels
+17. Zephyr
+18. Whirly21
+19. Alloy-Wire
+20. Rustytremors
+21. Mpeg R-28
+22. Blackout Delta-10
+23. Athamas
+24. Crake-Neon
+25. Karma
+26. Laser-dark
+27. Afterimage-wipe
+28. Thyestes
+29. Tune
+30. K-Amethyst-2
+31. Sponde
+32. Hype
+33. Flip5
+34. Smashgal
+35. Xylo-dark
+36. Teal DV-6
+37. Alt JW-5
+38. Akira-wheels
+39. Hollowboy
+40. Apollo
+41. Hollow-seven
+42. Switch
+43. Mellow
+44. Zero40
+45. Anvil-laser
+46. Signal
+47. Chalk
+48. AlloyRecker
+49. Alabandus
+50. Angel-Devileyes
+
+## Generator(shipname)
+
+1. ISS Ayrshire
+2. ISD Amechania
+3. The Toocasora
+4. The General Mercer
+5. CSV Fire Demeter
+6. The Tookin
+7. INS Obscure Wheel
+8. USS Apheliotes
+9. The Charlotte
+10. USS Frost Branchus
+11. The Forgotten Arrow
+12. RNS Lilac Fox
+13. USS Atabyrius
+14. INS Admiral Bazalgette
+15. The Smoke Polyxena
+16. USS Admiral Ratti
+17. ISS Tortuga
+18. RNS Shadow Borysthenis
+19. USS Gerald R. Ford
+20. HMS General Beaulne
+21. RNS Ivory Unicorn
+22. The Marshall Delaunay
+23. INS Smouldering People
+24. INS Frank Cable
+25. RNS Eerie Bag
+26. HMS General Everly
+27. The Adrastus
+28. CSV Grey Reef
+29. RNS Barrosa
+30. USS Zagreus
+31. RNS Hopper
+32. The Scarred Goblet
+33. ISS Unknown Hourglass
+34. The Vibrant Flame
+35. ISD Moonless Circle
+36. RSS General Ranalli
+37. The Independence
+38. The Blue Griffin
+39. The Bombay Castle
+40. ISD Erebus
+41. HMS Fathomless Moon
+42. TSS Fell Folk
+43. The Ioke
+44. The Cerulean Owl
+45. TSS Admiral Everly
+46. USS Cape St. George
+47. INS Marshall Tumasov
+48. INS Garalde's World
+49. The Infernal Arms
+50. USS Ivory Dove
+
+## SettlementGenerator
+
+1. Whitholm large village: 383. ["smith", "forester", "inn"], ["The Old Many Half-cut Gates", "Ye Ancient Hogshade House"], ["Growing raspberry"]. Notorious for cruel markets
+2. Horsewood large village: 378. ["mill", "smith", "tradingPost", "temple", "stable", "inn"], ["The Cooper & Pilgrim", "The Old Ent\'s Owl"], ["Charcoal burning"]. Envied for an enclave of Centaurs
+3. Tixoigh medium outpost: 4. [], [], ["Tanning hides"]. Loved for fantastic mud
+4. Dragonflower Bridge medium village: 262. ["tradingPost", "stable", "inn"], ["Ye Olde Wayward Hearth"], ["Making water recyclers"]. Lauded for boiled perch
+5. Horseravine small village: 125. ["mill", "tradingPost", "temple", "militia"], [], ["Herding sheep"]. Praised for being well kept
+6. Harthurst small village: 124. ["tradingPost", "militia", "stable", "inn"], ["The Hobgoblin\'s Hedge"], ["Mining gold"]. Celebrated for being close to little broken harbour beside a bank
+7. Ramter medium village: 306. ["mill", "tradingPost", "guild", "inn"], ["The Barware Verdant Greenwood Near A Tarn"], ["Raising bee"]. Adored for blessed loquats
+8. Walleter Bury small hamlet: 45. ["tradingPost"], [], ["Mining gold"]. Well known for excellent weather
+9. Fritheadfoyle small town: 1310. ["smith", "tradingPost", "temple", "stable", "inn"], ["Ye Olde Connected Flagon", "The Old Eight Drowsy Signs Arms", "The Little Blushing Sign", "Ye Olde Drowsy Hearth"], ["Mining coal", "Charcoal burning", "Orcharding raspberry"]. Loved for fantastic smells
+10. Hawkorpe large village: 358. ["mill", "forester", "tradingPost", "guild"], [], ["Salt panning", "Growing blackberry"]. Cherished for adorable views
+11. Market Nuteen medium village: 310. ["mill", "smith", "tradingPost", "temple", "inn"], ["The Crooked Monolith Taphouse"], ["Making weapons"]. Ill-famed for a famous battle
+12. Catdown medium village: 170. ["mill", "forester", "tradingPost", "stable", "inn"], ["The Little Bandit\'s Head"], ["Salt panning"]. Scandalised for shameful music
+13. Chickenlagoon small village: 113. ["smith", "tradingPost", "temple", "militia", "stable", "inn"], ["Ye Merry Red Fiddle"], ["Growing strawberry"]. Scandalised for cruel weather
+14. Knockdroc medium village: 211. ["smith", "forester", "tradingPost", "guild", "inn"], ["The Pixie And Wizard"], ["Mining iron"]. Scandalised for bleak views
+15. Churchstone medium hamlet: 104. ["inn"], ["The Little Kind Forest"], ["Herding rabbit"]. Envied for fantastic children
+16. Pelhouses medium village: 204. ["smith", "forester", "temple", "militia"], [], ["Weaving wool"]. Well known for lovely radishs
+17. Wallcelot Bourne large village: 368. ["forester", "tradingPost", "stable", "inn"], ["The Little Bard\'s Spring"], ["Making leather"]. Spoken highly of for surprising markets
+18. Mousemountain medium outpost: 4. [], [], ["Charcoal burning"]. Admired for honourable weather
+19. Undermont medium village: 276. ["smith", "forester", "tradingPost", "temple", "stable", "inn"], ["The Little Crooked Merfolk"], ["Quarrying slate"]. Admired for being close to blighted stream
+20. Swinfoot large village: 359. ["mill", "smith", "forester", "temple", "guild", "inn"], ["The Little Deer & Pot", "Ye Ancient Sweet Wayward Prison"], ["Mining gemstones"]. Well known for celebrated arctic char
+21. Queens Monhouses large hamlet: 170. ["tradingPost"], [], ["Fishing minnow"]. Infamous for terrible bridges
+22. Billbrook small hamlet: 55. ["mill", "tradingPost", "inn"], ["The Old Many Half-cut Ridges"], ["Weaving wool"]. Admired for superlative weather
+23. Mastiffpond small hamlet: 43. ["temple"], [], ["Fishing red mullet"]. Infamous for despicable bridges
+24. Duddlefeneen medium town: 3929. ["mill", "smith", "forester", "tradingPost", "temple", "militia", "inn"], ["The Little Dozen Mountain Ranges", "The Human\'s Lantern", "The Centaur\'s Tail", "The Cooperative Lagoon"], ["Bee keeping", "Charcoal burning", "Weaving wool"]. Avoided for terrible mud
+25. Tawcott medium village: 166. ["mill", "forester", "tradingPost", "temple", "militia", "inn"], ["The Little Violent Crossroads Dram Shop"], ["Growing mooncap"]. Ill-famed for shameful location
+26. Maidford small city: 145324. ["mill", "smith", "forester", "tradingPost", "temple", "militia", "stable", "guild", "inn"], ["Olde Half-cut Knee", "Ye Ancient Hatherlow Marsh", "The Subwiddle Sail", "The Dreadful Hearth Bierkeller", "The Teeware Ogre", "The Agreeable Lyre & Stool", "Ye Ancient Centaur\'s Canal", "The Pixie\'s Kettle", "The Crossroads", "The Six Anxious Follys"], ["Charcoal burning", "Herding goose", "Tending vineyards", "Bee keeping", "Farming horse and fur"]. Rated for generous farmland
+27. Bramdale Hill medium hamlet: 125. [], [], ["Market gardening"]. Infamous for shameful food
+28. Throckfield small hamlet: 30. ["smith", "tradingPost", "stable"], [], ["Farming hops and duck"]. Avoided for a strong accent
+29. Ferrymanzy medium hamlet: 130. ["mill", "temple", "militia"], [], ["Weaving wool"]. Notorious for broken markets
+30. Royal Brindlecroft small village: 158. ["mill", "smith", "tradingPost", "temple", "inn"], ["Ye Merry Ent\'s River"], ["Growing orange"]. Notorious for decadence
+31. Salmonholm large hamlet: 176. ["forester", "temple"], [], ["Tending vineyards"]. Adored for joyous smells
+32. Methedel large village: 355. ["mill", "forester", "tradingPost", "temple", "stable", "inn"], ["The Crimson Crossroads", "Olde Centaur & Otter"], ["Mining gold", "Charcoal burning"]. Infamous for forbidden songs
+33. Eckknock medium village: 222. ["forester", "temple", "militia", "stable"], [], ["Tanning hides"]. Esteemed for splendid markets
+34. Pigfen medium town: 3947. ["mill", "smith", "tradingPost", "temple", "militia", "stable", "guild", "inn"], ["The Blue Marsh", "The Churchkeld A Smouldering Steppe Marked By A Mansion", "The Old Soldier & Elf", "Olde Half-cut Cittern"], ["Fishing sardine", "Keeping bees", "Making reactor housings"]. Loved for mirabelle pie
+35. Nether Ternford medium village: 251. ["smith", "tradingPost", "guild"], [], ["Quarrying clay"]. Honoured for joyous festivals
+36. Inner Eelcoast Cum Peleen medium city: 210448. ["mill", "smith", "forester", "tradingPost", "temple", "militia", "stable", "guild", "inn"], ["The Teewich Bierkeller", "The Little Cogdown Crossroads", "The Bowyer\'s Waterfall", "The Elf\'s Foot", "The Intolerant Estuary", "The Goblin\'s Rook", "The Hobgoblin\'s Bluff", "The Several Gilded Spires", "The Sign", "The Ashhouses Beggar"], ["Making armour", "Making pressure bulkheads", "Raising deer", "Fishing swordfish", "Milling spelt"]. Distrusted for poor bridges
+37. Wolfancient Ruin Green large town: 4456. ["mill", "smith", "temple", "stable", "inn"], ["The Pale People", "Olde Prowyke Saloon", "Ye Merry Drowsy Bright Shrine", "Ye Merry Maiden", "The Headland", "The Several Harps", "The Stoic Immense Searing Granary"], ["Herding eel", "Weaving wool", "Farming millet and pear", "Making boats"]. Infamous for cruel music
+38. Darknessmont medium outpost: 4. ["forester"], [], ["Mining copper"]. Infamous for an old burial site
+39. Darster medium outpost: 5. [], [], ["Growing cherry"]. Avoided for rotten music
+40. Barrelkeld medium village: 274. ["mill", "smith", "forester", "tradingPost", "temple", "stable", "guild", "inn"], ["Olde Charcoal Burner\'s Dungeon Styled The Makeshift Underkeep Of The Haunted Old Bronze Dragon", "Ye Ancient Tree & Ape"], ["Quarrying soapstone"]. Admired for unusual laws
+41. Milletriver large hamlet: 164. ["tradingPost"], [], ["Mining cinnabar"]. Ostracised for terrible festivals
+42. Knockperro large hamlet: 174. ["temple"], [], ["Bee keeping"]. Celebrated for superlative festivals
+43. Knockstead small town: 916. ["mill", "forester", "tradingPost", "temple", "militia", "inn"], ["The Hot-tempered Land & Harp", "Ye Olde Citadel", "The One A High Tomb In The Mountainss", "The Little Langash Wolverine"], ["Milling hemp", "Salt panning", "Weaving wool"]. Respected for stupendous mud
+44. Queens Ramstanton medium village: 188. ["smith", "forester", "militia", "inn"], ["Ye Merry Hundred Three-headed Crossroadss"], ["Milling rye"]. A bad reputation for strange beer
+45. Darkglin medium village: 261. ["mill", "smith", "tradingPost", "temple", "stable", "inn"], ["Olde Ebon Rat"], ["Making wrought iron"]. Notorious for cruel bread
+46. Ceruleanstead small city: 76128. ["mill", "smith", "forester", "tradingPost", "temple", "militia", "stable", "guild", "inn"], ["The Angry Unknown Hillock Near An Estuary", "The Weathered Bog", "Ye Ancient Dirty Folly", "The Mandolin And Giant", "The Four Drowsy Citterns", "The Giant\'s Toe", "Ye Ancient Half-cut Barracks", "The Half-cut Warehouse", "The Edinbury Coaching Inn", "The Old Half-cut Mine"], ["Mining nickel", "Herding goat", "Herding deer", "Weaving wool", "Tanning hides"]. Envied for weird hospitality
+47. Greendown medium town: 2363. ["mill", "smith", "tradingPost", "temple", "militia", "stable", "inn"], ["Ye Olde Elf\'s Elk", "The Stubborn Elk", "The Wayward Harp", "The Horrible Hearth"], ["Herding mule", "Fishing hake", "Making furniture"]. Scandalised for despicable views
+48. Scarwych small town: 1479. ["mill", "smith", "forester", "tradingPost", "temple", "militia", "guild", "inn"], ["The Cotfort Bar", "The Several Wayward A Dead Mansion In The Fenss", "The Resourceful Fjord", "The Bullgarth Gin Palace"], ["Making carts", "Quarrying chalk", "Farming fur and pumpkin"]. A bad reputation for poor roads
+49. Fritstanton large town: 4158. ["mill", "smith", "tradingPost", "temple", "stable", "inn"], ["The Fighter & Hobbit", "The Old Meretree Sign", "The Old Seven Crooked Hobbits", "Ye Merry Ten Wayward Pipes", "The Weathered Flagon Gin Palace", "The Lyre & Apothecary", "The Old Soldier\'s Drum"], ["Farming mule", "Keeping bees", "Mining lead"]. Ill-famed for being founded by a fighter
+50. Cromby medium village: 243. ["smith", "temple", "militia", "guild"], [], ["Making airlocks"]. A bad reputation for ill-fated music
+
+## Weather
+
+1. Cloudy, Light persistent precipitation, Average temperature, Windy
+2. Cloudy, Light persistent precipitation, Average temperature, Settled
+3. Cloudy, Light persistent precipitation, Warm, Windy
+4. Broken Clouds, Scattered showers, Warm, Windy
+5. Broken Clouds, No precipitation, Average temperature, Settled
+6. Cloudy, Light persistent precipitation, Average temperature, Settled
+7. Broken Clouds, No precipitation, Average temperature, Settled
+8. Cloudy, Light persistent precipitation, Average temperature, Settled
+9. Broken Clouds, No precipitation, Average temperature, Windy
+10. Broken Clouds, Scattered showers, Warm, Windy
+11. Broken Clouds, No precipitation, Warm, Settled
+12. Cloudy, Light persistent precipitation, Warm, Windy
+13. Cloudy, No precipitation, Warm, Windy
+14. Cloudy, Light persistent precipitation, Average temperature, Windy
+15. Cloudy, No precipitation, Average temperature, Windy
+16. Broken Clouds, No precipitation, Warm, Windy
+17. Broken Clouds, Scattered showers, Average temperature, Settled
+18. Cloudy, Light persistent precipitation, Warm, Windy
+19. Cloudy, No precipitation, Average temperature, Windy
+20. Cloudy, Light persistent precipitation, Warm, Settled
+21. Broken Clouds, No precipitation, Warm, Windy
+22. Broken Clouds, No precipitation, Average temperature, Windy
+23. Broken Clouds, No precipitation, Warm, Settled
+24. Cloudy, No precipitation, Average temperature, Settled
+25. Broken Clouds, Scattered showers, Average temperature, Windy
+26. Broken Clouds, No precipitation, Warm, Settled
+27. Broken Clouds, Scattered showers, Average temperature, Windy
+28. Cloudy, No precipitation, Warm, Windy
+29. Cloudy, Light persistent precipitation, Average temperature, Settled
+30. Broken Clouds, Scattered showers, Warm, Settled
+31. Broken Clouds, Scattered showers, Average temperature, Windy
+32. Broken Clouds, Scattered showers, Warm, Windy
+33. Broken Clouds, Scattered showers, Average temperature, Settled
+34. Broken Clouds, No precipitation, Warm, Settled
+35. Cloudy, Light persistent precipitation, Average temperature, Windy
+36. Cloudy, Light persistent precipitation, Average temperature, Settled
+37. Cloudy, No precipitation, Average temperature, Settled
+38. Cloudy, No precipitation, Warm, Windy
+39. Cloudy, Light persistent precipitation, Warm, Settled
+40. Cloudy, No precipitation, Average temperature, Settled
+41. Cloudy, No precipitation, Warm, Settled
+42. Cloudy, Light persistent precipitation, Average temperature, Windy
+43. Broken Clouds, No precipitation, Warm, Windy
+44. Cloudy, No precipitation, Warm, Settled
+45. Broken Clouds, Scattered showers, Average temperature, Windy
+46. Cloudy, Light persistent precipitation, Warm, Windy
+47. Cloudy, Light persistent precipitation, Warm, Windy
+48. Cloudy, Light persistent precipitation, Warm, Settled
+49. Cloudy, Light persistent precipitation, Average temperature, Windy
+50. Cloudy, Light persistent precipitation, Average temperature, Windy
+

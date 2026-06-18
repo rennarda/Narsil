@@ -13,3 +13,11 @@ hazardous chemicals
 milk
 paint
 biowaste
+coolant
+solvents
+liquid hydrogen
+industrial alcohol
+nutrient slurry
+algae broth
+antifreeze
+reactor moderator

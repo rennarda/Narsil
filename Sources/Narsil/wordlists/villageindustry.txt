@@ -5,3 +5,11 @@ mining [ore]
 quarrying [quarry]
 making [construction]
 making [construction]
+growing [unusualcrops]
+milling [arablecrops]
+herding [livestock]
+weaving wool
+tanning hides
+charcoal burning
+salt panning
+bee keeping

@@ -1,3 +1,8 @@
 [Corporationprefix][corporationsuffix|Corporationsuffix] [Industry:0.5] [Corporationtitle:0.5]
 [Modernsurname] [Industry:0.5] [Corporationtitle:0.9]
 [Syllable][syllable][syllable:0.2][syllable:0.2] [Industry:0.5] [Corporationtitle:0.9]
+[Corporationprefix]-[Corporationsuffix] [Industry:0.5] [Corporationtitle:0.7]
+[Corporationprefix][corporationprefix][corporationsuffix] [Corporationtitle:0.8]
+[Modernsurname]-[Corporationprefix][corporationsuffix] [Corporationtitle:0.7]
+[Corporationprefix][corporationsuffix] [and|&] [Corporationprefix][corporationsuffix] [Corporationtitle:0.6]
+[Corporationprefix][corporationsuffix] [Industry|Systems|Research] Group

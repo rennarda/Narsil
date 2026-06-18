@@ -1,2 +1,8 @@
 [Villageprefix]
 [Syllable][syllable:0.8]
+alta
+bel
+cal
+dun
+mor
+val

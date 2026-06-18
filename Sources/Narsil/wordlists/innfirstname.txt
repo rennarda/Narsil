@@ -1,2 +1,8 @@
 [Colour]
 [Disposition]
+crooked
+drowsy
+gilded
+half-cut
+wayward
+weathered

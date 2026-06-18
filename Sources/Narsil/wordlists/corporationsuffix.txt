@@ -10,3 +10,13 @@ tron[ics:0.2]
 corp
 [colour]
 [north|south|east|west]
+soft
+forge
+works
+plex
+link
+grid
+net
+mind
+axis
+logic

@@ -4,3 +4,8 @@ A [good:0.3] [small|large:0.5] magical [clothing] of [magic] +[magicbonus] worth
 A [good:0.3] [wand|rod|staff|orb|sceptre|[jewellery]|ring] of [magic] +[magicbonus] worth [10-100] gold
 A [good:0.3] [weapon] [of [element]:0.2] +[magicbonus] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.3] worth [10-100] gold
 A [good:0.3] [small|large:0.2] [half|partial:0.2] set of [leather|chain|scale|plate] armour +[magicbonus] [[set|inlaid] with [gemstone] [and [gemstone]:0.5]:0.3] worth [10-100] gold
+A [good:0.3] [treasureobject] of [magic] +[magicbonus] worth [15-120] gold
+A scroll sealed with [metal] wire containing a spell of [magic] worth [10-60] gold
+A [good:0.3] cloak clasp of [magic] +[magicbonus] [[set|inlaid] with [gemstone]:0.4] worth [10-80] gold
+A [good:0.2] vial of [element] essence granting [magic] worth [15-90] gold
+A [metal] charm against [magic|undead control|mind control] +[magicbonus] worth [20-120] gold

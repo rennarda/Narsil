@@ -20,3 +20,11 @@ wallop
 [Spirit|Gin|Vodka|Whiskey]
 tea
 cordial
+barleywine
+bitter
+brown ale
+cup
+mild
+perry
+punch
+small beer

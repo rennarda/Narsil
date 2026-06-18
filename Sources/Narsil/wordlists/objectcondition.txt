@@ -45,3 +45,13 @@ sorcerous
 sundered
 tainted
 weird
+barrow-born
+cracked
+moonlit
+moth-eaten
+nameless
+pale
+rune-carved
+smoke-blackened
+starless
+timeworn

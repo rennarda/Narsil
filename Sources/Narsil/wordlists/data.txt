@@ -10,3 +10,11 @@ sensor data
 designs for a [system]
 blueprints for a [system]
 gene sequences
+source code
+access logs
+identity records
+navigation charts
+corporate accounts
+combat telemetry
+AI training data
+encrypted messages

@@ -55,3 +55,10 @@ function
 [People]
 [People]
 [People]
+omen
+memory
+vault
+signal
+relic
+curse
+path

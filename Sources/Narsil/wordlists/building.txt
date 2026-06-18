@@ -28,3 +28,15 @@ tower
 pit [called] [Dungeonname]
 tomb [called] [Dungeonname]
 crypt [called] [Dungeonname]
+abbey
+monastery
+shrine
+watchtower [called] [Castlename]
+mill
+forge
+warehouse
+granary
+sanctuary
+barracks [called] [Castlename]
+catacombs [called] [Dungeonname]
+observatory [called] [Castlename]

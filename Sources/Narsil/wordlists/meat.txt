@@ -98,3 +98,13 @@ venison
 white pudding
 widgeon
 woodcock
+beef shin
+chicken hearts
+duck eggs
+ham bone
+lamb liver
+pork knuckle
+salt goose
+smoked ham
+suet
+wild boar

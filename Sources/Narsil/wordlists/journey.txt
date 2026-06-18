@@ -1,1 +1,3 @@
 [2|2|3|4|5|6|7|8|9|10|12|20|several|many|countless] [hours|hours|days|days|days|days|weeks] [through|across|over|past|around] [mood] [landscape] [and across a [mood] [waterfeature]:0.3] to a [place][ [placefeature]:0.1]
+[2|3|4|5|6|7|8|9|10|several] [hours|days|weeks] [beneath|beyond|along|through] [dispersion] [place] to [location]
+[several|many|countless] [hours|days] by [road|river|track|trail] to a [mood] [buildingtype] [near [place]:0.4]

@@ -14,3 +14,12 @@ mild
 peppery
 bitter
 light
+brackish
+cloudy
+fragrant
+glossy
+sharp
+smoky
+tangy
+unctuous
+velvety

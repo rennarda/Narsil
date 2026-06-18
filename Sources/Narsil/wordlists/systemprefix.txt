@@ -25,3 +25,13 @@ Quantum
 Rapid
 Steady-State
 Thermal
+Ansible
+Biometric
+Chronometric
+Cryogenic
+Entropic
+Holographic
+Magnetic
+Nanoscopic
+Orbital
+Synaptic

@@ -1,1 +1,6 @@
 a gang [called] [gangname]
+the [gangname] gang
+an offshoot of [gangname]
+a cybercult [called] [gangname]
+a smuggling crew [called] [gangname]
+a booster gang [called] [gangname]

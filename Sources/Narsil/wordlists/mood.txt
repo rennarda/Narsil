@@ -81,3 +81,11 @@ weird
 white
 wild
 [mood] & [mood]
+bleak
+gilded
+hollow
+moonless
+restless
+smoky
+starless
+twilit

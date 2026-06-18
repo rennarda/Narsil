@@ -15,3 +15,13 @@ toe
 foot
 tooth
 fang
+claw
+horn
+hoof
+knuckle
+palm
+rib
+scale
+snout
+thumb
+wing

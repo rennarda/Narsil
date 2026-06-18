@@ -13,3 +13,13 @@ biomods
 wetware
 cortical implants
 cyberdecks
+retinal projectors
+subdermal comms
+reflex boosters
+synthetic lungs
+voice modulators
+memory slots
+dermal plating
+neural shunts
+muscle grafts
+pain editors

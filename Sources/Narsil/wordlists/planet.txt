@@ -6,3 +6,9 @@
 [planetname]: a [cool|warm|hot] primordial world, [0.[8-9]g|1.[1-6]g], with a [tainted|poisonous|toxic|corrosive|breathable|thin] atmosphere, and signs of [primordial|primitive|simple|extinct] life
 [planetname]: a [hot|ferociously hot|violent] volcanic world 0.[4-9]g, with a [tainted|poisonous|toxic|corrosive|insidious] atmosphere
 [planetname]: a [hot|ferociously hot] venus like world, [0.[8-9]g|1.[1-6]g], with a [tainted|poisonous|toxic|corrosive|insidious] atmosphere [and signs of an extinct civilisation|and ancient ruins|and extinct life:0.3]
+[planetname]: a [cold|cool|temperate] ocean moon, 0.[2-9]g, with a [thin|breathable|tainted] atmosphere and [deep seas|ice covered islands|floating cities:0.3]
+[planetname]: a [cold|temperate|warm] jungle world, 1.[0-7]g, with a [breathable|thick|tainted] atmosphere, and [abundant|dangerous|complex] life
+[planetname]: a [cold|very cold] frozen gas giant moon, 0.[1-6]g, with a [trace|thin|toxic] atmosphere and subsurface oceans
+[planetname]: a [warm|hot] greenhouse world, [0.[7-9]g|1.[0-4]g], with a [thick|toxic|corrosive] atmosphere and violent storms
+[planetname]: a [cool|temperate] mining world, 0.[4-9]g, with a [thin|tainted|breathable] atmosphere and rich mineral deposits
+[planetname]: a [cold|warm|temperate] colony world, 1.[0-6]g, with a [breathable|tainted|thin] atmosphere and scattered settlements
