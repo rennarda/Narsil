@@ -1,0 +1,51 @@
+of [villagename]
+of the vill of [villagename]
+of [villagename] parish
+of the manor of [villagename]
+from [villagename]
+near [villagename]
+atte Brook
+atte Bridge
+atte Church
+atte Cross
+atte Ford
+atte Gate
+atte Green
+atte Hall
+atte Hill
+atte Mill
+atte Moor
+atte Stone
+atte Well
+atte Wood
+atte Ash
+atte Field
+atte Fen
+atte Heath
+atte Lane
+atte Marsh
+atte Meadow
+atte Orchard
+atte Pound
+atte Stonehouse
+atte Thorn
+atte Water
+by the Brook
+by the Bridge
+by the Church
+by the Cross
+by the Ford
+by the Gate
+by the Green
+by the Hill
+by the Mill
+by the Moor
+by the Well
+by the Wood
+under the Hill
+under the Wood
+over the Brook
+over the Bridge
+in the Field
+in the Lane
+in the Marsh

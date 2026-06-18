@@ -117,7 +117,7 @@ public struct MealName: Generatable {
 public struct HumanName: Generatable {
     public var patterns: [String] = []
     public var patternFileName: String = "humanname"
-    public var capitalisation = CapitalisationType.word
+    public var capitalisation = CapitalisationType.none
     public init(){}
 }
 

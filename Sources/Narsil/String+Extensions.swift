@@ -17,7 +17,7 @@ extension String {
     }
     
     func correctIndefiniteArticle() -> String {
-        let regEx = try! NSRegularExpression(pattern:"([aA])\\s[aeiou]", options: [])
+        let regEx = try! NSRegularExpression(pattern:"\\b([aA])\\s[aeiou]", options: [])
         guard let match = regEx.firstMatch(in: self, options: [], range: NSRange(startIndex..<endIndex, in: self))
         else { return self }
         let articleRange = match.range(at: 1)
