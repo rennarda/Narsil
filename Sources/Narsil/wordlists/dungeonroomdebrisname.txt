@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] ruin
+[dungeonroomnameadjective] wreck hall
+[dungeonroomnameadjective] fallen chamber

@@ -1,0 +1,11 @@
+Every sound returns a breath late.
+The darkness in one corner seems deeper than it should.
+The room is strangely warm at its centre.
+The smell of smoke fades whenever anyone speaks.
+The room feels watched whenever torchlight falters.
+Breath clouds only beside one wall.
+The far corner swallows every echo.
+The shadow of a crack moves when no one is looking.
+Water on the floor ripples against the slope.
+The air grows warmer near a blank stretch of wall.
+The [dungeonroomodditysubject] [dungeonroomodditybehaviour].

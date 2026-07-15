@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] fountain chamber
+[dungeonroomnameadjective] fountain hall
+[dungeonroomnameadjective] fountain vault

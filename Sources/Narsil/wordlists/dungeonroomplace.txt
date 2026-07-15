@@ -1,0 +1,13 @@
+hall
+chamber
+vault
+cell
+court
+gallery
+pit
+passage
+annex
+alcove
+ward
+sanctum
+depository

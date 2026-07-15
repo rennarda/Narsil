@@ -1,0 +1,10 @@
+iron
+brass
+bone
+lead
+leather
+glass
+wax
+wood
+silver
+stone

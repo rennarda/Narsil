@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] stair
+[dungeonroomnameadjective] staircase
+[dungeonroomnameadjective] descent

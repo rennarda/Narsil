@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] crevasse
+[dungeonroomnameadjective] rift chamber
+[dungeonroomnameadjective] chasm hall

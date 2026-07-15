@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] shrine
+[dungeonroomnameadjective] chapel
+[dungeonroomnameadjective] reliquary

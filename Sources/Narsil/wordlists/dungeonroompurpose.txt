@@ -1,0 +1,50 @@
+dungeon
+crypt
+barracks
+guardroom
+watch chamber
+prison cell
+burial vault
+ossuary
+archive
+scriptorium
+chapel
+shrine
+antechamber
+audience hall
+war room
+armoury
+storehouse
+strongroom
+treasury
+counting room
+feasting hall
+servants' hall
+furnace room
+slaughter room
+washroom
+cistern
+well room
+gatehouse
+guard post
+cellar
+wine vault
+smokehouse
+workshop
+forge
+laboratory
+infirmary
+kennels
+stable
+receiving room
+processional hall
+pilgrims' rest
+night chamber
+reliquary
+charnel house
+holding cell
+interrogation room
+mustering hall
+mess hall
+map room
+oracle chamber

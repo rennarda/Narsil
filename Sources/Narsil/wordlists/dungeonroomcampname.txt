@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] camp
+[dungeonroomnameadjective] bivouac
+[dungeonroomnameadjective] fire hall

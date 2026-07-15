@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] bridge hall
+[dungeonroomnameadjective] crossing
+[dungeonroomnameadjective] span

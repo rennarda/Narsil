@@ -1,0 +1,8 @@
+A [dungeonroomsubstance] handprint
+A ring of [dungeonroommaterial] dust
+A [dungeonroomcolour] wax seal
+A braid of hair
+A line of tiny teeth
+A [dungeonroommaterial] nail triangle
+A thumbprint in [dungeonroomsubstance]
+A [dungeonroomsubstance] arrow

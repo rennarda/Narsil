@@ -25,7 +25,7 @@ public extension Generatable {
             loadPatterns()
         }
         let pattern = patterns.randomElement()!
-        let phrase = PhraseGenerator.shared.expand(string: pattern)
+        let phrase = PhraseGenerator.expandShared(string: pattern)
             .components(separatedBy: .whitespacesAndNewlines)
             .filter { !$0.isEmpty }
             .joined(separator: " ")

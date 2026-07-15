@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] statue hall
+[dungeonroomnameadjective] idol chamber
+[dungeonroomnameadjective] memorial vault

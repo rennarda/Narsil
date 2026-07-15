@@ -1,0 +1,16 @@
+The [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] is [dungeonroomstatuecondition].
+A [dungeonroomstatuematerial] statue depicting the [dungeonroomstatuesubject] stands here, [dungeonroomstatuecondition].
+The [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] is [dungeonroomstatuecondition].
+A [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] watches from its plinth, [dungeonroomstatuecondition].
+The [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] has been left [dungeonroomstatuecondition].
+A [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] stands here, [dungeonroomstatuecondition].
+The [dungeonroomstatuematerial] statue portraying the [dungeonroomstatuesubject] is [dungeonroomstatuecondition].
+A [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] looms nearby, [dungeonroomstatuecondition].
+The [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] is [dungeonroomstatuecondition].
+A [dungeonroomstatuematerial] statue depicting the [dungeonroomstatuesubject] stands here, [dungeonroomstatuecondition].
+The [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] is [dungeonroomstatuecondition].
+A [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] watches from its plinth, [dungeonroomstatuecondition].
+The [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] has been left [dungeonroomstatuecondition].
+A [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] stands here, [dungeonroomstatuecondition].
+The [dungeonroomstatuematerial] statue portraying the [dungeonroomstatuesubject] is [dungeonroomstatuecondition].
+A [dungeonroomstatuematerial] statue of the [dungeonroomstatuesubject] looms nearby, [dungeonroomstatuecondition].

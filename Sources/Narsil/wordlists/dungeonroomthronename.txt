@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] throne room
+[dungeonroomnameadjective] audience hall
+[dungeonroomnameadjective] court

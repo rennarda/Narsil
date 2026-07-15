@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] armoury
+[dungeonroomnameadjective] arsenal
+[dungeonroomnameadjective] weapon vault

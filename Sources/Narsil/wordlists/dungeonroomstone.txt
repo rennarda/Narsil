@@ -1,0 +1,9 @@
+basalt
+granite
+limestone
+sandstone
+slate
+fieldstone
+greenstone
+black marble
+chalky stone

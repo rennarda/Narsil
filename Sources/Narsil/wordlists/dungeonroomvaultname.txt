@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] vault
+[dungeonroomnameadjective] strongroom
+[dungeonroomnameadjective] treasury

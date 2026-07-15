@@ -1,0 +1,12 @@
+bell
+key
+mirror
+bowl
+lantern
+coin
+cup
+glove
+bottle
+locket
+comb
+knife

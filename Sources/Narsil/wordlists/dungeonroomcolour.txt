@@ -1,0 +1,6 @@
+black
+ebon
+rusty
+ashen
+charcoal
+verdigris

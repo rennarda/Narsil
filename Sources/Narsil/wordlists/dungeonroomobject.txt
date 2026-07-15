@@ -1,0 +1,6 @@
+A [dungeonroomcontainer] contains [dungeonroomcontainercontents].
+A [dungeonroomobjectmaterial] [dungeonroomobjecttype] lies [dungeonroomobjectplacement].
+A [dungeonroomobjectmaterial] [dungeonroomobjecttype] lies [dungeonroomobjectplacement].
+A [objectcondition] [dungeonroomobjectmaterial] [dungeonroomobjecttype] lies [dungeonroomobjectplacement].
+A [objectcondition] [treasureobject] lies [dungeonroomobjectplacement].
+[dungeonroomobjectoddity]

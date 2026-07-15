@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] library
+[dungeonroomnameadjective] archive
+[dungeonroomnameadjective] scriptorium

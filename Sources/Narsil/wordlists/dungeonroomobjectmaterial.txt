@@ -1,0 +1,8 @@
+brass
+bone
+iron
+glass
+leather
+lead
+wax
+stone

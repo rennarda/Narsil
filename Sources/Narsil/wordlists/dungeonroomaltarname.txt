@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] altar chamber
+[dungeonroomnameadjective] sacrificial hall
+[dungeonroomnameadjective] black chapel

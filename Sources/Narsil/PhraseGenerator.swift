@@ -9,9 +9,16 @@ import Foundation
 
 public struct PhraseGenerator {
     public static var shared = PhraseGenerator()
+    private static let sharedLock = NSLock()
     private var words: Dictionary<String, [String]> = [:]
         
     public init(){}
+
+    static func expandShared(string: String) -> String {
+        sharedLock.lock()
+        defer { sharedLock.unlock() }
+        return shared.expand(string: string)
+    }
     
     mutating func substitute(for keyword: String) -> String {
         var activeKeyword = keyword

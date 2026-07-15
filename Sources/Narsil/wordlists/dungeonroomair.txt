@@ -1,0 +1,13 @@
+The air is close and wet.
+The air tastes of soot and rust.
+Dust-hazed air stings the throat.
+The air is cold, still, and hard to breathe.
+A stale warmth clings to the air.
+The room's air is dry enough to rasp in the lungs.
+The air hangs thick with damp grit.
+A chill settles in the lungs with every breath.
+The air is sour with old smoke.
+The room breathes out a slow, mineral cold.
+The air is [dungeonroomairquality].
+The air tastes of [dungeonroomscent] and [dungeonroomscent].
+The air carries [dungeonroomscent] from somewhere unseen.

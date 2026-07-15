@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] barracks
+[dungeonroomnameadjective] soldiers' hall
+[dungeonroomnameadjective] mustering room

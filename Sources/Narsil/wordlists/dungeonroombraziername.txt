@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] brazier hall
+[dungeonroomnameadjective] fire chamber
+[dungeonroomnameadjective] ash court

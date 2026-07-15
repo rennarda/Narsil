@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] cavern
+[dungeonroomnameadjective] grotto
+[dungeonroomnameadjective] underhall

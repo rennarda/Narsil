@@ -1,0 +1,12 @@
+Water ticks somewhere inside the wall.
+A distant chain scrapes across stone.
+Something small skitters behind the walls.
+Air sighs through unseen cracks.
+A slow drip echoes underfoot.
+Far-off masonry groans.
+A low wind moans along the ceiling.
+Grit shifts in the silence.
+An unseen pendulum gives a single dull knock.
+Somewhere below, water rushes through a narrow channel.
+Something [dungeonroomsoundverb] [dungeonroomsoundsource].
+A slow [dungeonroomsoundverb] comes [dungeonroomsoundsource].

@@ -1,0 +1,26 @@
+a single black tooth
+a braid of child's hair knotted with copper wire
+a pouch of [1-30] copper coins
+[1-8] [silver|gold] coins fused together by verdigris
+a stoppered vial of cloudy [green|black|amber] liquid
+a waxed paper packet of [1-4] [gemstone] chips
+a [treasurestate] [treasureobject]
+a [objectcondition] [treasureobject]
+a [metal] [treasureobject]
+a cracked [object]
+a [good] [treasureobject] of [magic] +[magicbonus]
+a small [treasureobject] bearing [rune|sigil]s
+a scroll sealed with [metal] wire containing a spell of [magic]
+a vial of [element] essence
+a bone die with [1-6] pips
+a string of [1-5] keys
+a wax plug impressed with a [rune|sigil]
+a tin of black incense
+a small idol of a [animal]
+a map of [dungeonname]
+a bag of damp sand
+a brass needle and a spool of red thread
+a sliver of [metal]
+a severed finger wearing a [jewellery]
+[treasure]
+[magicaltreasure]

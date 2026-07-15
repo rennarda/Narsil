@@ -1,0 +1,3 @@
+[dungeonroomnameadjective] colonnade
+[dungeonroomnameadjective] pillar hall
+[dungeonroomnameadjective] arcade

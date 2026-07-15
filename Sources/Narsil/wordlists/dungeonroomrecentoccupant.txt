@@ -1,0 +1,3 @@
+[dungeonroomrecentoccupantmonster]
+[dungeonroomrecentoccupanthumanoid]
+[dungeonroomrecentoccupanteldritch]

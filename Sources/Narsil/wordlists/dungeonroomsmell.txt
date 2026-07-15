@@ -1,0 +1,11 @@
+The room smells of wet stone and old ash.
+The room smells of mould, stagnant water, and cold iron.
+The room smells of damp wool, rotting wood, and soot.
+The room smells of brackish water and something animal.
+The room smells of burned tallow and ancient dust.
+The room smells of mildew, rust, and stale incense.
+The room smells of earth, blood, and extinguished flame.
+The room smells of old leather and rain-soaked timber.
+The room smells faintly of sour wine and lamp oil.
+The room smells of [dungeonroomscent] and [dungeonroomscent].
+A thread of [dungeonroomscent] lingers beneath the smell of [dungeonroomscent].
