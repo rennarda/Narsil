@@ -1,0 +1,4 @@
+[dungeonroomenvironmentaldanger]
+[dungeonroomtrapdanger]
+[dungeonroomtimeddanger]
+[dungeonroomcreaturedanger]

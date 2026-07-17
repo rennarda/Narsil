@@ -129,6 +129,7 @@ public struct DungeonRoomDescription: Equatable, Sendable {
     public let roomName: String
     public let atmosphere: String
     public let oddity: String
+    public let danger: String?
     public let occupants: String?
     public let exits: [String]
 
@@ -136,12 +137,14 @@ public struct DungeonRoomDescription: Equatable, Sendable {
         roomName: String,
         atmosphere: String,
         oddity: String,
+        danger: String? = nil,
         occupants: String? = nil,
         exits: [String] = []
     ) {
         self.roomName = roomName
         self.atmosphere = atmosphere
         self.oddity = oddity
+        self.danger = danger
         self.occupants = occupants
         self.exits = exits
     }
@@ -207,12 +210,20 @@ public struct DungeonRoomDetailsGenerator {
         } else {
             occupants = nil
         }
+        let danger: String?
+        if Int.random(in: 0..<3) == 0 {
+            var dangerGenerator = Generator(pattern: "dungeonroomdanger")
+            danger = dangerGenerator.generate()
+        } else {
+            danger = nil
+        }
         let exitDescriptions = exits.map { $0.description() }
 
         return DungeonRoomDescription(
             roomName: roomNameGenerator.generate(),
             atmosphere: atmosphere,
             oddity: oddity,
+            danger: danger,
             occupants: occupants,
             exits: exitDescriptions
         )

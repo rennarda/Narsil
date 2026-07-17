@@ -241,4 +241,44 @@ struct DungeonRoomDetailsTests {
             #expect(description.contains("[") == false)
         }
     }
+
+    @Test
+    func generatedDangersAreOptionalAndFullyExpanded() {
+        var generator = DungeonRoomDetailsGenerator()
+        var dangerCount = 0
+
+        for _ in 0..<120 {
+            guard let danger = generator.generate().danger else { continue }
+            dangerCount += 1
+            #expect(danger.isEmpty == false)
+            #expect(danger.contains("[") == false)
+        }
+
+        #expect(dangerCount > 0)
+        #expect(dangerCount < 120)
+    }
+
+    @Test
+    func creatureDangersUseExistingMonsterAndEldritchExpansions() {
+        var generator = Generator(pattern: "dungeonroomcreaturedanger")
+        generator.loadPatterns()
+
+        #expect(generator.patterns.contains { $0.contains("[monster]") })
+        #expect(generator.patterns.contains { $0.contains("[dungeonroomeldritch]") })
+
+        for _ in 0..<40 {
+            #expect(generator.generate().contains("[") == false)
+        }
+    }
+
+    @Test
+    func dungeonLevelNamesUseFullyExpandedLevelSpecificPatterns() {
+        var generator = DungeonLevelName()
+
+        for _ in 0..<40 {
+            let name = generator.generate()
+            #expect(name.isEmpty == false)
+            #expect(name.contains("[") == false)
+        }
+    }
 }

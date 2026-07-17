@@ -1,0 +1,16 @@
+A [mood] [dungeonroomdangercreature] lurks in [dungeonroomdangerhidingplace], waiting to [dungeonroomdangerattack].
+Something shaped like a [monster] watches from [dungeonroomdangerhidingplace], ready to [dungeonroomdangerattack].
+A [dungeonroomdangercreature] has claimed [dungeonroomdangertrigger]; it is [dungeonroomdangeractivity].
+A small pack of [dungeonroomdangercreatureplural] circles [dungeonroomdangerhidingplace], ready to [dungeonroomdangerattack].
+Eyes shine from [dungeonroomdangerhidingplace]; a [dungeonroomdangercreature] is [dungeonroomdangeractivity].
+The room belongs to a [dungeonroomdangercreature], which will [dungeonroomdangerattack].
+A wounded [dungeonroomdangercreature] is trapped behind [dungeonroomdangertrigger] and will [dungeonroomdangerattack].
+An unseen [dungeonroomdangercreature] follows anyone leaving the room, waiting to [dungeonroomdangerattack].
+A [mood] [monster] nests in [dungeonroomdangerhidingplace], ready to [dungeonroomdangerattack].
+Something large shifts beneath [dungeonroomdangertrigger]; a [dungeonroomdangercreature] is [dungeonroomdangeractivity].
+[dungeonroomeldritch] waits in [dungeonroomdangerhidingplace], ready to [dungeonroomdangerattack].
+The room belongs to [dungeonroomeldritch], which will [dungeonroomdangerattack].
+[dungeonroomeldritch] has curled around [dungeonroomdangertrigger] and is [dungeonroomdangeractivity].
+Something beneath [dungeonroomdangertrigger] imitates a [monster], waiting to [dungeonroomdangerattack].
+The sound of a [monster] comes from [dungeonroomdangerhidingplace]; it is [dungeonroomdangeractivity].
+[dungeonroomeldritch] follows anyone leaving the room, waiting to [dungeonroomdangerattack].

@@ -1,0 +1,10 @@
+A [mood] [dungeonroomdangermechanism] waits beneath [dungeonroomdangertrigger]; disturbing it [dungeonroomdangertrapoutcome].
+[dungeonroomdangertrigger] is linked to [dungeonroomdangermechanism]; a careless touch [dungeonroomdangertrapoutcome].
+The dust hides [dungeonroomdangermechanism] around [dungeonroomdangertrigger].
+Weight on [dungeonroomdangertrigger] [dungeonroomdangertrapoutcome].
+A rune above [dungeonroomdangertrigger] pulses when approached; it [dungeonroomdangertrapoutcome].
+[dungeonroomdangermechanism] has been packed with [dungeonroomsubstance]; a jolt [dungeonroomdangertrapoutcome].
+Someone has baited [dungeonroomdangertrigger] with [dungeonroomcontainercontents]; moving it [dungeonroomdangertrapoutcome].
+Fine wires run from [dungeonroomdangertrigger] to [dungeonroomdangermechanism].
+The floor around [dungeonroomdangertrigger] conceals [dungeonroomdangermechanism].
+A hidden latch behind [dungeonroomdangertrigger] arms [dungeonroomdangermechanism].

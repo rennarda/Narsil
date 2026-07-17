@@ -1,0 +1,10 @@
+Every [dungeonroomdangerinterval], [dungeonroomdangerfinale].
+A slow chant echoes from [dungeonroomdangertrigger]; when it ends, [dungeonroomdangerfinale].
+A sandglass drains into [dungeonroomdangertrigger]; when it empties, [dungeonroomdangerfinale].
+Water rises by a fingerwidth every [dungeonroomdangerinterval]; soon [dungeonroomdangerfinale].
+The shadows crawl toward [dungeonroomdangertrigger]; when they meet, [dungeonroomdangerfinale].
+Each breath makes [dungeonroomdangertrigger] glow brighter; at the next flash, [dungeonroomdangerfinale].
+A clockwork rhythm comes from [dungeonroomdangertrigger]; when it stops, [dungeonroomdangerfinale].
+The room grows colder with every step; before long, [dungeonroomdangerfinale].
+Something behind [dungeonroomdangertrigger] counts down in knocks; after the next [dungeonroomdangerinterval], [dungeonroomdangerfinale].
+A crack races through [dungeonroomdangertrigger]; when it reaches the far end, [dungeonroomdangerfinale].
