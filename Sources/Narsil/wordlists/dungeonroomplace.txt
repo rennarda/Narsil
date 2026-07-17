@@ -1,4 +1,5 @@
 hall
+hall
 chamber
 vault
 cell
@@ -11,3 +12,7 @@ alcove
 ward
 sanctum
 depository
+mine
+delve
+passages
+deep
